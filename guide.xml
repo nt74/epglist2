@@ -305,7 +305,7 @@
     <icon src="https://www.novasports.gr/wp-content/uploads/2021/08/LOGO-NOVASPORTS-ALT-4-V.svg"/>
     <url>http://www.novasports.gr</url>
   </channel>
-  <channel id="novasports5.gr">
+  <channel id="novasports5hd.gr">
     <display-name lang="gr">Novasports5HD</display-name>
     <icon src="https://www.novasports.gr/wp-content/uploads/2021/08/LOGO-NOVASPORTS-ALT-5-V.svg"/>
     <url>http://www.novasports.gr</url>
@@ -14576,19 +14576,19 @@
     <title lang="gr">Bundesliga Weekly</title>
     <sub-title lang="gr">Ανασκόπηση Αγωνιστικής</sub-title>
   </programme>
-  <programme start="20240425120000 +0300" stop="20240425140000 +0300" channel="novasports4.gr">
+  <programme start="20240425113000 +0300" stop="20240425133000 +0300" channel="novasports4.gr">
     <title lang="gr">Μονακό - Μακάμπι Τελ Αβίβ</title>
     <sub-title lang="gr">EuroLeague</sub-title>
   </programme>
-  <programme start="20240425140000 +0300" stop="20240425160000 +0300" channel="novasports4.gr">
+  <programme start="20240425133000 +0300" stop="20240425153000 +0300" channel="novasports4.gr">
     <title lang="gr">Μακάμπι Τελ Αβίβ - Μονακό</title>
     <sub-title lang="gr">EuroLeague</sub-title>
   </programme>
-  <programme start="20240425160000 +0300" stop="20240425180000 +0300" channel="novasports4.gr">
+  <programme start="20240425153000 +0300" stop="20240425175000 +0300" channel="novasports4.gr">
     <title lang="gr">Μονακό - Φενέρμπαχτσε</title>
     <sub-title lang="gr">EuroLeague: 1ος Αγώνας Πλέι Οφ</sub-title>
   </programme>
-  <programme start="20240425180000 +0300" stop="20240425200000 +0300" channel="novasports4.gr">
+  <programme start="20240425175000 +0300" stop="20240425200000 +0300" channel="novasports4.gr">
     <title lang="gr">Μπαρτσελόνα - Ολυμπιακός</title>
     <sub-title lang="gr">EuroLeague: 1ος Αγώνας Πλέι Οφ</sub-title>
   </programme>
@@ -14640,90 +14640,90 @@
     <title lang="gr">Παναθηναϊκός - Μακάμπι Τελ Αβίβ</title>
     <sub-title lang="gr">EuroLeague: 2ος Αγώνας Πλέι Οφ</sub-title>
   </programme>
-  <programme start="20240425120000 +0300" stop="20240425140000 +0300" channel="novasports5.gr">
+  <programme start="20240425120000 +0300" stop="20240425140000 +0300" channel="novasports5hd.gr">
     <title lang="gr">Παρί - Βενέτσια</title>
     <sub-title lang="gr">EuroCup</sub-title>
   </programme>
-  <programme start="20240425140000 +0300" stop="20240425160000 +0300" channel="novasports5.gr">
+  <programme start="20240425140000 +0300" stop="20240425160000 +0300" channel="novasports5hd.gr">
     <title lang="gr">Άρης - Μπουργκ</title>
     <sub-title lang="gr">EuroCup</sub-title>
   </programme>
-  <programme start="20240425160000 +0300" stop="20240425181500 +0300" channel="novasports5.gr">
+  <programme start="20240425160000 +0300" stop="20240425181500 +0300" channel="novasports5hd.gr">
     <title lang="gr">Γκραν Κανάρια - Μπεσίκτας</title>
     <sub-title lang="gr">EuroCup</sub-title>
   </programme>
-  <programme start="20240425181500 +0300" stop="20240425203000 +0300" channel="novasports5.gr">
+  <programme start="20240425181500 +0300" stop="20240425203000 +0300" channel="novasports5hd.gr">
     <title lang="gr">Μπεσίκτας - Μπουργκ</title>
     <sub-title lang="gr">EuroCup</sub-title>
   </programme>
-  <programme start="20240425203000 +0300" stop="20240425213000 +0300" channel="novasports5.gr">
+  <programme start="20240425203000 +0300" stop="20240425213000 +0300" channel="novasports5hd.gr">
     <title lang="gr">Schneider Electric Paris Marathon</title>
     <sub-title lang="gr">Στιγμιότυπα 2024</sub-title>
   </programme>
-  <programme start="20240425213000 +0300" stop="20240425220000 +0300" channel="novasports5.gr">
+  <programme start="20240425213000 +0300" stop="20240425220000 +0300" channel="novasports5hd.gr">
     <title lang="gr">EuroLeague Originals: Overseas</title>
     <sub-title lang="gr">Ντοκιμαντέρ - Επεισόδιο 1</sub-title>
   </programme>
-  <programme start="20240425220000 +0300" stop="20240425220000 +0300" channel="novasports5.gr">
+  <programme start="20240425220000 +0300" stop="20240425220000 +0300" channel="novasports5hd.gr">
     <title lang="gr">Γερμανία - Λετονία</title>
     <sub-title lang="gr">FIBA Παγκόσμιο Κύπελλο 2023</sub-title>
   </programme>
-  <programme start="20240425220000 +0300" stop="20240426000000 +0300" channel="novasports5.gr">
+  <programme start="20240425220000 +0300" stop="20240426000000 +0300" channel="novasports5hd.gr">
     <title lang="gr">Ρεάλ Μαδρίτης - Μπασκόνια (Ζ)</title>
     <sub-title lang="gr">EuroLeague: 2ος Αγώνας Πλέι Οφ</sub-title>
     <premiere/>
   </programme>
-  <programme start="20240426000000 +0300" stop="20240426060000 +0300" channel="novasports5.gr">
+  <programme start="20240426000000 +0300" stop="20240426060000 +0300" channel="novasports5hd.gr">
     <title lang="gr">Novasports5</title>
     <sub-title lang="gr">Ξανά κοντά σας στις 12:00</sub-title>
   </programme>
-  <programme start="20240426060000 +0300" stop="20240426120000 +0300" channel="novasports5.gr">
+  <programme start="20240426060000 +0300" stop="20240426120000 +0300" channel="novasports5hd.gr">
     <title lang="gr">Novasports5</title>
     <sub-title lang="gr">Ξανά κοντά σας στις 12:00</sub-title>
   </programme>
-  <programme start="20240426120000 +0300" stop="20240426135500 +0300" channel="novasports5.gr">
+  <programme start="20240426120000 +0300" stop="20240426135500 +0300" channel="novasports5hd.gr">
     <title lang="gr">Παρί - Μπανταλόνα</title>
     <sub-title lang="gr">EuroCup</sub-title>
   </programme>
-  <programme start="20240426135500 +0300" stop="20240426150000 +0300" channel="novasports5.gr">
+  <programme start="20240426135500 +0300" stop="20240426150000 +0300" channel="novasports5hd.gr">
     <title lang="gr">Αναντολού Εφές - Βίρτους Μπολόνια</title>
     <sub-title lang="gr">EuroLeague: Play-In Showdown</sub-title>
   </programme>
-  <programme start="20240426150000 +0300" stop="20240426153000 +0300" channel="novasports5.gr">
+  <programme start="20240426150000 +0300" stop="20240426153000 +0300" channel="novasports5hd.gr">
     <title lang="gr">ONE FC Weekly</title>
     <sub-title lang="gr">Μαγκαζίνο Πολεμικών Τεχνών</sub-title>
   </programme>
-  <programme start="20240426153000 +0300" stop="20240426160000 +0300" channel="novasports5.gr">
+  <programme start="20240426153000 +0300" stop="20240426160000 +0300" channel="novasports5hd.gr">
     <title lang="gr">ONE Friday Fights (Ζ)</title>
     <sub-title lang="gr">Διοργάνωση 2024</sub-title>
     <premiere/>
   </programme>
-  <programme start="20240426160000 +0300" stop="20240426173000 +0300" channel="novasports5.gr">
+  <programme start="20240426160000 +0300" stop="20240426173000 +0300" channel="novasports5hd.gr">
     <title lang="gr">Μπασκόνια - Βίρτους Μπολόνια</title>
     <sub-title lang="gr">EuroLeague: Play-In Showdown</sub-title>
   </programme>
-  <programme start="20240426173000 +0300" stop="20240426180000 +0300" channel="novasports5.gr">
+  <programme start="20240426173000 +0300" stop="20240426180000 +0300" channel="novasports5hd.gr">
     <title lang="gr">Ο Κόσμος του Μποξ</title>
     <sub-title lang="gr">Μαγκαζίνo</sub-title>
   </programme>
-  <programme start="20240426180000 +0300" stop="20240426200000 +0300" channel="novasports5.gr">
+  <programme start="20240426180000 +0300" stop="20240426200000 +0300" channel="novasports5hd.gr">
     <title lang="gr">Παρί - Λόντον Λάιονς</title>
     <sub-title lang="gr">EuroCup</sub-title>
   </programme>
-  <programme start="20240426200000 +0300" stop="20240426210000 +0300" channel="novasports5.gr">
+  <programme start="20240426200000 +0300" stop="20240426210000 +0300" channel="novasports5hd.gr">
     <title lang="gr">SailGP</title>
     <sub-title lang="gr">Στιγμιότυπα 2024, Νέα Ζηλανδία</sub-title>
   </programme>
-  <programme start="20240426210000 +0300" stop="20240426213000 +0300" channel="novasports5.gr">
+  <programme start="20240426210000 +0300" stop="20240426213000 +0300" channel="novasports5hd.gr">
     <title lang="gr">Ο Κόσμος της Ιστιοπλοϊας</title>
     <sub-title lang="gr">Μαγκαζίνο 2024</sub-title>
   </programme>
-  <programme start="20240426213000 +0300" stop="20240426233000 +0300" channel="novasports5.gr">
+  <programme start="20240426213000 +0300" stop="20240426233000 +0300" channel="novasports5hd.gr">
     <title lang="gr">Βενέτσια - Κρεμονέζε (Ζ)</title>
     <sub-title lang="gr">Ιταλικό Πρωτάθλημα Β' Κατηγορίας</sub-title>
     <premiere/>
   </programme>
-  <programme start="20240426233000 +0300" stop="20240427013000 +0300" channel="novasports5.gr">
+  <programme start="20240426233000 +0300" stop="20240427013000 +0300" channel="novasports5hd.gr">
     <title lang="gr">Ρεάλ Μαδρίτης - Μπασκόνια</title>
     <sub-title lang="gr">Euroleague: 2ος Αγώνας Πλέι Οφ</sub-title>
   </programme>
