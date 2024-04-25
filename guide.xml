@@ -14611,19 +14611,19 @@
     <title lang="gr">Novasports4</title>
     <sub-title lang="gr">Ξανά κοντά σας στις 12:00</sub-title>
   </programme>
-  <programme start="20240426060000 +0300" stop="20240426120000 +0300" channel="novasports4.gr">
+  <programme start="20240426060000 +0300" stop="20240426114500 +0300" channel="novasports4.gr">
     <title lang="gr">Novasports4</title>
-    <sub-title lang="gr">Ξανά κοντά σας στις 12:00</sub-title>
+    <sub-title lang="gr">Ξανά κοντά σας στις 11:45</sub-title>
   </programme>
-  <programme start="20240426120000 +0300" stop="20240426140000 +0300" channel="novasports4.gr">
+  <programme start="20240426114500 +0300" stop="20240426134500 +0300" channel="novasports4.gr">
     <title lang="gr">Ρεάλ Μαδρίτης - Βίρτους Μπολόνια</title>
     <sub-title lang="gr">EuroLeague</sub-title>
   </programme>
-  <programme start="20240426140000 +0300" stop="20240426154500 +0300" channel="novasports4.gr">
+  <programme start="20240426134500 +0300" stop="20240426153000 +0300" channel="novasports4.gr">
     <title lang="gr">Βίρτους Μπολόνια - Ρεάλ Μαδρίτης</title>
     <sub-title lang="gr">EuroLeague</sub-title>
   </programme>
-  <programme start="20240426154500 +0300" stop="20240426174500 +0300" channel="novasports4.gr">
+  <programme start="20240426153000 +0300" stop="20240426174500 +0300" channel="novasports4.gr">
     <title lang="gr">Μπαρτσελόνα - Ολυμπιακός</title>
     <sub-title lang="gr">EuroLeague: 1ος Αγώνας Πλέι Οφ</sub-title>
   </programme>
