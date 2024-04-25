@@ -355,6 +355,71 @@
     <icon src="https://adma.tmsimg.com/assets/assets/s42642_h3_ba.png?w=360&amp;h=270"/>
     <url>http://www.flixed.io</url>
   </channel>
+  <channel id="sportklub1.rs">
+    <display-name lang="sr">SK 1 HD (SR)</display-name>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/02/26/sk1hd_logo_16_9_light_160x90_0e2f3e64_327f_4e23_bdc0_1109dec1113a.png"/>
+    <url>http://www.sportklub.rs</url>
+  </channel>
+  <channel id="sportklub2.rs">
+    <display-name lang="sr">SK 2 HD (SR)</display-name>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/02/52/sk2hd_logo_16_9_light_160x90_b8e00d92_1743_4d96_b9e2_73e09c30fdd2.png"/>
+    <url>http://www.sportklub.rs</url>
+  </channel>
+  <channel id="sportklub3.rs">
+    <display-name lang="sr">SK 3 HD (SR)</display-name>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/03/09/sk3hd_logo_16_9_light_160x90_3c16cfd0_678e_485b_99ac_db8f12716810.png"/>
+    <url>http://www.sportklub.rs</url>
+  </channel>
+  <channel id="sportklub4.rs">
+    <display-name lang="sr">SK 4 HD (SR)</display-name>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2020/08/25/01/23/42/s_light_480x270.png"/>
+    <url>http://www.sportklub.rs</url>
+  </channel>
+  <channel id="sportklub5.rs">
+    <display-name lang="sr">SK 5 (SR)</display-name>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/03/34/sk5_logo_16_9_light_160x90_4f6c82f4_bf2c_49dd_9d6f_6db3fc710abd.png"/>
+    <url>http://www.sportklub.rs</url>
+  </channel>
+  <channel id="sportklub6.rs">
+    <display-name lang="sr">SK 6 (SR)</display-name>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/03/46/sk6_logo_16_9_light_160x90_fd7d822d_6e9a_48ff_998a_54885e3be98c.png"/>
+    <url>http://www.sportklub.rs</url>
+  </channel>
+  <channel id="arenasport1.rs">
+    <display-name lang="bs">Sport 1</display-name>
+    <icon src="https://www.tvarenasport.com/files/img/icons/chanel-01.png"/>
+    <url>http://www.tvarenasport.com</url>
+  </channel>
+  <channel id="arenasport2.rs">
+    <display-name lang="bs">Sport 2</display-name>
+    <icon src="https://www.tvarenasport.com/files/img/icons/chanel-02.png"/>
+    <url>http://www.tvarenasport.com</url>
+  </channel>
+  <channel id="arenasport3.rs">
+    <display-name lang="bs">Sport 3</display-name>
+    <icon src="https://www.tvarenasport.com/files/img/icons/chanel-03.png"/>
+    <url>http://www.tvarenasport.com</url>
+  </channel>
+  <channel id="arenasport4.rs">
+    <display-name lang="bs">Sport 4</display-name>
+    <icon src="https://www.tvarenasport.com/files/img/icons/chanel-04.png"/>
+    <url>http://www.tvarenasport.com</url>
+  </channel>
+  <channel id="arenasport5.rs">
+    <display-name lang="bs">Sport 5</display-name>
+    <icon src="https://www.tvarenasport.com/files/img/icons/chanel-05.png"/>
+    <url>http://www.tvarenasport.com</url>
+  </channel>
+  <channel id="arenasport6.rs">
+    <display-name lang="bs">Sport 6</display-name>
+    <icon src="https://www.tvarenasport.com/files/img/icons/chanel-06.png"/>
+    <url>http://www.tvarenasport.com</url>
+  </channel>
+  <channel id="arenasport7.rs">
+    <display-name lang="bs">Sport 7</display-name>
+    <icon src="https://www.tvarenasport.com/files/img/icons/chanel-07.png"/>
+    <url>http://www.tvarenasport.com</url>
+  </channel>
   <programme start="20240425040000 +0000" stop="20240425080000 +0000" channel="svt1.se">
     <title lang="sv">Morgonstudion</title>
     <desc lang="sv">Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur, nöje och lokala nyheter. Dessutom intervjuer med aktuella gäster.</desc>
@@ -1777,7 +1842,7 @@
     <category lang="sv">Series</category>
     <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/519950.jpg"/>
   </programme>
-  <programme start="20240426230500 +0000" stop="20240427010500 +0000" channel="tv4.se">
+  <programme start="20240426230500 +0000" stop="20240427005500 +0000" channel="tv4.se">
     <title lang="sv">Legally blonde 2</title>
     <desc lang="sv">Advokaten Elle vill bjuda in sin hunds, Bruise, mamma till sitt bröllop med fästman Emmett. Hon anlitar en detektiv för uppdraget som lyckas få fram att Brusies mamma finns på ett laboratorium där man utför djurförsök.</desc>
     <category lang="sv">Program</category>
@@ -5292,17 +5357,10 @@
     <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/645678.jpg"/>
     <episode-num system="onscreen">S4 E17</episode-num>
   </programme>
-  <programme start="20240426022000 +0000" stop="20240426030000 +0000" channel="svtb.se">
+  <programme start="20240426022000 +0000" stop="20240426032500 +0000" channel="svtb.se">
     <title lang="sv">Inget program</title>
     <desc lang="sv">Inget program.</desc>
     <category lang="sv">Children</category>
-  </programme>
-  <programme start="20240426030000 +0000" stop="20240426032500 +0000" channel="svtb.se">
-    <title lang="sv">I drömmarnas trädgård</title>
-    <desc lang="sv">Vi möter Daisy, Igglepiggle, Makka Pakka och några till. De bor i en vacker trädgård och är med om många upptäckter och äventyr.</desc>
-    <category lang="sv">Children</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/387521.jpg"/>
-    <episode-num system="onscreen">S1 E11</episode-num>
   </programme>
   <programme start="20240426032500 +0000" stop="20240426034000 +0000" channel="svtb.se">
     <title lang="sv">Lilla prinsessan</title>
@@ -6401,18 +6459,12 @@
     <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/652859.jpg"/>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20240425232000 +0000" stop="20240426002000 +0000" channel="svt24.se">
+  <programme start="20240425232000 +0000" stop="20240426020000 +0000" channel="svt24.se">
     <title lang="sv">Smärtpunkten</title>
     <desc lang="sv">Teaterproducenten Isa Stenberg och dramatikern Lars Norén får möjlighet att arbeta med tre intagna på en högsäkerhetsanstalt. Isa och Lars vet att fångarna är rymningsbenägna och har risk att återfalla i brottslighet.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/652224.jpg"/>
     <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20240426002000 +0000" stop="20240426020000 +0000" channel="svt24.se">
-    <title lang="sv">Inget program</title>
-    <desc lang="sv">Inget program.</desc>
-    <category lang="sv">Program</category>
-    <category lang="sv">Series</category>
   </programme>
   <programme start="20240426020000 +0000" stop="20240426021000 +0000" channel="svt24.se">
     <title lang="sv">Tjejer</title>
@@ -6435,17 +6487,10 @@
     <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/645678.jpg"/>
     <episode-num system="onscreen">S4 E17</episode-num>
   </programme>
-  <programme start="20240426022000 +0000" stop="20240426030000 +0000" channel="svt24.se">
+  <programme start="20240426022000 +0000" stop="20240426032500 +0000" channel="svt24.se">
     <title lang="sv">Inget program</title>
     <desc lang="sv">Inget program.</desc>
     <category lang="sv">Children</category>
-  </programme>
-  <programme start="20240426030000 +0000" stop="20240426032500 +0000" channel="svt24.se">
-    <title lang="sv">I drömmarnas trädgård</title>
-    <desc lang="sv">Vi möter Daisy, Igglepiggle, Makka Pakka och några till. De bor i en vacker trädgård och är med om många upptäckter och äventyr.</desc>
-    <category lang="sv">Children</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/387521.jpg"/>
-    <episode-num system="onscreen">S1 E11</episode-num>
   </programme>
   <programme start="20240426032500 +0000" stop="20240426034000 +0000" channel="svt24.se">
     <title lang="sv">Lilla prinsessan</title>
@@ -6984,15 +7029,11 @@
     <desc lang="sv">Inget program.</desc>
     <category lang="sv">Sport</category>
   </programme>
-  <programme start="20240425040000 +0000" stop="20240425070000 +0000" channel="tv4sportkanalen.se">
-    <title lang="sv">Inget program</title>
-    <desc lang="sv">Inget program.</desc>
-    <category lang="sv">Other</category>
-  </programme>
-  <programme start="20240425070000 +0000" stop="20240425100000 +0000" channel="tv4sportkanalen.se">
-    <title lang="sv">Inget program</title>
-    <desc lang="sv">Inget program.</desc>
-    <category lang="sv">Other</category>
+  <programme start="20240425035500 +0000" stop="20240425100000 +0000" channel="tv4sportkanalen.se">
+    <title lang="sv">Höjdpunkter</title>
+    <desc lang="sv">De senaste höjdpunkterna från bland annat SHL, HockeyAllsvenskan, UEFA Champions League, NBA, La Liga och mycket mer.</desc>
+    <category lang="sv">Sport</category>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/653923.jpg"/>
   </programme>
   <programme start="20240425100000 +0000" stop="20240425103000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Drömmen om Kia fjällmaraton</title>
@@ -7126,30 +7167,25 @@
     <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/633686.jpg"/>
     <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
-  <programme start="20240425230000 +0000" stop="20240425233000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20240425230000 +0000" stop="20240425232000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Mitt liv som skidskytt: På hemmaplan</title>
     <desc lang="sv">Det svenska landslaget är hemma i Östersund. Där blir det hård träning med fysiska tester och även lite tid för återhämtning. Sjukdomar väcker en viss oro inom laget.</desc>
     <category lang="sv">Sport</category>
     <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/584676.jpg"/>
     <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
-  <programme start="20240425233000 +0000" stop="20240426020000 +0000" channel="tv4sportkanalen.se">
-    <title lang="sv">Inget program</title>
-    <desc lang="sv">Inget program.</desc>
+  <programme start="20240425232000 +0000" stop="20240426020000 +0000" channel="tv4sportkanalen.se">
+    <title lang="sv">Höjdpunkter</title>
+    <desc lang="sv">De senaste höjdpunkterna från bland annat SHL, HockeyAllsvenskan, UEFA Champions League, NBA, La Liga och mycket mer.</desc>
     <category lang="sv">Sport</category>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/653923.jpg"/>
   </programme>
-  <programme start="20240426020000 +0000" stop="20240426043000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20240426020000 +0000" stop="20240426100000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">NBA: Playoff LA Lakers - Denver</title>
     <desc lang="sv">Basket från Staples Center där L.A. Lakers ställs mot Denver Nuggets i NBA-slutspelets första runda. Match tre i bäst av sju. Engelsk kommentering.</desc>
     <category lang="sv">Sport</category>
     <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/564850.jpg"/>
     <episode-num system="onscreen">E188</episode-num>
-  </programme>
-  <programme start="20240426043000 +0000" stop="20240426100000 +0000" channel="tv4sportkanalen.se">
-    <title lang="sv">Höjdpunkter</title>
-    <desc lang="sv">De senaste höjdpunkterna från bland annat SHL, HockeyAllsvenskan, UEFA Champions League, NBA, La Liga och mycket mer.</desc>
-    <category lang="sv">Sport</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/653923.jpg"/>
   </programme>
   <programme start="20240426100000 +0000" stop="20240426103000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">La Liga World</title>
@@ -7329,10 +7365,15 @@
     <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/647109.jpg"/>
     <episode-num system="onscreen">E53</episode-num>
   </programme>
-  <programme start="20240426010600 +0000" stop="20240426050000 +0000" channel="tv4hockey.se">
+  <programme start="20240426010600 +0000" stop="20240426040000 +0000" channel="tv4hockey.se">
     <title lang="sv">Inget program</title>
     <desc lang="sv">Inget program.</desc>
     <category lang="sv">Sport</category>
+  </programme>
+  <programme start="20240426040000 +0000" stop="20240426050000 +0000" channel="tv4hockey.se">
+    <title lang="sv">Inget program</title>
+    <desc lang="sv">Inget program.</desc>
+    <category lang="sv">Other</category>
   </programme>
   <programme start="20240426050000 +0000" stop="20240426080000 +0000" channel="tv4hockey.se">
     <title lang="sv">Djurgården - Brynäs Hockeyallsvenskan slutspel</title>
@@ -7348,54 +7389,54 @@
     <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/647645.jpg"/>
     <episode-num system="onscreen">E46</episode-num>
   </programme>
-  <programme start="20240426110000 +0000" stop="20240426140000 +0000" channel="tv4hockey.se">
+  <programme start="20240426110000 +0000" stop="20240426131500 +0000" channel="tv4hockey.se">
     <title lang="sv">Skellefteå - Frölunda SM-slutspel</title>
     <desc lang="sv">Kommentatorer: Johan Edlund och Sanny Lindström.</desc>
     <category lang="sv">Sport</category>
     <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/647645.jpg"/>
     <episode-num system="onscreen">E48</episode-num>
   </programme>
-  <programme start="20240426140000 +0000" stop="20240426170000 +0000" channel="tv4hockey.se">
+  <programme start="20240426131500 +0000" stop="20240426134500 +0000" channel="tv4hockey.se">
+    <title lang="sv">Wikegård vs Leo Komarov</title>
+    <desc lang="sv">Wikegård besöker den välmeriterade Luleå-stjärnan Leo Komarov, som vunnit både OS och VM. Han förklarar fördelen med konståkningsskridskor och varför han är rädd för att bli alltför snäll.</desc>
+    <category lang="sv">Sport</category>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/342925.jpg"/>
+    <episode-num system="onscreen">S9 E4</episode-num>
+  </programme>
+  <programme start="20240426134500 +0000" stop="20240426141500 +0000" channel="tv4hockey.se">
+    <title lang="sv">Wikegård vs Tommy Samuelsson</title>
+    <desc lang="sv">Wikegård möter HV71-tränaren Tommy Samuelsson.</desc>
+    <category lang="sv">Sport</category>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/342925.jpg"/>
+    <episode-num system="onscreen">S9 E3</episode-num>
+  </programme>
+  <programme start="20240426141500 +0000" stop="20240426150000 +0000" channel="tv4hockey.se">
+    <title lang="sv">Wikegård vs Kent Nilsson</title>
+    <desc lang="sv">Wikegård träffar Kent Nilsson - som Wayne Gretzky utnämnt till den mest talangfulle han någonsin har spelat med. Det blir ett samtal om klassiska mål, den förbjudna flytten och Stanley Cup.</desc>
+    <category lang="sv">Sport</category>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/609886.jpg"/>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20240426150000 +0000" stop="20240426183000 +0000" channel="tv4hockey.se">
+    <title lang="sv">Liiga playoffs: Pelicans - Tappara</title>
+    <desc lang="sv">Liiga playoffs: Pelicans - Tappara.</desc>
+    <category lang="sv">Sport</category>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/652782.jpg"/>
+    <episode-num system="onscreen">E19</episode-num>
+  </programme>
+  <programme start="20240426183000 +0000" stop="20240426220000 +0000" channel="tv4hockey.se">
+    <title lang="sv">Liiga playoffs: Pelicans - Tappara</title>
+    <desc lang="sv">Liiga playoffs: Pelicans - Tappara.</desc>
+    <category lang="sv">Sport</category>
+    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/652782.jpg"/>
+    <episode-num system="onscreen">E19</episode-num>
+  </programme>
+  <programme start="20240426220000 +0000" stop="20240427003000 +0000" channel="tv4hockey.se">
     <title lang="sv">Djurgården - Brynäs Hockeyallsvenskan slutspel</title>
     <desc lang="sv">Kommentatorer: Stefan Klemetz och Johan Tornberg.</desc>
     <category lang="sv">Sport</category>
     <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/647109.jpg"/>
     <episode-num system="onscreen">E53</episode-num>
-  </programme>
-  <programme start="20240426170000 +0000" stop="20240426172500 +0000" channel="tv4hockey.se">
-    <title lang="sv">Hockeyallsvenskan slutspel: studio</title>
-    <desc lang="sv">Studiosändningar från slutspelet i HockeyAllsvenskan.</desc>
-    <category lang="sv">Sport</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/647621.jpg"/>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20240426172500 +0000" stop="20240426194500 +0000" channel="tv4hockey.se">
-    <title lang="sv">Brynäs - Djurgården Hockeyallsvenskan slutspel</title>
-    <desc lang="sv">Brynäs - Djurgården Hockeyallsvenskan slutspel.</desc>
-    <category lang="sv">Sport</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/647109.jpg"/>
-    <episode-num system="onscreen">E54</episode-num>
-  </programme>
-  <programme start="20240426194500 +0000" stop="20240426201500 +0000" channel="tv4hockey.se">
-    <title lang="sv">Hockeyallsvenskan slutspel: studio</title>
-    <desc lang="sv">Studiosändningar från slutspelet i HockeyAllsvenskan.</desc>
-    <category lang="sv">Sport</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/647621.jpg"/>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20240426201500 +0000" stop="20240426230000 +0000" channel="tv4hockey.se">
-    <title lang="sv">Brynäs - Djurgården Hockeyallsvenskan slutspel</title>
-    <desc lang="sv">Brynäs - Djurgården Hockeyallsvenskan slutspel.</desc>
-    <category lang="sv">Sport</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/647109.jpg"/>
-    <episode-num system="onscreen">E54</episode-num>
-  </programme>
-  <programme start="20240426230000 +0000" stop="20240427013000 +0000" channel="tv4hockey.se">
-    <title lang="sv">Skellefteå - Frölunda SM-slutspel</title>
-    <desc lang="sv">Kommentatorer: Johan Edlund och Sanny Lindström.</desc>
-    <category lang="sv">Sport</category>
-    <icon src="https://cd-static.telenorcdn.net/cdepg/img/epg/1080/607/647645.jpg"/>
-    <episode-num system="onscreen">E44</episode-num>
   </programme>
   <programme start="20240425040000 +0000" stop="20240425050000 +0000" channel="tv4fotboll.se">
     <title lang="sv">Inget program</title>
@@ -14727,12 +14768,20 @@
     <title lang="gr">Ρεάλ Μαδρίτης - Μπασκόνια</title>
     <sub-title lang="gr">Euroleague: 2ος Αγώνας Πλέι Οφ</sub-title>
   </programme>
-  <programme start="20240425120000 +0300" stop="20240425133000 +0300" channel="novasports6.gr">
+  <programme start="20240425120000 +0300" stop="20240425134500 +0300" channel="novasports6.gr">
     <title lang="gr">Τένις: WTA 1000 2024 (Ζ)</title>
     <sub-title lang="gr">Φάση των 64: Βέκιτς - Σάκκαρη</sub-title>
     <premiere/>
   </programme>
-  <programme start="20240425133000 +0300" stop="20240425180000 +0300" channel="novasports6.gr">
+  <programme start="20240425134500 +0300" stop="20240425141500 +0300" channel="novasports6.gr">
+    <title lang="gr">Ο Κόσμος των Freesports</title>
+    <sub-title lang="gr">Αθλητικό Μαγκαζίνο</sub-title>
+  </programme>
+  <programme start="20240425141500 +0300" stop="20240425144500 +0300" channel="novasports6.gr">
+    <title lang="gr">Στιγμιότυπα Ράλι</title>
+    <sub-title lang="gr">BP Ultimate Rally-Raid 2024</sub-title>
+  </programme>
+  <programme start="20240425144500 +0300" stop="20240425180000 +0300" channel="novasports6.gr">
     <title lang="gr">Τένις: WTA 1000 2024 (Ζ)</title>
     <sub-title lang="gr">Μαδρίτη, Φάση των 64</sub-title>
     <premiere/>
@@ -19289,5 +19338,1700 @@
     <category lang="en">Playoff sports</category>
     <category lang="en">Hockey</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p26941846_tb2_h9_aa.jpg?w=360&amp;h=270"/>
+  </programme>
+  <programme start="20240425213000 +0000" stop="20240425232000 +0000" channel="sportklub1.rs">
+    <title lang="sr">Košarka - Euroleague: Playoffs (G2): Panathinaikos - Maccabi</title>
+    <desc lang="sr">Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/06/15/13/38/58/stb_xl_0bd6e6a0e0fc9685d8fa9028375b577faa5eccc6_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240425232000 +0000" stop="20240426005500 +0000" channel="sportklub1.rs">
+    <title lang="sr">SK dokumentarac</title>
+    <desc lang="sr">Pogledajte dokumentarne filmove koji se bave neispričanim sportskim pričama, izvanrednim sportistima i trenerima. Otkrijte drugu stranu njihove medalje.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/22/17/18/46/stb_xl_cbebc676905acf21a4be75281df12678f002daae_60576d23e503901df7211f27d61696f8.jpg"/>
+  </programme>
+  <programme start="20240426005500 +0000" stop="20240426020000 +0000" channel="sportklub1.rs">
+    <title lang="sr">Sport kakav pamtimo: Gavrilo Pajović</title>
+    <desc lang="sr">Česta fraza koju sada čujemo je "U moje vreme je sve bilo bolje..." Pogledajte kakav je nekada bio sport i ovo je idealna šansa za mlade da vide da li je nekada zaista bilo bolje...</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/07/14/12/51/29/stb_xl_ea57ce9a133928bab964dbe3a482a66bc89b8e4d.jpg"/>
+  </programme>
+  <programme start="20240426020000 +0000" stop="20240426040000 +0000" channel="sportklub1.rs">
+    <title lang="sr">Profi boks: York Hall (Bourke - Lane)</title>
+    <desc lang="sr">Roki Marčano, Majk Tajson, Šugar Rej Robinson, Muhamed Ali, Džo Luis. Treba li još koji razlog više da bi pratili ovu plemenitu borilačku veštinu? Prve tragove boksa nalazimo već u trećem veku pre...</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/04/13/09/30/27/stb_xl_9fa54b2a9f6873c912d226a04b52b5749aacc788_fd51f68dab35bb356d0cbb7e6b2aa499.jpg"/>
+  </programme>
+  <programme start="20240426040000 +0000" stop="20240426041500 +0000" channel="sportklub1.rs">
+    <title lang="sr">Galerija slavnih &amp; SK Moments</title>
+    <desc lang="sr">Galerija slavnih &amp; SK Moments.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/22/17/18/46/stb_xl_cbebc676905acf21a4be75281df12678f002daae_60576d23e503901df7211f27d61696f8.jpg"/>
+  </programme>
+  <programme start="20240426041500 +0000" stop="20240426060000 +0000" channel="sportklub1.rs">
+    <title lang="sr">Fudbal - Švedska liga: Djurgarden - Malmo</title>
+    <desc lang="sr">Jedno od najneizvesnijih prvenstava u Evropi. Malme je blagi favorit ali klubovi iz Stokholma želeće da iskoriste to što rivali imaju dodatne napore u Evropi.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/03/31/16/23/50/stb_xl_ef876956ab7628b661c4dab384ae33b98cc6678f_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240426060000 +0000" stop="20240426063000 +0000" channel="sportklub1.rs">
+    <title lang="sr">Soccer Bet SK VESTI</title>
+    <desc lang="sr">Sve najvažnije sportske vesti, zanimljivi prilozi i najave predstojećih događaja. Svakodnevni, polučasovni pregled događaja iz sveta sporta samo uz SK Vesti.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/07/20/10/14/58/stb_xl_soccer_sk_vesti_2600x1463.jpg"/>
+  </programme>
+  <programme start="20240426063000 +0000" stop="20240426064500 +0000" channel="sportklub1.rs">
+    <title lang="sr">Pregled španske košarke</title>
+    <desc lang="sr">Donosimo pregled mečeva i klipove najboljih trenutaka iz Endese, najjače košarkaške lige Španije.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/09/25/14/48/31/stb_xl_c7747a41643a8dc2b3b048a2435f12d890be8755_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240426064500 +0000" stop="20240426083000 +0000" channel="sportklub1.rs">
+    <title lang="sr">Chelsea TV: Arsenal - Chelsea (PL)</title>
+    <desc lang="sr">Čelzi TV vas vodi kroz sve zanimljivosti sa Stamford Bridža, uživajte u svim utakmicama ovog engleskog velikana bogate prošlosti.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/04/27/12/18/42/stb_xl_d56000d129b2d63bed685609ef401e210b82e9cd_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
+  </programme>
+  <programme start="20240426083000 +0000" stop="20240426090000 +0000" channel="sportklub1.rs">
+    <title lang="sr">Magazin Bundeslige</title>
+    <desc lang="sr">Pratite sportski magazin posvećen Bundesligi te saznajte sve o utakmicama, rezultatima i novim pojačanjima u najboljim nemačkim fudbalskim klubovima.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/02/14/06/56/stb_xl_cdea72dbac3ad3552dada60326352c9c89ceea45_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240426090000 +0000" stop="20240426181500 +0000" channel="sportklub1.rs">
+    <title lang="sr">Tenis: ATP Masters &amp; WTA 1000 Madrid</title>
+    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/02/23/13/48/34/stb_xl_e18ba6ec76eda0a649f152874c20296a46428862_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240426181500 +0000" stop="20240426185500 +0000" channel="sportklub1.rs">
+    <title lang="sr">Evroliga STUDIO</title>
+    <desc lang="sr">Ove sezone, Evroliga će biti neizvesnija i uzbudljivija nego ikad, a igraju i Zvezda i Partizan. Analiziramo svaki detalj svakog meča sa našim stručnjacima u studiju. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/08/16/00/32/38/stb_xl_12479cc015f44f67f6b748aa4d5212a03730da0a_6a68efdb4e02066bbe12c85c2411190d.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240426185500 +0000" stop="20240426210000 +0000" channel="sportklub1.rs">
+    <title lang="sr">Košarka - Euroleague: Playoffs (G2): Barcelona - Olympiacos</title>
+    <desc lang="sr">Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/06/15/13/38/58/stb_xl_0bd6e6a0e0fc9685d8fa9028375b577faa5eccc6_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240426210000 +0000" stop="20240426213000 +0000" channel="sportklub1.rs">
+    <title lang="sr">Soccer Bet SK VESTI</title>
+    <desc lang="sr">Sve najvažnije sportske vesti, zanimljivi prilozi i najave predstojećih događaja. Svakodnevni, polučasovni pregled događaja iz sveta sporta samo uz SK Vesti. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/07/20/15/36/20/stb_xl_6bc9a7be81b09172cbc17b1b67a40f2ddc58452a_5bfa6c5e0b08ee4a285ec497928a74aa.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240426213000 +0000" stop="20240426231000 +0000" channel="sportklub1.rs">
+    <title lang="sr">Košarka - Euroleague: Playoffs (G2): Monaco - Fenerbahce</title>
+    <desc lang="sr">Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/06/15/13/38/58/stb_xl_0bd6e6a0e0fc9685d8fa9028375b577faa5eccc6_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240426231000 +0000" stop="20240427000500 +0000" channel="sportklub1.rs">
+    <title lang="sr">SK dokumentarac</title>
+    <desc lang="sr">Pogledajte dokumentarne filmove koji se bave neispričanim sportskim pričama, izvanrednim sportistima i trenerima. Otkrijte drugu stranu njihove medalje.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/22/17/18/46/stb_xl_cbebc676905acf21a4be75281df12678f002daae_60576d23e503901df7211f27d61696f8.jpg"/>
+  </programme>
+  <programme start="20240425203000 +0000" stop="20240425221500 +0000" channel="sportklub2.rs">
+    <title lang="sr">Chelsea TV: Arsenal - Chelsea (PL)</title>
+    <desc lang="sr">Čelzi TV vas vodi kroz sve zanimljivosti sa Stamford Bridža, uživajte u svim utakmicama ovog engleskog velikana bogate prošlosti.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/04/27/12/18/42/stb_xl_d56000d129b2d63bed685609ef401e210b82e9cd_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
+  </programme>
+  <programme start="20240425221500 +0000" stop="20240426000000 +0000" channel="sportklub2.rs">
+    <title lang="sr">Košarka - Euroleague: Playoffs (G2): Real Madrid - Baskonia</title>
+    <desc lang="sr">Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/06/15/13/38/58/stb_xl_0bd6e6a0e0fc9685d8fa9028375b577faa5eccc6_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240426000000 +0000" stop="20240426014500 +0000" channel="sportklub2.rs">
+    <title lang="sr">Fudbal - Holandska liga: Heerenveen - PSV</title>
+    <desc lang="sr">Očekuje se trka Ajaksa i PSV-a za titulu. Može li Fejenord da im se priključi ili će AZ Alkmar napasti iz senke?</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/11/25/11/49/06/stb_xl_d27ab7f2cb1f03b7333d6a6087b9167aac9abc8b_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
+  </programme>
+  <programme start="20240426014500 +0000" stop="20240426033000 +0000" channel="sportklub2.rs">
+    <title lang="sr">Odbojka - Italijanska liga (M): Playoff - finale (G3): Perugia - Monza</title>
+    <desc lang="sr">Što je u košarci NBA, to je u odbojci italijanska liga. Svaki meč je spektakl, a mnogi vrednuju ovu titulu više od nekog evropskog trofeja.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/04/27/12/34/05/stb_xl_b1bb033f1943cf719775226ac47b938bb640091a_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
+  </programme>
+  <programme start="20240426033000 +0000" stop="20240426040000 +0000" channel="sportklub2.rs">
+    <title lang="sr">Magazin saudijske lige</title>
+    <desc lang="sr">Donosimo pregled mečeva saudijske fudbalske lige, najbolji golovi, potezi i analize.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/28/12/18/25/stb_xl_rsl_saudi_pro_league_general_2880x1620.jpg"/>
+  </programme>
+  <programme start="20240426040000 +0000" stop="20240426043000 +0000" channel="sportklub2.rs">
+    <title lang="sr">Magazin Bundeslige</title>
+    <desc lang="sr">Pratite sportski magazin posvećen Bundesligi te saznajte sve o utakmicama, rezultatima i novim pojačanjima u najboljim nemačkim fudbalskim klubovima.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/02/14/06/56/stb_xl_cdea72dbac3ad3552dada60326352c9c89ceea45_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240426043000 +0000" stop="20240426055000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Madrid: Lajović - Monteiro</title>
+    <desc lang="sr">Pratite prenos uzbudljivih teniskih mečeva s turnira Madrid Open, poznatog i kao Mutua Madrid Open. Ovaj teniski turnir za žene i muškarce održava se svake godine u glavnom gradu Španije.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240426055000 +0000" stop="20240426071500 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Madrid: Kovacevic - Medjedović</title>
+    <desc lang="sr">Pratite prenos uzbudljivih teniskih mečeva s turnira Madrid Open, poznatog i kao Mutua Madrid Open. Ovaj teniski turnir za žene i muškarce održava se svake godine u glavnom gradu Španije.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240426071500 +0000" stop="20240426090000 +0000" channel="sportklub2.rs">
+    <title lang="sr">Košarka - Euroleague: Playoffs (G2): Panathinaikos - Maccabi</title>
+    <desc lang="sr">Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/06/15/13/38/58/stb_xl_0bd6e6a0e0fc9685d8fa9028375b577faa5eccc6_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240426090000 +0000" stop="20240426213000 +0000" channel="sportklub2.rs">
+    <title lang="sr">Tenis: ATP Masters &amp; WTA 1000 Madrid</title>
+    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/02/23/13/48/34/stb_xl_e18ba6ec76eda0a649f152874c20296a46428862_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240426213000 +0000" stop="20240426220000 +0000" channel="sportklub2.rs">
+    <title lang="sr">Fast Zone</title>
+    <desc lang="sr">U ovoj emisiji, videćemo šta se dešava na serijama koje ne prenosi Sport Klub. I ovde ima kvalitetnih i ambicioznih vozača koji žele da se probiju u sam vrh.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/05/25/15/07/06/stb_xl_fastzone_2880x1620_sk.jpg"/>
+  </programme>
+  <programme start="20240426220000 +0000" stop="20240426234500 +0000" channel="sportklub2.rs">
+    <title lang="sr">MUTV: Manchester United - Sheffield United (PL)</title>
+    <desc lang="sr">Na Mančester Junajted TV-u pogledajte najnovije vesti i sve zanimljivosti i utakmice ovog engleskog velikana sa Old Traforda.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/08/11/11/10/09/stb_xl_61db9087949b60ece6c7686095d78973fd96128e_6a68efdb4e02066bbe12c85c2411190d.jpg"/>
+  </programme>
+  <programme start="20240426234500 +0000" stop="20240427013000 +0000" channel="sportklub2.rs">
+    <title lang="sr">Košarka - Euroleague: Playoffs (G2): Barcelona - Olympiacos</title>
+    <desc lang="sr">Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/06/15/13/38/58/stb_xl_0bd6e6a0e0fc9685d8fa9028375b577faa5eccc6_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240425201500 +0000" stop="20240425215500 +0000" channel="sportklub3.rs">
+    <title lang="sr">Odbojka - Italijanska liga (M): Playoff - Finale (G3): Perugia - Monza</title>
+    <desc lang="sr">Što je u košarci NBA, to je u odbojci italijanska liga. Svaki meč je spektakl, a mnogi vrednuju ovu titulu više od nekog evropskog trofeja.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/04/27/12/34/05/stb_xl_b1bb033f1943cf719775226ac47b938bb640091a_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
+  </programme>
+  <programme start="20240425215500 +0000" stop="20240425222500 +0000" channel="sportklub3.rs">
+    <title lang="sr">Bundesliga serijal - Tobogan za opstanak</title>
+    <desc lang="sr">Dokumentarni serijal o nemačkom državnom prvenstvu u fudbalu koje se smatra jednim od najjačih na svetu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/02/14/06/56/stb_xl_cdea72dbac3ad3552dada60326352c9c89ceea45_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240425222500 +0000" stop="20240426001500 +0000" channel="sportklub3.rs">
+    <title lang="sr">Fudbal - CONCACAF kup šampiona: 1/2 Finale (1st leg): Columbus - Monterrey</title>
+    <desc lang="sr">Najbolji fudbaleri Severne i Srednje Amerike, kao i sa Kariba takmiče se u KONKAKAF Kupu šampiona! Pratite ovo klupsko takmičenje čije je prvo izdanje održano 1962. godine.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/04/03/14/01/15/stb_xl_7d9ad6062e5bfd70b22e4f1a1b0a585b8606ea54_5c2f36b4bce1ed6978c12dc91cb58354.jpg"/>
+  </programme>
+  <programme start="20240426001500 +0000" stop="20240426004500 +0000" channel="sportklub3.rs">
+    <title lang="sr">Ekstremni svet sporta</title>
+    <desc lang="sr">Sve o ekstremnim sportovima, takmičenjima u izdržljivosti i istinskim takmičarskim maratonima. Ovi ljudi svaki dan pomeraju granice onoga što je moguće.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/07/19/02/34/06/stb_xl_e6e2af435f5fbfe5022781b59877a1db36de86f5_6a68efdb4e02066bbe12c85c2411190d.jpg"/>
+  </programme>
+  <programme start="20240426004500 +0000" stop="20240426023000 +0000" channel="sportklub3.rs">
+    <title lang="sr">Fudbal - Kup Azije U23: 1/4 Finale: South Korea - Indonesia</title>
+    <desc lang="sr">Pratite Kup Azije U23, međunarodno fudbalsko takmičenje, koje se svake dve godine održava za igrače do 23 godine. Na takmičenju učestvuju muške reprezentacije Azije.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/04/12/15/45/44/stb_xl_051532ea6ceeadca4c47b747bd3b0bd7fc9f8aa4_c3b640c1535e8413718530960b08d6a9.jpg"/>
+  </programme>
+  <programme start="20240426023000 +0000" stop="20240426040000 +0000" channel="sportklub3.rs">
+    <title lang="sr">Bilijar - World Pool Masters</title>
+    <desc lang="sr">Najbolji takmičari u bilijaru odmeriće snage na prestižnom turniru masters serije!</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/04/24/09/21/05/stb_xl_e769ee42b0182b49da7e3270b548b17009008ece.jpg"/>
+  </programme>
+  <programme start="20240426040000 +0000" stop="20240426051500 +0000" channel="sportklub3.rs">
+    <title lang="sr">Bilijar - World Pool Masters</title>
+    <desc lang="sr">Najbolji takmičari u bilijaru odmeriće snage na prestižnom turniru masters serije!</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/04/24/09/21/05/stb_xl_e769ee42b0182b49da7e3270b548b17009008ece.jpg"/>
+  </programme>
+  <programme start="20240426051500 +0000" stop="20240426065500 +0000" channel="sportklub3.rs">
+    <title lang="sr">Košarka - Euroleague: Playoffs (G2): Real Madrid - Baskonia</title>
+    <desc lang="sr">Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/06/15/13/38/58/stb_xl_0bd6e6a0e0fc9685d8fa9028375b577faa5eccc6_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240426065500 +0000" stop="20240426074000 +0000" channel="sportklub3.rs">
+    <title lang="sr">Moto 3 Jerez: Trening 1</title>
+    <desc lang="sr">Moto 3 iz trke u trke opravdava epitet najneizvesnije kategorije, ali ono što se desilo u Argentini ostaće zabeleženo u istoriji ovog sporta. Da li će ponovo hiljaditinke odlučivati pobednika? (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/04/21/44/01/stb_xl_ef0545afb94ed8f8a2de9ca4e3d1c7dd5caafeeb_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240426074000 +0000" stop="20240426083500 +0000" channel="sportklub3.rs">
+    <title lang="sr">Moto 2 Jerez: Trening 1</title>
+    <desc lang="sr">(LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/04/21/44/01/stb_xl_ef0545afb94ed8f8a2de9ca4e3d1c7dd5caafeeb_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240426083500 +0000" stop="20240426094000 +0000" channel="sportklub3.rs">
+    <title lang="sr">Moto GP Jerez: Trening 1</title>
+    <desc lang="sr">Karavan se seli u Evropu, a kraljevska klasa je posebno neizvesna. Može li Mark Markes da se vrati na pobednički kolosek? (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/04/21/44/01/stb_xl_ef0545afb94ed8f8a2de9ca4e3d1c7dd5caafeeb_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240426094000 +0000" stop="20240426101000 +0000" channel="sportklub3.rs">
+    <title lang="sr">Fast Zone</title>
+    <desc lang="sr">U ovoj emisiji, videćemo šta se dešava na serijama koje ne prenosi Sport Klub. I ovde ima kvalitetnih i ambicioznih vozača koji žele da se probiju u sam vrh.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/05/25/15/07/06/stb_xl_fastzone_2880x1620_sk.jpg"/>
+  </programme>
+  <programme start="20240426101000 +0000" stop="20240426111000 +0000" channel="sportklub3.rs">
+    <title lang="sr">Pit Box: Moto GP Special</title>
+    <desc lang="sr">Specijalna emisija o Moto GP-u u produkciji Sportklub televizije. Kroz emisiju vas vode naši komentatori Darin Janković i Tomislav Bešenić.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/04/01/13/26/00/stb_xl_pit_box_moto_gp_special_2880x2880.jpg"/>
+  </programme>
+  <programme start="20240426111000 +0000" stop="20240426115500 +0000" channel="sportklub3.rs">
+    <title lang="sr">Moto 3 Jerez: Trening 2</title>
+    <desc lang="sr">Moto 3 iz trke u trke opravdava epitet najneizvesnije kategorije, ali ono što se desilo u Argentini ostaće zabeleženo u istoriji ovog sporta. Da li će ponovo hiljaditinke odlučivati pobednika? (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/04/21/44/01/stb_xl_ef0545afb94ed8f8a2de9ca4e3d1c7dd5caafeeb_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240426115500 +0000" stop="20240426125500 +0000" channel="sportklub3.rs">
+    <title lang="sr">Moto 2 Jerez: Trening 2</title>
+    <desc lang="sr">(LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/04/21/44/01/stb_xl_ef0545afb94ed8f8a2de9ca4e3d1c7dd5caafeeb_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240426125500 +0000" stop="20240426140000 +0000" channel="sportklub3.rs">
+    <title lang="sr">Moto GP Jerez: Trening 2</title>
+    <desc lang="sr">Karavan se seli u Evropu, a kraljevska klasa je posebno neizvesna. Može li Mark Markes da se vrati na pobednički kolosek? (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/04/21/44/01/stb_xl_ef0545afb94ed8f8a2de9ca4e3d1c7dd5caafeeb_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240426140000 +0000" stop="20240426160000 +0000" channel="sportklub3.rs">
+    <title lang="sr">Fudbal - Bugarska 2. liga: Marek - Septemvri</title>
+    <desc lang="sr">Pratite Drugu bugarsku ligu u kojoj se takmiči šesnaest klubova. Reč je o drugom nivou fudbalskog takmičenja u bugarskom ligaškom sistemu. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/09/20/12/04/24/stb_xl_54731775f6bcf62cb629e0fefd217b8b31fe9326_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240426160000 +0000" stop="20240426163000 +0000" channel="sportklub3.rs">
+    <title lang="sr">Magazin Bundeslige</title>
+    <desc lang="sr">Pratite sportski magazin posvećen Bundesligi te saznajte sve o utakmicama, rezultatima i novim pojačanjima u najboljim nemačkim fudbalskim klubovima.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/02/14/06/56/stb_xl_cdea72dbac3ad3552dada60326352c9c89ceea45_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240426163000 +0000" stop="20240426165500 +0000" channel="sportklub3.rs">
+    <title lang="sr">Legende Evrolige</title>
+    <desc lang="sr">Predstavljamo vam legende najjačeg i najvažnijeg klupskog profesionalnog košarkaškog takmičenja u Evropi.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/02/11/13/42/24/stb_xl_955ec734362ba4c034d5687199aa2ad1bac98148_60576d23e503901df7211f27d61696f8.jpg"/>
+  </programme>
+  <programme start="20240426165500 +0000" stop="20240426190000 +0000" channel="sportklub3.rs">
+    <title lang="sr">Košarka - Euroleague: Playoffs (G2): Monaco - Fenerbahce</title>
+    <desc lang="sr">Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/06/15/13/38/58/stb_xl_0bd6e6a0e0fc9685d8fa9028375b577faa5eccc6_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240426190000 +0000" stop="20240426204500 +0000" channel="sportklub3.rs">
+    <title lang="sr">Chelsea TV: Arsenal - Chelsea (PL)</title>
+    <desc lang="sr">Čelzi TV vas vodi kroz sve zanimljivosti sa Stamford Bridža, uživajte u svim utakmicama ovog engleskog velikana bogate prošlosti.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/04/27/12/18/42/stb_xl_d56000d129b2d63bed685609ef401e210b82e9cd_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
+  </programme>
+  <programme start="20240426204500 +0000" stop="20240426223500 +0000" channel="sportklub3.rs">
+    <title lang="sr">Fudbal - Saudijska liga: Hilal - Fateh</title>
+    <desc lang="sr">Pratite Saudijsku profesionalnu ligu, najvišu fudbalsku ligu u ligaškom sistemu Saudijske Arabije. Osnovana je 1976. godine kao prva profesionalna fudbalska liga Kraljevine Saudijske Arabije.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/29/14/15/28/stb_xl_14fff113929f312a38056005001814e5cc2204ae_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240426223500 +0000" stop="20240427003000 +0000" channel="sportklub3.rs">
+    <title lang="sr">LoL: EMEA Masters</title>
+    <desc lang="sr">EU Masters je vrhunski, evropski, poluprofesionalni turnir na kom učestvuju najbolji e-sport timovi iz svake zemlje.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/08/24/10/36/13/stb_xl_e1613a5bcd7e7643eec1b2d5cd25c37d9e63f415_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
+  </programme>
+  <programme start="20240425212500 +0000" stop="20240425231500 +0000" channel="sportklub4.rs">
+    <title lang="sr">Fudbal - Švedska liga: Djurgarden - Malmo</title>
+    <desc lang="sr">Jedno od najneizvesnijih prvenstava u Evropi. Malme je blagi favorit ali klubovi iz Stokholma želeće da iskoriste to što rivali imaju dodatne napore u Evropi.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/03/31/16/23/50/stb_xl_ef876956ab7628b661c4dab384ae33b98cc6678f_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240425231500 +0000" stop="20240426010000 +0000" channel="sportklub4.rs">
+    <title lang="sr">Fudbal - Kup Azije U23: 1/4 Finale: Qatar - Japan</title>
+    <desc lang="sr">Pratite Kup Azije U23, međunarodno fudbalsko takmičenje, koje se svake dve godine održava za igrače do 23 godine. Na takmičenju učestvuju muške reprezentacije Azije.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/01/09/01/43/stb_xl_c8b3738e69f7203cbf2f45309041eae892a79416_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240426010000 +0000" stop="20240426012500 +0000" channel="sportklub4.rs">
+    <title lang="sr">Uži izbor</title>
+    <desc lang="sr">Najbolji sportisti svih vremena, iz svih sportova. Na istom mestu, u isto vreme, kako ih uporediti i kako napraviti večne liste. Neko će probati ono o čemu se decenijama priča...</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/06/03/09/30/35/stb_xl_u_i_izbor_2880x1620.jpg"/>
+  </programme>
+  <programme start="20240426012500 +0000" stop="20240426031000 +0000" channel="sportklub4.rs">
+    <title lang="sr">Fudbal - Slovenački kup: 1/2 Finale: Mura - Rogaška</title>
+    <desc lang="sr">Kup Slovenije u fudbalu (Pokal NZS), slovenačko je kup takmičenje u fudbalu. Igra se u organizaciji Fudbalskog saveza Slovenije (NZS).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/03/07/09/46/27/stb_xl_d7df8cff7a9202758818929cf862d0ea493c177e_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240426031000 +0000" stop="20240426045000 +0000" channel="sportklub4.rs">
+    <title lang="sr">Odbojka - Slovenački kup (Ž): Mura - Olimpija</title>
+    <desc lang="sr">Kao i muškarci, i slovenačke dame će se boriti za trofej kupa u odbojci. Uvek je dobro nastaviti sezonu znajući da već imate jedan pehar.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/12/21/17/10/13/stb_xl_83adf34d545ea97477fd0107837f4acf36fa45c7_88889053650e7a8ad57295aa1b830a32.jpg"/>
+  </programme>
+  <programme start="20240426045000 +0000" stop="20240426063500 +0000" channel="sportklub4.rs">
+    <title lang="sr">Fudbal - Bugarski kup: 1/2 Finale (1st leg): Ludogorets - Hebar</title>
+    <desc lang="sr">Kup Bugarske u fudbalu održava se još od 1938. godine. U takmičenju učestvuju svi zvanično registrovani klubovi, sve utakmice se igraju na sistem eliminacija, sve do polufinala kada se igraju i...</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/11/23/12/17/18/stb_xl_db13626913e394b016a88c35ecddbb05bab9816f_60576d23e503901df7211f27d61696f8.jpg"/>
+  </programme>
+  <programme start="20240426063500 +0000" stop="20240426082500 +0000" channel="sportklub4.rs">
+    <title lang="sr">Fudbal - Liga šampiona Azije: finale East (2nd leg): Yokohama Marinos - Ulsan</title>
+    <desc lang="sr">40 najboljih klubova Azije se obračunava za prestižni pehar. Da li će pobediti neko iz zemalja izlazećeg sunca ili neko od bogatih arapskih klubova?</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/09/20/08/30/10/stb_xl_e44d1a77762599eee6d8724feffd93f9cdf84d62_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240426082500 +0000" stop="20240426101500 +0000" channel="sportklub4.rs">
+    <title lang="sr">Fudbal - Grčka liga: Playoff: Aris - Olympiacos</title>
+    <desc lang="sr">Voli se fudbal u Grčkoj i svaki duel, pogotovo derbi, doživljava se sa mnogo strasti. Olimpijakos jeste favorit za titulu, ali AEK, PAOK i večiti rival Panatinaikos kucaju na vrata...</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/09/28/10/50/39/stb_xl_569fd4ffd478b8974a1050b3ebe831368a1470db_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
+  </programme>
+  <programme start="20240426101500 +0000" stop="20240426104500 +0000" channel="sportklub4.rs">
+    <title lang="sr">Rivalitet legendi</title>
+    <desc lang="sr">Vukli su jedni druge napred, uvek je neki rivalitet izdizao sport na lestvicu više. Najbolji sportisti svih vremena, iz svih sportova.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/10/25/11/11/34/stb_xl_national_icons_2880x1620.jpg"/>
+  </programme>
+  <programme start="20240426104500 +0000" stop="20240426124500 +0000" channel="sportklub4.rs">
+    <title lang="sr">Košarka - Izraelska liga: Elion Galil - Hapoel Haifa</title>
+    <desc lang="sr">Superliga Izraela u košarci je najviši rang košarkaških takmičenja u Izraelu. Liga je osnovana 1954. godine i trenutno broji 12 klubova. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/09/19/13/01/16/stb_xl_29ca1f097ce56bde4c69f0823c6f302a68773468_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240426124500 +0000" stop="20240426131500 +0000" channel="sportklub4.rs">
+    <title lang="sr">Bundesliga serijal - Tobogan za opstanak</title>
+    <desc lang="sr">Dokumentarni serijal o nemačkom državnom prvenstvu u fudbalu koje se smatra jednim od najjačih na svetu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/02/14/06/56/stb_xl_cdea72dbac3ad3552dada60326352c9c89ceea45_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240426131500 +0000" stop="20240426134500 +0000" channel="sportklub4.rs">
+    <title lang="sr">Bundesliga serijal - Tobogan za opstanak</title>
+    <desc lang="sr">Dokumentarni serijal o nemačkom državnom prvenstvu u fudbalu koje se smatra jednim od najjačih na svetu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/02/14/06/56/stb_xl_cdea72dbac3ad3552dada60326352c9c89ceea45_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240426134500 +0000" stop="20240426141500 +0000" channel="sportklub4.rs">
+    <title lang="sr">Track &amp; Field</title>
+    <desc lang="sr">"Track &amp; Field" jedan je od najcenjenijih atletskih magazina koji pokriva sva najzanimljivija atletska svetska takmičenja, preko američkih studentskih takmičenja do Olimpijskih igara.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/05/27/11/51/52/stb_xl_63816ecccf4bcdff1be8a60bd809005cc0da688b_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
+  </programme>
+  <programme start="20240426141500 +0000" stop="20240426144500 +0000" channel="sportklub4.rs">
+    <title lang="sr">Magazin saudijske lige</title>
+    <desc lang="sr">Donosimo pregled mečeva saudijske fudbalske lige, najbolji golovi, potezi i analize.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/28/12/18/25/stb_xl_rsl_saudi_pro_league_general_2880x1620.jpg"/>
+  </programme>
+  <programme start="20240426144500 +0000" stop="20240426150000 +0000" channel="sportklub4.rs">
+    <title lang="sr">Na današnji dan</title>
+    <desc lang="sr">Podsećanje na godišnjice uspeha sportista, klubova i reprezentacije koji su se dogodili na današnji dan.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/55/27/stb_xl_122c82639a63b674a2a83dcabb3e114072e62a42.jpg"/>
+  </programme>
+  <programme start="20240426150000 +0000" stop="20240426170000 +0000" channel="sportklub4.rs">
+    <title lang="sr">Fudbal - Saudijska liga: Hilal - Fateh</title>
+    <desc lang="sr">Pratite Saudijsku profesionalnu ligu, najvišu fudbalsku ligu u ligaškom sistemu Saudijske Arabije. Osnovana je 1976. godine kao prva profesionalna fudbalska liga Kraljevine Saudijske Arabije. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/29/14/15/28/stb_xl_14fff113929f312a38056005001814e5cc2204ae_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240426170000 +0000" stop="20240426173000 +0000" channel="sportklub4.rs">
+    <title lang="sr">Fast Zone</title>
+    <desc lang="sr">U ovoj emisiji, videćemo šta se dešava na serijama koje ne prenosi Sport Klub. I ovde ima kvalitetnih i ambicioznih vozača koji žele da se probiju u sam vrh.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/05/25/15/07/06/stb_xl_fastzone_2880x1620_sk.jpg"/>
+  </programme>
+  <programme start="20240426173000 +0000" stop="20240426180000 +0000" channel="sportklub4.rs">
+    <title lang="sr">Magazin Bundeslige</title>
+    <desc lang="sr">Pratite sportski magazin posvećen Bundesligi te saznajte sve o utakmicama, rezultatima i novim pojačanjima u najboljim nemačkim fudbalskim klubovima.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/02/14/06/56/stb_xl_cdea72dbac3ad3552dada60326352c9c89ceea45_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240426180000 +0000" stop="20240426200000 +0000" channel="sportklub4.rs">
+    <title lang="sr">Fudbal - Afrička Liga Šampiona: 1/2 Finale (2nd leg): Mamelodi - Esperance</title>
+    <desc lang="sr">Velika je konkurencija za ovaj trofej i dosta kvalitetnih i ujednačenih klubova. Evropski skauti će biti tu da proberu najkvalitetnije igrače za svoje klubove. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/04/27/12/04/02/stb_xl_5e727e040fe60067ed936962470dc384d5afddb3_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240426200000 +0000" stop="20240426203000 +0000" channel="sportklub4.rs">
+    <title lang="sr">Ekstremni svet sporta</title>
+    <desc lang="sr">Sve o ekstremnim sportovima, takmičenjima u izdržljivosti i istinskim takmičarskim maratonima. Ovi ljudi svaki dan pomeraju granice onoga što je moguće.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/07/19/02/34/06/stb_xl_e6e2af435f5fbfe5022781b59877a1db36de86f5_6a68efdb4e02066bbe12c85c2411190d.jpg"/>
+  </programme>
+  <programme start="20240426203000 +0000" stop="20240426205500 +0000" channel="sportklub4.rs">
+    <title lang="sr">Omaž zvezdama</title>
+    <desc lang="sr">Bokseri, fudbaleri, košarkaši... Najbolji sportisti svih vremena, iz svih sportova. Na istom mestu, u isto vreme, kako ih uporediti i kako napraviti večne liste.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2019/09/24/10/07/29/stb_xl_50230ffcf6424153d384678643ea6d199245592d.jpg"/>
+  </programme>
+  <programme start="20240426205500 +0000" stop="20240426224000 +0000" channel="sportklub4.rs">
+    <title lang="sr">Fudbal - Bundesliga: Bochum - Hoffenheim</title>
+    <desc lang="sr">Fudbalska Bundesliga najviši je rang takmičenje u Nemačkoj koja od 1963. godine i svog osnutka visokom kvalitetom igre oduševljava sve fudbalske poklonike širom sveta.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/09/22/16/46/25/stb_xl_14d56b95fbc959b0a73551f267092f0141ed0ecd_464d0e3a58b0f310dac94f828792c602.jpg"/>
+  </programme>
+  <programme start="20240426224000 +0000" stop="20240427003000 +0000" channel="sportklub4.rs">
+    <title lang="sr">Fudbal - Afrička Liga Šampiona: 1/2 Finale (2nd leg): Al Ahly Cairo - Mazembe</title>
+    <desc lang="sr">Velika je konkurencija za ovaj trofej i dosta kvalitetnih i ujednačenih klubova. Evropski skauti će biti tu da proberu najkvalitetnije igrače za svoje klubove.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/04/27/12/04/02/stb_xl_5e727e040fe60067ed936962470dc384d5afddb3_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
+  </programme>
+  <programme start="20240425210000 +0000" stop="20240425220000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 4</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/25/stb_xl_331b3a6f7a47a0dacfb0f8118ee4a710451d6561.jpg"/>
+  </programme>
+  <programme start="20240425220000 +0000" stop="20240425230000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 1</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/30/stb_xl_159533a6c3c3c1b39d1d8f69881f2f255f318703.jpg"/>
+  </programme>
+  <programme start="20240425230000 +0000" stop="20240426000000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 2</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/22/stb_xl_52221dbdd54aac1b5b931a4e69f8a7e83f8e9e6f.jpg"/>
+  </programme>
+  <programme start="20240426000000 +0000" stop="20240426010000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 3</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/28/stb_xl_1302248bb306efbba31a696f54044b628ec22a53.jpg"/>
+  </programme>
+  <programme start="20240426010000 +0000" stop="20240426020000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 4</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/25/stb_xl_331b3a6f7a47a0dacfb0f8118ee4a710451d6561.jpg"/>
+  </programme>
+  <programme start="20240426020000 +0000" stop="20240426030000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 1</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/30/stb_xl_159533a6c3c3c1b39d1d8f69881f2f255f318703.jpg"/>
+  </programme>
+  <programme start="20240426030000 +0000" stop="20240426040000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 2</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/22/stb_xl_52221dbdd54aac1b5b931a4e69f8a7e83f8e9e6f.jpg"/>
+  </programme>
+  <programme start="20240426040000 +0000" stop="20240426050000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 3</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/28/stb_xl_1302248bb306efbba31a696f54044b628ec22a53.jpg"/>
+  </programme>
+  <programme start="20240426050000 +0000" stop="20240426060000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 4</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/25/stb_xl_331b3a6f7a47a0dacfb0f8118ee4a710451d6561.jpg"/>
+  </programme>
+  <programme start="20240426060000 +0000" stop="20240426070000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 1</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/30/stb_xl_159533a6c3c3c1b39d1d8f69881f2f255f318703.jpg"/>
+  </programme>
+  <programme start="20240426070000 +0000" stop="20240426080000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 2</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/22/stb_xl_52221dbdd54aac1b5b931a4e69f8a7e83f8e9e6f.jpg"/>
+  </programme>
+  <programme start="20240426080000 +0000" stop="20240426090000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 3</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/28/stb_xl_1302248bb306efbba31a696f54044b628ec22a53.jpg"/>
+  </programme>
+  <programme start="20240426090000 +0000" stop="20240426110000 +0000" channel="sportklub5.rs">
+    <title lang="sr">WTA 1000 &amp; ATP Masters Madrid</title>
+    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/02/23/13/48/34/stb_xl_e18ba6ec76eda0a649f152874c20296a46428862_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240426110000 +0000" stop="20240426120000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 2</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/22/stb_xl_52221dbdd54aac1b5b931a4e69f8a7e83f8e9e6f.jpg"/>
+  </programme>
+  <programme start="20240426120000 +0000" stop="20240426130000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 3</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/28/stb_xl_1302248bb306efbba31a696f54044b628ec22a53.jpg"/>
+  </programme>
+  <programme start="20240426130000 +0000" stop="20240426140000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 4</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/25/stb_xl_331b3a6f7a47a0dacfb0f8118ee4a710451d6561.jpg"/>
+  </programme>
+  <programme start="20240426140000 +0000" stop="20240426150000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 1</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/30/stb_xl_159533a6c3c3c1b39d1d8f69881f2f255f318703.jpg"/>
+  </programme>
+  <programme start="20240426150000 +0000" stop="20240426160000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 2</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/22/stb_xl_52221dbdd54aac1b5b931a4e69f8a7e83f8e9e6f.jpg"/>
+  </programme>
+  <programme start="20240426160000 +0000" stop="20240426170000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 3</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/28/stb_xl_1302248bb306efbba31a696f54044b628ec22a53.jpg"/>
+  </programme>
+  <programme start="20240426170000 +0000" stop="20240426180000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 4</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/25/stb_xl_331b3a6f7a47a0dacfb0f8118ee4a710451d6561.jpg"/>
+  </programme>
+  <programme start="20240426180000 +0000" stop="20240426200000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Fudbal - Saudijska liga: Ittihad - Shabab</title>
+    <desc lang="sr">Pratite Saudijsku profesionalnu ligu, najvišu fudbalsku ligu u ligaškom sistemu Saudijske Arabije. Osnovana je 1976. godine kao prva profesionalna fudbalska liga Kraljevine Saudijske Arabije. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/29/14/15/28/stb_xl_14fff113929f312a38056005001814e5cc2204ae_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240426200000 +0000" stop="20240426210000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 3</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/28/stb_xl_1302248bb306efbba31a696f54044b628ec22a53.jpg"/>
+  </programme>
+  <programme start="20240426210000 +0000" stop="20240426220000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 4</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/25/stb_xl_331b3a6f7a47a0dacfb0f8118ee4a710451d6561.jpg"/>
+  </programme>
+  <programme start="20240426220000 +0000" stop="20240426230000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 1</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/30/stb_xl_159533a6c3c3c1b39d1d8f69881f2f255f318703.jpg"/>
+  </programme>
+  <programme start="20240426230000 +0000" stop="20240427000000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Sport Klub 5 Promo 2</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/22/stb_xl_52221dbdd54aac1b5b931a4e69f8a7e83f8e9e6f.jpg"/>
+  </programme>
+  <programme start="20240425210000 +0000" stop="20240425220000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Sport Klub 6 Promo 4</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/46/stb_xl_69218669d330066f5ddd0848183b868fcf8f163c.jpg"/>
+  </programme>
+  <programme start="20240425220000 +0000" stop="20240425230000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Sport Klub 6 Promo 1</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/48/stb_xl_0bb27540b210ed55abf0edda825a14aa6077dd08.jpg"/>
+  </programme>
+  <programme start="20240425230000 +0000" stop="20240426000000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Sport Klub 6 Promo 2</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/45/stb_xl_a8f31983d2ec652dd1834fec4b6831ca0e9631e1.jpg"/>
+  </programme>
+  <programme start="20240426000000 +0000" stop="20240426010000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Sport Klub 6 Promo 3</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/45/stb_xl_1d007d72285dbf365b4b4c2de1ad3efebb20f442.jpg"/>
+  </programme>
+  <programme start="20240426010000 +0000" stop="20240426020000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Sport Klub 6 Promo 4</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/46/stb_xl_69218669d330066f5ddd0848183b868fcf8f163c.jpg"/>
+  </programme>
+  <programme start="20240426020000 +0000" stop="20240426030000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Sport Klub 6 Promo 1</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/48/stb_xl_0bb27540b210ed55abf0edda825a14aa6077dd08.jpg"/>
+  </programme>
+  <programme start="20240426030000 +0000" stop="20240426040000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Sport Klub 6 Promo 2</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/45/stb_xl_a8f31983d2ec652dd1834fec4b6831ca0e9631e1.jpg"/>
+  </programme>
+  <programme start="20240426040000 +0000" stop="20240426050000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Sport Klub 6 Promo 3</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/45/stb_xl_1d007d72285dbf365b4b4c2de1ad3efebb20f442.jpg"/>
+  </programme>
+  <programme start="20240426050000 +0000" stop="20240426060000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Sport Klub 6 Promo 4</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/46/stb_xl_69218669d330066f5ddd0848183b868fcf8f163c.jpg"/>
+  </programme>
+  <programme start="20240426060000 +0000" stop="20240426070000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Sport Klub 6 Promo 1</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/48/stb_xl_0bb27540b210ed55abf0edda825a14aa6077dd08.jpg"/>
+  </programme>
+  <programme start="20240426070000 +0000" stop="20240426080000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Sport Klub 6 Promo 2</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/45/stb_xl_a8f31983d2ec652dd1834fec4b6831ca0e9631e1.jpg"/>
+  </programme>
+  <programme start="20240426080000 +0000" stop="20240426090000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Sport Klub 6 Promo 3</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/45/stb_xl_1d007d72285dbf365b4b4c2de1ad3efebb20f442.jpg"/>
+  </programme>
+  <programme start="20240426090000 +0000" stop="20240426110000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Tenis: WTA 1000 &amp; ATP Masters Madrid</title>
+    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/02/23/13/48/34/stb_xl_e18ba6ec76eda0a649f152874c20296a46428862_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240426110000 +0000" stop="20240426120000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Sport Klub 6 Promo 2</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/45/stb_xl_a8f31983d2ec652dd1834fec4b6831ca0e9631e1.jpg"/>
+  </programme>
+  <programme start="20240426120000 +0000" stop="20240426130000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Sport Klub 6 Promo 3</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/45/stb_xl_1d007d72285dbf365b4b4c2de1ad3efebb20f442.jpg"/>
+  </programme>
+  <programme start="20240426130000 +0000" stop="20240426140000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Sport Klub 6 Promo 4</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/46/stb_xl_69218669d330066f5ddd0848183b868fcf8f163c.jpg"/>
+  </programme>
+  <programme start="20240426140000 +0000" stop="20240426150000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Sport Klub 6 Promo 1</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/48/stb_xl_0bb27540b210ed55abf0edda825a14aa6077dd08.jpg"/>
+  </programme>
+  <programme start="20240426150000 +0000" stop="20240426160000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Sport Klub 6 Promo 2</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/45/stb_xl_a8f31983d2ec652dd1834fec4b6831ca0e9631e1.jpg"/>
+  </programme>
+  <programme start="20240426160000 +0000" stop="20240426170000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Sport Klub 6 Promo 3</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/45/stb_xl_1d007d72285dbf365b4b4c2de1ad3efebb20f442.jpg"/>
+  </programme>
+  <programme start="20240426170000 +0000" stop="20240426190000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Fudbal - Turska liga: Adana Demir - Galatasaray</title>
+    <desc lang="sr">Turska Superliga je najviša profesionalna liga Turske u fudbalu. Ova liga osnovana je 1957. godine. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/09/21/04/37/05/stb_xl_f5144074e1873e43dfc743be76c0d2f4cd838da0_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240426190000 +0000" stop="20240426210000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Fudbal - Afrička Liga Šampiona: 1/2 Finale (2nd leg): Al Ahly Cairo - Mazembe</title>
+    <desc lang="sr">Velika je konkurencija za ovaj trofej i dosta kvalitetnih i ujednačenih klubova. Evropski skauti će biti tu da proberu najkvalitetnije igrače za svoje klubove. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/04/27/12/04/02/stb_xl_5e727e040fe60067ed936962470dc384d5afddb3_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240426210000 +0000" stop="20240426220000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Sport Klub 6 Promo 4</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/46/stb_xl_69218669d330066f5ddd0848183b868fcf8f163c.jpg"/>
+  </programme>
+  <programme start="20240426220000 +0000" stop="20240426230000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Sport Klub 6 Promo 1</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/48/stb_xl_0bb27540b210ed55abf0edda825a14aa6077dd08.jpg"/>
+  </programme>
+  <programme start="20240426230000 +0000" stop="20240427000000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Sport Klub 6 Promo 2</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/45/stb_xl_a8f31983d2ec652dd1834fec4b6831ca0e9631e1.jpg"/>
+  </programme>
+  <programme start="20240425014500 +0200" stop="20240425034500 +0200" channel="arenasport1.rs">
+    <title lang="bs">Man. United - Sheffield</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425034500 +0200" stop="20240425054500 +0200" channel="arenasport1.rs">
+    <title lang="bs">Wolverhampton - Bournemouth</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425054500 +0200" stop="20240425060000 +0200" channel="arenasport1.rs">
+    <title lang="bs">PL Moments</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425060000 +0200" stop="20240425080000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Coventry - Hull</title>
+    <desc lang="bs">CHAMPIONSHIP.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425080000 +0200" stop="20240425100000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Crystal Palace - Newcastle</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425100000 +0200" stop="20240425120000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Wolverhampton - Bournemouth</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425120000 +0200" stop="20240425140000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Leicester - Southampton</title>
+    <desc lang="bs">CHAMPIONSHIP.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425140000 +0200" stop="20240425143000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Pregled kola</title>
+    <desc lang="bs">CHAMPIONSHIP.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425143000 +0200" stop="20240425163000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Arsenal - Chelsea</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425163000 +0200" stop="20240425183000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Everton - Liverpool</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425183000 +0200" stop="20240425184500 +0200" channel="arenasport1.rs">
+    <title lang="bs">PL Moments</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425184500 +0200" stop="20240425203000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Uživo: Telekom Veszprem - Aalborg</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Rukomet</category>
+  </programme>
+  <programme start="20240425203000 +0200" stop="20240425223000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Uživo: Antwerp - Union SG</title>
+    <desc lang="bs">BELGIJSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425223000 +0200" stop="20240425230000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Pregled nedelje</title>
+    <desc lang="bs">MLB.</desc>
+    <category lang="bs">Bejzbol</category>
+  </programme>
+  <programme start="20240425230000 +0200" stop="20240425233000 +0200" channel="arenasport1.rs">
+    <title lang="bs">One žive za fudbal - ep. 03 ŽFK MILUTINAC - Beograd</title>
+  </programme>
+  <programme start="20240425233000 +0200" stop="20240426013000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Middlesbrough - Leeds</title>
+    <desc lang="bs">CHAMPIONSHIP.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426013000 +0200" stop="20240426033000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Luton - Brentford</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426033000 +0200" stop="20240426053000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Sheffield - Burnley</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426053000 +0200" stop="20240426054500 +0200" channel="arenasport1.rs">
+    <title lang="bs">Tv Sport - ep. 2 Everton 1</title>
+  </programme>
+  <programme start="20240426054500 +0200" stop="20240426060000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Tv Sport - ep. 3 Everton 2</title>
+  </programme>
+  <programme start="20240426060000 +0200" stop="20240426080000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Everton - Liverpool</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426080000 +0200" stop="20240426100000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Arsenal - Chelsea</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426100000 +0200" stop="20240426120000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Man. United - Sheffield</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426120000 +0200" stop="20240426140000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Crystal Palace - Newcastle</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426140000 +0200" stop="20240426160000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Coventry - Hull</title>
+    <desc lang="bs">CHAMPIONSHIP.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426160000 +0200" stop="20240426180000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Wolverhampton - Bournemouth</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426180000 +0200" stop="20240426200000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Uživo: Piast - Warta</title>
+    <desc lang="bs">POLJSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426200000 +0200" stop="20240426203000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Oni žive za fudbal - ep. 121 FK POPOVIĆ - Sopot</title>
+  </programme>
+  <programme start="20240426203000 +0200" stop="20240426210000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Najava kola</title>
+    <desc lang="bs">FRANCUSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426210000 +0200" stop="20240426230000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Uživo: Montpellier - Nantes</title>
+    <desc lang="bs">FRANCUSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426230000 +0200" stop="20240426233000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Zona zdravog sporta</title>
+  </programme>
+  <programme start="20240426233000 +0200" stop="20240427013000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Brighton - Man. City</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425010000 +0200" stop="20240425030000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Empoli - Napoli</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425030000 +0200" stop="20240425033000 +0200" channel="arenasport2.rs">
+    <title lang="bs">La Liga World</title>
+    <desc lang="bs">ŠPANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425033000 +0200" stop="20240425053000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Girona - Cadiz</title>
+    <desc lang="bs">ŠPANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425053000 +0200" stop="20240425060000 +0200" channel="arenasport2.rs">
+    <title lang="bs">La Liga Chronicles</title>
+    <desc lang="bs">ŠPANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425060000 +0200" stop="20240425080000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Milan - Inter</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425080000 +0200" stop="20240425100000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Getafe - Real Sociedad</title>
+    <desc lang="bs">ŠPANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425100000 +0200" stop="20240425120000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Roma - Bologna</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425120000 +0200" stop="20240425140000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Alaves - Atletico</title>
+    <desc lang="bs">ŠPANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425140000 +0200" stop="20240425160000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Sevilla - Mallorca</title>
+    <desc lang="bs">ŠPANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425160000 +0200" stop="20240425180000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Salernitana - Fiorentina</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425180000 +0200" stop="20240425183000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Full Impact</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425183000 +0200" stop="20240425193000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Pregled</title>
+    <desc lang="bs">WEC IMOLA.</desc>
+    <category lang="bs">Auto moto</category>
+  </programme>
+  <programme start="20240425193000 +0200" stop="20240425213000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Uživo: Akhmat - Sochi</title>
+    <desc lang="bs">RUSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425213000 +0200" stop="20240425233000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Celta - Las Palmas</title>
+    <desc lang="bs">ŠPANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425233000 +0200" stop="20240426000000 +0200" channel="arenasport2.rs">
+    <title lang="bs">La Liga Best 11</title>
+    <desc lang="bs">ŠPANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426000000 +0200" stop="20240426020000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Atalanta - Fiorentina</title>
+    <desc lang="bs">ITALIJANSKI KUP.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426020000 +0200" stop="20240426040000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Valencia - Betis</title>
+    <desc lang="bs">ŠPANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426040000 +0200" stop="20240426060000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Cagliari - Juventus</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426060000 +0200" stop="20240426080000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Verona - Udinese</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426080000 +0200" stop="20240426100000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Alaves - Atletico</title>
+    <desc lang="bs">ŠPANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426100000 +0200" stop="20240426120000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Empoli - Napoli</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426120000 +0200" stop="20240426140000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Athletic - Granada</title>
+    <desc lang="bs">ŠPANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426140000 +0200" stop="20240426160000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Cagliari - Juventus</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426160000 +0200" stop="20240426170000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Pregled kola</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426170000 +0200" stop="20240426190000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Uživo: Galatasaray - Samsunspor</title>
+    <desc lang="bs">TURSKA LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240426190000 +0200" stop="20240426210000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Uživo: MZT - Spartak</title>
+    <desc lang="bs">ABA 2. LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240426210000 +0200" stop="20240426230000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Uživo: QPR - Leeds</title>
+    <desc lang="bs">CHAMPIONSHIP.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426230000 +0200" stop="20240427000000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Pregled kola</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425013000 +0200" stop="20240425033000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Orenburg - Dinamo</title>
+    <desc lang="bs">RUSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425033000 +0200" stop="20240425053000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Nizhny - Lokomotiv</title>
+    <desc lang="bs">RUSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425053000 +0200" stop="20240425060000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Očevi šampioni - ep. 28 Željko Lučić</title>
+  </programme>
+  <programme start="20240425060000 +0200" stop="20240425080000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Baltika - Krylya</title>
+    <desc lang="bs">RUSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425080000 +0200" stop="20240425100000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Zenit - Rubin</title>
+    <desc lang="bs">RUSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425100000 +0200" stop="20240425120000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Orenburg - Dinamo</title>
+    <desc lang="bs">RUSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425120000 +0200" stop="20240425140000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Lokomotiv - Dinamo Kazan, finale G3</title>
+    <desc lang="bs">RUSKA LIGA Ž.</desc>
+    <category lang="bs">Odbojka</category>
+  </programme>
+  <programme start="20240425140000 +0200" stop="20240425143000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Moja Arena</title>
+  </programme>
+  <programme start="20240425143000 +0200" stop="20240425161500 +0200" channel="arenasport3.rs">
+    <title lang="bs">CSKA - Enisey, G2</title>
+    <desc lang="bs">VTB LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240425161500 +0200" stop="20240425184500 +0200" channel="arenasport3.rs">
+    <title lang="bs">Lokomotiv - Metallurg, finale G4</title>
+    <desc lang="bs">KHL.</desc>
+    <category lang="bs">Hokej</category>
+  </programme>
+  <programme start="20240425184500 +0200" stop="20240425191000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Moja Arena</title>
+  </programme>
+  <programme start="20240425191000 +0200" stop="20240425221000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Uživo: Clevland - Boston</title>
+    <desc lang="bs">MLB.</desc>
+    <category lang="bs">Bejzbol</category>
+  </programme>
+  <programme start="20240425221000 +0200" stop="20240425232000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Neuspjeh prvaka sa Mirzom Džombom - Vanja Grbić</title>
+  </programme>
+  <programme start="20240425232000 +0200" stop="20240426020000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Metallurg - Avtomobilist, G7</title>
+    <desc lang="bs">KHL.</desc>
+    <category lang="bs">Hokej</category>
+  </programme>
+  <programme start="20240426020000 +0200" stop="20240426040000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Fakel - Krylya</title>
+    <desc lang="bs">RUSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426040000 +0200" stop="20240426060000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Akhmat - Sochi</title>
+    <desc lang="bs">RUSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426060000 +0200" stop="20240426083000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Metallurg - Lokomotiv, finale G1</title>
+    <desc lang="bs">KHL.</desc>
+    <category lang="bs">Hokej</category>
+  </programme>
+  <programme start="20240426083000 +0200" stop="20240426101500 +0200" channel="arenasport3.rs">
+    <title lang="bs">CSKA - Enisey, G2</title>
+    <desc lang="bs">VTB LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240426101500 +0200" stop="20240426120000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Unics - Samara, G2</title>
+    <desc lang="bs">VTB LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240426120000 +0200" stop="20240426140000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Baltika - Krylya</title>
+    <desc lang="bs">RUSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426140000 +0200" stop="20240426163000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Metallurg - Lokomotiv, finale G2</title>
+    <desc lang="bs">KHL.</desc>
+    <category lang="bs">Hokej</category>
+  </programme>
+  <programme start="20240426163000 +0200" stop="20240426173000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Pregled</title>
+    <desc lang="bs">WRC CROATIA RALLY.</desc>
+    <category lang="bs">Auto moto</category>
+  </programme>
+  <programme start="20240426173000 +0200" stop="20240426193000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Uživo: Partizan - Železničar, finale</title>
+    <desc lang="bs">SUPERLIGA.</desc>
+    <category lang="bs">Stoni tenis</category>
+  </programme>
+  <programme start="20240426193000 +0200" stop="20240426200000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Oni vole Srbiju</title>
+  </programme>
+  <programme start="20240426200000 +0200" stop="20240426203000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Majke šampioni - ep. 29 Đinđika Štefanek</title>
+  </programme>
+  <programme start="20240426203000 +0200" stop="20240426223000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Uživo: Andorra - Santander</title>
+    <desc lang="bs">ŠPANSKA 2. LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426223000 +0200" stop="20240426230000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Kviz Soccer šampion</title>
+  </programme>
+  <programme start="20240426230000 +0200" stop="20240427010000 +0200" channel="arenasport3.rs">
+    <title lang="bs">CSKA - Spartak</title>
+    <desc lang="bs">RUSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425010000 +0200" stop="20240425040000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Marseille - Benfica</title>
+    <desc lang="bs">LIGA EVROPE.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425040000 +0200" stop="20240425060000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Fiorentina - Maccabi Haifa, 14.3.</title>
+    <desc lang="bs">LIGA KONFERENCIJA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425060000 +0200" stop="20240425080000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Barcelona - PSG</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425080000 +0200" stop="20240425100000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Olympiacos - Fenerbahce</title>
+    <desc lang="bs">LIGA KONFERENCIJA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425100000 +0200" stop="20240425120000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Atalanta - Liverpool</title>
+    <desc lang="bs">LIGA EVROPE.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425120000 +0200" stop="20240425140000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Real Madrid - Man. City</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425140000 +0200" stop="20240425220000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Uživo: Viminacijum</title>
+    <desc lang="bs">MTS 3X3 LEAGUE.</desc>
+    <category lang="bs">Basket 3x3</category>
+  </programme>
+  <programme start="20240425220000 +0200" stop="20240426010000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Fenerbahce - Olympiacos</title>
+    <desc lang="bs">LIGA KONFERENCIJA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426010000 +0200" stop="20240426030000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Atletico - Borussia (D)</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426030000 +0200" stop="20240426050000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Bayer - West Ham</title>
+    <desc lang="bs">LIGA EVROPE.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426050000 +0200" stop="20240426060000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Pregled</title>
+    <desc lang="bs">LIGA EVROPE.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426060000 +0200" stop="20240426080000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Borussia (D) - Atletico</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426080000 +0200" stop="20240426100000 +0200" channel="arenasport4.rs">
+    <title lang="bs">West Ham - Bayer</title>
+    <desc lang="bs">LIGA EVROPE.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426100000 +0200" stop="20240426120000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Club Brugge - PAOK</title>
+    <desc lang="bs">LIGA KONFERENCIJA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426120000 +0200" stop="20240426143000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Man. City - Real Madrid</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426143000 +0200" stop="20240426163000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Milan - Roma</title>
+    <desc lang="bs">LIGA EVROPE.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426163000 +0200" stop="20240426183000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Aston Villa - Lille</title>
+    <desc lang="bs">LIGA KONFERENCIJA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426183000 +0200" stop="20240426203000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Real Madrid - Man. City</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426203000 +0200" stop="20240426223000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Uživo: Jagiellonia - Pogon</title>
+    <desc lang="bs">POLJSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426223000 +0200" stop="20240426231500 +0200" channel="arenasport4.rs">
+    <title lang="bs">Pregled 9.4.</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426231500 +0200" stop="20240427011500 +0200" channel="arenasport4.rs">
+    <title lang="bs">PSG - Barcelona</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425010000 +0200" stop="20240425020000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Pregled 8. kola</title>
+    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425020000 +0200" stop="20240425040000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Belgija - Azejberdžan, 19.11.23.</title>
+    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425040000 +0200" stop="20240425060000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Francuska - Australija, 21.11.22.</title>
+    <desc lang="bs">SVETSKO PRVENSTVO.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425060000 +0200" stop="20240425080000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Gruzija - Luksemburg</title>
+    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425080000 +0200" stop="20240425100000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Španija - Kostarika, 23.11.22.</title>
+    <desc lang="bs">SVETSKO PRVENSTVO.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425100000 +0200" stop="20240425110000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Pregled 6. kola</title>
+    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425110000 +0200" stop="20240425130000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Nemačka - Japan, 23.11.22.</title>
+    <desc lang="bs">SVETSKO PRVENSTVO.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425130000 +0200" stop="20240425150000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Grčka - Kazahstan</title>
+    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425150000 +0200" stop="20240425160000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Pregled 6. kola</title>
+    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425160000 +0200" stop="20240425180000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Kamerun - Srbija, 28.11.22.</title>
+    <desc lang="bs">SVETSKO PRVENSTVO.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425180000 +0200" stop="20240425200000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Kipar - Španija, 16.11.23.</title>
+    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425200000 +0200" stop="20240425210000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Pregled 7. kola</title>
+    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425210000 +0200" stop="20240425230000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Portugal - Gana, 24.11.22.</title>
+    <desc lang="bs">SVETSKO PRVENSTVO.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425230000 +0200" stop="20240426010000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Brazil - Južna Koreja, 5.12.22.</title>
+    <desc lang="bs">SVETSKO PRVENSTVO.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426010000 +0200" stop="20240426020000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Pregled 9. kola</title>
+    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426020000 +0200" stop="20240426040000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Holandija - Republika Irska, 18.11.23.</title>
+    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426040000 +0200" stop="20240426060000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Senegal - Holandija, 21.11.22.</title>
+    <desc lang="bs">SVETSKO PRVENSTVO.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426060000 +0200" stop="20240426080000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Poljska - Estonija</title>
+    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426080000 +0200" stop="20240426100000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Holandija - SAD, 3.12.22.</title>
+    <desc lang="bs">SVETSKO PRVENSTVO.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426100000 +0200" stop="20240426120000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Francuska - Maroko, 14.12.22.</title>
+    <desc lang="bs">SVETSKO PRVENSTVO.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426120000 +0200" stop="20240426123000 +0200" channel="arenasport5.rs">
+    <title lang="bs">U susret EURU 2024 - ep. 07</title>
+    <desc lang="bs">EVROPSKO PRVENSTVO.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426123000 +0200" stop="20240426150000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Gruzija - Grčka</title>
+    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426150000 +0200" stop="20240426160000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Pregled 7. kola</title>
+    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426160000 +0200" stop="20240426180000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Koreja - Gana, 28.11.22.</title>
+    <desc lang="bs">SVETSKO PRVENSTVO.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426180000 +0200" stop="20240426200000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Poljska - Češka, 17.11.23.</title>
+    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426200000 +0200" stop="20240426204500 +0200" channel="arenasport5.rs">
+    <title lang="bs">Pregled 8. kola</title>
+    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426204500 +0200" stop="20240426224500 +0200" channel="arenasport5.rs">
+    <title lang="bs">Uživo: Airdrieonians - Dundee United</title>
+    <desc lang="bs">ŠKOTSKA 2. LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240426224500 +0200" stop="20240427004500 +0200" channel="arenasport5.rs">
+    <title lang="bs">Kipar - Srbija</title>
+    <desc lang="bs">PRIJATELJSKA UTAKMICA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240425020000 +0200" stop="20240425040000 +0200" channel="arenasport6.rs">
+    <title lang="bs">New Orleans - Sacramento</title>
+    <desc lang="bs">NBA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240425040000 +0200" stop="20240425060000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Colorado - Winnipeg</title>
+    <desc lang="bs">NHL.</desc>
+    <category lang="bs">Hokej</category>
+  </programme>
+  <programme start="20240425060000 +0200" stop="20240425080000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Clevland - Orlando, G2</title>
+    <desc lang="bs">NBA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240425080000 +0200" stop="20240425100000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Houston - Seattle 14.05.1987.</title>
+    <desc lang="bs">NBA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240425100000 +0200" stop="20240425120000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Carolina - NY Islanders</title>
+    <desc lang="bs">NHL.</desc>
+    <category lang="bs">Hokej</category>
+  </programme>
+  <programme start="20240425120000 +0200" stop="20240425123000 +0200" channel="arenasport6.rs">
+    <title lang="bs">NBA Action</title>
+    <desc lang="bs">NBA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240425123000 +0200" stop="20240425140000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Pregled 4. nedelje</title>
+    <desc lang="bs">NFL.</desc>
+    <category lang="bs">Američki fudbal</category>
+  </programme>
+  <programme start="20240425140000 +0200" stop="20240425163000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Dallas Cowboys - Detroit Lions, 31.12.23.</title>
+    <desc lang="bs">NFL.</desc>
+    <category lang="bs">Američki fudbal</category>
+  </programme>
+  <programme start="20240425163000 +0200" stop="20240425183000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Minnesota - Phoenix, G2</title>
+    <desc lang="bs">NBA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240425183000 +0200" stop="20240425203000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Boston - Miami, G2</title>
+    <desc lang="bs">NBA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240425203000 +0200" stop="20240425213000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Alabama, pregled</title>
+    <desc lang="bs">INDYCAR.</desc>
+    <category lang="bs">Auto moto</category>
+  </programme>
+  <programme start="20240425213000 +0200" stop="20240425233000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Denver - LA Lakers, G2</title>
+    <desc lang="bs">NBA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240425233000 +0200" stop="20240426020000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Baltimore Ravens - Miami Dolphins, 31.12.23.</title>
+    <desc lang="bs">NFL.</desc>
+    <category lang="bs">Američki fudbal</category>
+  </programme>
+  <programme start="20240426020000 +0200" stop="20240426040000 +0200" channel="arenasport6.rs">
+    <title lang="bs">LA Clippers - Dallas</title>
+    <desc lang="bs">NBA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240426040000 +0200" stop="20240426060000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Vegas - Colorado</title>
+    <desc lang="bs">NHL.</desc>
+    <category lang="bs">Hokej</category>
+  </programme>
+  <programme start="20240426060000 +0200" stop="20240426080000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Denver - LA Lakers, G2</title>
+    <desc lang="bs">NBA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240426080000 +0200" stop="20240426093000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Detroit - LA Lakers  13.06.1989.</title>
+    <desc lang="bs">NBA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240426093000 +0200" stop="20240426120000 +0200" channel="arenasport6.rs">
+    <title lang="bs">NY Rangers - Washington</title>
+    <desc lang="bs">NHL.</desc>
+    <category lang="bs">Hokej</category>
+  </programme>
+  <programme start="20240426120000 +0200" stop="20240426133000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Pregled 6. nedelje</title>
+    <desc lang="bs">NFL.</desc>
+    <category lang="bs">Američki fudbal</category>
+  </programme>
+  <programme start="20240426133000 +0200" stop="20240426160000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Kansas City Chiefs - Cincinnati Bengals, 31.12.23.</title>
+    <desc lang="bs">NFL.</desc>
+    <category lang="bs">Američki fudbal</category>
+  </programme>
+  <programme start="20240426160000 +0200" stop="20240426180000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Milwaukee - Indiana, G2</title>
+    <desc lang="bs">NBA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240426180000 +0200" stop="20240426230000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Uživo: Viminacijum</title>
+    <desc lang="bs">MTS 3X3 LEAGUE.</desc>
+    <category lang="bs">Basket 3x3</category>
+  </programme>
+  <programme start="20240426230000 +0200" stop="20240426233000 +0200" channel="arenasport6.rs">
+    <title lang="bs">NBA Action</title>
+    <desc lang="bs">NBA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240426233000 +0200" stop="20240427020000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Indiana - Houston, 6.1.24.</title>
+    <desc lang="bs">NFL.</desc>
+    <category lang="bs">Američki fudbal</category>
+  </programme>
+  <programme start="20240425000000 +0200" stop="20240425013000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Fenerbahce - Darussafaka</title>
+    <desc lang="bs">TURSKA LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240425013000 +0200" stop="20240425020000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Košarkaška pravila</title>
+  </programme>
+  <programme start="20240425020000 +0200" stop="20240425023000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Homage</title>
+  </programme>
+  <programme start="20240425023000 +0200" stop="20240425040000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Kielce - Magdeburg</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Rukomet</category>
+  </programme>
+  <programme start="20240425040000 +0200" stop="20240425060000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Tenerife - Tofas</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240425060000 +0200" stop="20240425063000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Great Sporting Moments</title>
+  </programme>
+  <programme start="20240425063000 +0200" stop="20240425080000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Montpellier - Kiel</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Rukomet</category>
+  </programme>
+  <programme start="20240425080000 +0200" stop="20240425093000 +0200" channel="arenasport7.rs">
+    <title lang="bs">RNL - Sporting</title>
+    <desc lang="bs">LIGA EVROPE.</desc>
+    <category lang="bs">Rukomet</category>
+  </programme>
+  <programme start="20240425093000 +0200" stop="20240425100000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Homage</title>
+  </programme>
+  <programme start="20240425100000 +0200" stop="20240425120000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Poslednja dva sata trke</title>
+    <desc lang="bs">WEC IMOLA.</desc>
+    <category lang="bs">Auto moto</category>
+  </programme>
+  <programme start="20240425120000 +0200" stop="20240425140000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Anadolu Efes - Turk Telekom</title>
+    <desc lang="bs">TURSKA LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240425140000 +0200" stop="20240425160000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Peristeri - Telekom Bonn</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240425160000 +0200" stop="20240425173000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Neuchatel - Chieri 76, finale</title>
+    <desc lang="bs">CEV CUP Ž.</desc>
+    <category lang="bs">Odbojka</category>
+  </programme>
+  <programme start="20240425173000 +0200" stop="20240425180000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Great Sporting Moments</title>
+  </programme>
+  <programme start="20240425180000 +0200" stop="20240425200000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Virtus - Reggio Emilia</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240425200000 +0200" stop="20240425220000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Chieri 76 - Neuchatel, finale</title>
+    <desc lang="bs">CEV CUP Ž.</desc>
+    <category lang="bs">Odbojka</category>
+  </programme>
+  <programme start="20240425220000 +0200" stop="20240426000000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Besiktas - Galatasaray</title>
+    <desc lang="bs">TURSKA LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240426000000 +0200" stop="20240426010000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Live Stage 1</title>
+    <desc lang="bs">WRC CROATIA RALLY.</desc>
+    <category lang="bs">Auto moto</category>
+  </programme>
+  <programme start="20240426010000 +0200" stop="20240426020000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Live Stage 2</title>
+    <desc lang="bs">WRC CROATIA RALLY.</desc>
+    <category lang="bs">Auto moto</category>
+  </programme>
+  <programme start="20240426020000 +0200" stop="20240426023000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Homage</title>
+  </programme>
+  <programme start="20240426023000 +0200" stop="20240426040000 +0200" channel="arenasport7.rs">
+    <title lang="bs">PSG - Barca</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Rukomet</category>
+  </programme>
+  <programme start="20240426040000 +0200" stop="20240426060000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Petkimspor - Bursaspor</title>
+    <desc lang="bs">TURSKA LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240426060000 +0200" stop="20240426063000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Great Sporting Moments</title>
+  </programme>
+  <programme start="20240426063000 +0200" stop="20240426080000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Telekom Veszprem - Aalborg</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Rukomet</category>
+  </programme>
+  <programme start="20240426080000 +0200" stop="20240426093000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Kielce - Magdeburg</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Rukomet</category>
+  </programme>
+  <programme start="20240426093000 +0200" stop="20240426100000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Homage</title>
+  </programme>
+  <programme start="20240426100000 +0200" stop="20240426120000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Virtus - Reggio Emilia</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240426120000 +0200" stop="20240426140000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Telekom Bonn - Peristeri</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240426140000 +0200" stop="20240426160000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Tofas - Tenerife</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240426160000 +0200" stop="20240426180000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Armani - Givova</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240426180000 +0200" stop="20240426200000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Cremona - Brescia</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240426200000 +0200" stop="20240426220000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Samsunspor - Bahcesehir</title>
+    <desc lang="bs">TURSKA LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240426220000 +0200" stop="20240427000000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Anadolu Efes - Turk Telekom</title>
+    <desc lang="bs">TURSKA LIGA.</desc>
+    <category lang="bs">Košarka</category>
   </programme>
 </tv>
