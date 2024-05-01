@@ -9773,8 +9773,15 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20240501160000 +0000" stop="20240501180000 +0000" channel="sportklub2.rs">
-    <title lang="sr">ATP Masters Madrid (dublovi) (UKLJUČENJE)</title>
+  <programme start="20240501160000 +0000" stop="20240501170000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Madrid: Korda/Thompson - Molteni/Peers (dublovi) (UKLJUČENJE)</title>
+    <desc lang="sr">Pratite prenos uzbudljivih teniskih mečeva s turnira Madrid Open, poznatog i kao Mutua Madrid Open. Ovaj teniski turnir za žene i muškarce održava se svake godine u glavnom gradu Španije. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240501170000 +0000" stop="20240501180000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Madrid: Nis/Zielinski - Glasspool/Rojer (dublovi)</title>
     <desc lang="sr">Pratite prenos uzbudljivih teniskih mečeva s turnira Madrid Open, poznatog i kao Mutua Madrid Open. Ovaj teniski turnir za žene i muškarce održava se svake godine u glavnom gradu Španije. (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
@@ -9972,11 +9979,18 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/08/11/11/10/09/stb_xl_61db9087949b60ece6c7686095d78973fd96128e_6a68efdb4e02066bbe12c85c2411190d.jpg"/>
   </programme>
-  <programme start="20240501090000 +0000" stop="20240501173000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Tenis: WTA 1000 &amp; ATP Masters Madrid</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+  <programme start="20240501140000 +0000" stop="20240501154500 +0000" channel="sportklub5.rs">
+    <title lang="sr">ATP Masters Madrid: Bolelli/Vavassori - Karatsev/Zhang (dublovi)</title>
+    <desc lang="sr">Pratite prenos uzbudljivih teniskih mečeva s turnira Madrid Open, poznatog i kao Mutua Madrid Open. Ovaj teniski turnir za žene i muškarce održava se svake godine u glavnom gradu Španije. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/02/23/13/48/34/stb_xl_e18ba6ec76eda0a649f152874c20296a46428862_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240501154500 +0000" stop="20240501173000 +0000" channel="sportklub5.rs">
+    <title lang="sr">ATP Masters Madrid: Gille/Vliegen - Granollers/Zeballos (dublovi)</title>
+    <desc lang="sr">Pratite prenos uzbudljivih teniskih mečeva s turnira Madrid Open, poznatog i kao Mutua Madrid Open. Ovaj teniski turnir za žene i muškarce održava se svake godine u glavnom gradu Španije. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
     <premiere/>
   </programme>
   <programme start="20240501173000 +0000" stop="20240501180000 +0000" channel="sportklub5.rs">
@@ -10026,8 +10040,8 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/22/stb_xl_52221dbdd54aac1b5b931a4e69f8a7e83f8e9e6f.jpg"/>
   </programme>
-  <programme start="20240501090000 +0000" stop="20240501160000 +0000" channel="sportklub6.rs">
-    <title lang="sr">ATP Masters Madrid: (dublovi)</title>
+  <programme start="20240501140000 +0000" stop="20240501160000 +0000" channel="sportklub6.rs">
+    <title lang="sr">ATP Masters Madrid: Korda/Thompson - Molteni/Peers (dublovi)</title>
     <desc lang="sr">Pratite prenos uzbudljivih teniskih mečeva s turnira Madrid Open, poznatog i kao Mutua Madrid Open. Ovaj teniski turnir za žene i muškarce održava se svake godine u glavnom gradu Španije. (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
@@ -10317,25 +10331,34 @@
     <desc lang="bs">LIGA KONFERENCIJA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501120000 +0200" stop="20240501143000 +0200" channel="arenasport4.rs">
-    <title lang="bs">Man. City - Real Madrid</title>
-    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+  <programme start="20240501120000 +0200" stop="20240501140000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Benfica - Rangers</title>
+    <desc lang="bs">LIGA EVROPE.</desc>
     <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240501140000 +0200" stop="20240501143000 +0200" channel="arenasport4.rs">
+    <title lang="bs">TV Sport</title>
   </programme>
   <programme start="20240501143000 +0200" stop="20240501163000 +0200" channel="arenasport4.rs">
     <title lang="bs">Aston Villa - Lille</title>
     <desc lang="bs">LIGA KONFERENCIJA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501163000 +0200" stop="20240501183000 +0200" channel="arenasport4.rs">
-    <title lang="bs">Milan - Roma</title>
+  <programme start="20240501163000 +0200" stop="20240501170000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Oni vole Srbiju</title>
+  </programme>
+  <programme start="20240501170000 +0200" stop="20240501190000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Uživo: Bodrum - Tofas</title>
+    <desc lang="bs">TURSKA LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240501190000 +0200" stop="20240501200000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Magazin</title>
     <desc lang="bs">LIGA EVROPE.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501183000 +0200" stop="20240501203000 +0200" channel="arenasport4.rs">
-    <title lang="bs">Real Madrid - Man. City</title>
-    <desc lang="bs">LIGA ŠAMPIONA.</desc>
-    <category lang="bs">Fudbal</category>
+  <programme start="20240501200000 +0200" stop="20240501203000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Moja Arena</title>
   </programme>
   <programme start="20240501203000 +0200" stop="20240501223000 +0200" channel="arenasport4.rs">
     <title lang="bs">Roma - Milan</title>
