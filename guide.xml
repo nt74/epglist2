@@ -20578,93 +20578,6 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/2024/03/06/18/45/57/stb_xl_7bb2db9b5e865e169460ded068a287a4b75be56d_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20240501003000 +0200" stop="20240501023000 +0200" channel="arenasport1.rs">
-    <title lang="bs">Bournemouth - Brighton</title>
-    <desc lang="bs">ENGLESKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501023000 +0200" stop="20240501033000 +0200" channel="arenasport1.rs">
-    <title lang="bs">Pregled kola</title>
-    <desc lang="bs">ENGLESKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501033000 +0200" stop="20240501053000 +0200" channel="arenasport1.rs">
-    <title lang="bs">Dundee - Celtic</title>
-    <desc lang="bs">ŠKOTSKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501053000 +0200" stop="20240501054500 +0200" channel="arenasport1.rs">
-    <title lang="bs">Pregled kola</title>
-    <desc lang="bs">ŠKOTSKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501054500 +0200" stop="20240501060000 +0200" channel="arenasport1.rs">
-    <title lang="bs">PL Moments</title>
-    <desc lang="bs">ENGLESKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501060000 +0200" stop="20240501080000 +0200" channel="arenasport1.rs">
-    <title lang="bs">West Ham - Liverpool</title>
-    <desc lang="bs">ENGLESKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501080000 +0200" stop="20240501100000 +0200" channel="arenasport1.rs">
-    <title lang="bs">Coventry - Ipswich</title>
-    <desc lang="bs">CHAMPIONSHIP.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501100000 +0200" stop="20240501120000 +0200" channel="arenasport1.rs">
-    <title lang="bs">Nottingham Forest - Man. City</title>
-    <desc lang="bs">ENGLESKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501120000 +0200" stop="20240501140000 +0200" channel="arenasport1.rs">
-    <title lang="bs">Tottenham - Arsenal</title>
-    <desc lang="bs">ENGLESKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501140000 +0200" stop="20240501160000 +0200" channel="arenasport1.rs">
-    <title lang="bs">St Mirren - Rangers</title>
-    <desc lang="bs">ŠKOTSKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501160000 +0200" stop="20240501170000 +0200" channel="arenasport1.rs">
-    <title lang="bs">U obruču</title>
-    <category lang="bs">Košarka</category>
-  </programme>
-  <programme start="20240501170000 +0200" stop="20240501190000 +0200" channel="arenasport1.rs">
-    <title lang="bs">Uživo: Bodrum - Tofas</title>
-    <desc lang="bs">TURSKA LIGA.</desc>
-    <category lang="bs">Košarka</category>
-  </programme>
-  <programme start="20240501190000 +0200" stop="20240501194500 +0200" channel="arenasport1.rs">
-    <title lang="bs">Inside City</title>
-  </programme>
-  <programme start="20240501194500 +0200" stop="20240501201500 +0200" channel="arenasport1.rs">
-    <title lang="bs">Pregled kola</title>
-    <desc lang="bs">CHAMPIONSHIP.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501201500 +0200" stop="20240501203000 +0200" channel="arenasport1.rs">
-    <title lang="bs">Pregled kola</title>
-    <desc lang="bs">ŠKOTSKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501203000 +0200" stop="20240501223000 +0200" channel="arenasport1.rs">
-    <title lang="bs">Dundee - Celtic</title>
-    <desc lang="bs">ŠKOTSKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501223000 +0200" stop="20240501230000 +0200" channel="arenasport1.rs">
-    <title lang="bs">Netbusters</title>
-    <desc lang="bs">ENGLESKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501230000 +0200" stop="20240502010000 +0200" channel="arenasport1.rs">
-    <title lang="bs">Newcastle - Sheffield</title>
-    <desc lang="bs">ENGLESKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
   <programme start="20240502010000 +0200" stop="20240502030000 +0200" channel="arenasport1.rs">
     <title lang="bs">Wolverhampton - Luton</title>
     <desc lang="bs">ENGLESKA LIGA.</desc>
@@ -20734,64 +20647,81 @@
     <desc lang="bs">MLB.</desc>
     <category lang="bs">Bejzbol</category>
   </programme>
-  <programme start="20240501010000 +0200" stop="20240501020000 +0200" channel="arenasport2.rs">
+  <programme start="20240503000000 +0200" stop="20240503020000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Everton - Brentford</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240503020000 +0200" stop="20240503040000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Bournemouth - Brighton</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240503040000 +0200" stop="20240503060000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Dundee - Celtic</title>
+    <desc lang="bs">ŠKOTSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240503060000 +0200" stop="20240503080000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Wolverhampton - Luton</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240503080000 +0200" stop="20240503100000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Chelsea - Tottenham</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240503100000 +0200" stop="20240503120000 +0200" channel="arenasport1.rs">
+    <title lang="bs">St Mirren - Rangers</title>
+    <desc lang="bs">ŠKOTSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240503120000 +0200" stop="20240503130000 +0200" channel="arenasport1.rs">
     <title lang="bs">Pregled kola</title>
-    <desc lang="bs">ŠPANSKA LIGA.</desc>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501020000 +0200" stop="20240501040000 +0200" channel="arenasport2.rs">
-    <title lang="bs">Cadiz - Mallorca</title>
-    <desc lang="bs">ŠPANSKA LIGA.</desc>
+  <programme start="20240503130000 +0200" stop="20240503150000 +0200" channel="arenasport1.rs">
+    <title lang="bs">West Ham - Liverpool</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501040000 +0200" stop="20240501060000 +0200" channel="arenasport2.rs">
-    <title lang="bs">Frosinone - Salernitana</title>
+  <programme start="20240503150000 +0200" stop="20240503170000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Man. United - Burnley</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240503170000 +0200" stop="20240503171500 +0200" channel="arenasport1.rs">
+    <title lang="bs">TV Sport - ep. 11 Leeds 1</title>
+  </programme>
+  <programme start="20240503171500 +0200" stop="20240503173000 +0200" channel="arenasport1.rs">
+    <title lang="bs">TV Sport - ep. 12 Leeds 2</title>
+  </programme>
+  <programme start="20240503173000 +0200" stop="20240503180000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Oni žive za fudbal - ep. 122 FK NEMENIKUĆE - Sopot</title>
+  </programme>
+  <programme start="20240503180000 +0200" stop="20240503201500 +0200" channel="arenasport1.rs">
+    <title lang="bs">Uživo: Cracovia - Gornik</title>
+    <desc lang="bs">POLJSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240503201500 +0200" stop="20240503204500 +0200" channel="arenasport1.rs">
+    <title lang="bs">Najava kola</title>
     <desc lang="bs">ITALIJANSKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501060000 +0200" stop="20240501080000 +0200" channel="arenasport2.rs">
-    <title lang="bs">Albacete - Eibar</title>
-    <desc lang="bs">ŠPANSKA 2. LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501080000 +0200" stop="20240501100000 +0200" channel="arenasport2.rs">
-    <title lang="bs">Atalanta - Empoli</title>
+  <programme start="20240503204500 +0200" stop="20240503230000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Uživo: Torino - Bologna</title>
     <desc lang="bs">ITALIJANSKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501100000 +0200" stop="20240501120000 +0200" channel="arenasport2.rs">
-    <title lang="bs">Alaves - Celta</title>
-    <desc lang="bs">ŠPANSKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
+  <programme start="20240503230000 +0200" stop="20240503233000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Zona zdravog sporta</title>
   </programme>
-  <programme start="20240501120000 +0200" stop="20240501140000 +0200" channel="arenasport2.rs">
-    <title lang="bs">Inter - Torino</title>
-    <desc lang="bs">ITALIJANSKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501140000 +0200" stop="20240501160000 +0200" channel="arenasport2.rs">
-    <title lang="bs">Las Palmas - Girona</title>
-    <desc lang="bs">ŠPANSKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501160000 +0200" stop="20240501180000 +0200" channel="arenasport2.rs">
-    <title lang="bs">Almeria - Getafe</title>
-    <desc lang="bs">ŠPANSKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501180000 +0200" stop="20240501200000 +0200" channel="arenasport2.rs">
-    <title lang="bs">Napoli - Roma</title>
-    <desc lang="bs">ITALIJANSKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501200000 +0200" stop="20240501220000 +0200" channel="arenasport2.rs">
-    <title lang="bs">Genoa - Cagliari</title>
-    <desc lang="bs">ITALIJANSKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501220000 +0200" stop="20240502000000 +0200" channel="arenasport2.rs">
-    <title lang="bs">Granada - Osasuna</title>
-    <desc lang="bs">ŠPANSKA LIGA.</desc>
+  <programme start="20240503233000 +0200" stop="20240504013000 +0200" channel="arenasport1.rs">
+    <title lang="bs">Fulham - Crystal Palace</title>
+    <desc lang="bs">ENGLESKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
   <programme start="20240502000000 +0200" stop="20240502020000 +0200" channel="arenasport2.rs">
@@ -20864,68 +20794,72 @@
     <desc lang="bs">ITALIJANSKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501013000 +0200" stop="20240501033000 +0200" channel="arenasport3.rs">
-    <title lang="bs">Dinamo - Zenit</title>
-    <desc lang="bs">RUSKA LIGA.</desc>
+  <programme start="20240503010000 +0200" stop="20240503020000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Pregled kola</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501033000 +0200" stop="20240501053000 +0200" channel="arenasport3.rs">
-    <title lang="bs">Baltika - CSKA</title>
-    <desc lang="bs">RUSKA LIGA.</desc>
+  <programme start="20240503020000 +0200" stop="20240503040000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Almeria - Getafe</title>
+    <desc lang="bs">ŠPANSKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501053000 +0200" stop="20240501060000 +0200" channel="arenasport3.rs">
-    <title lang="bs">Očevi šampioni - ep. 33 Dragan Katanić</title>
+  <programme start="20240503040000 +0200" stop="20240503060000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Bologna - Udinese</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501060000 +0200" stop="20240501083000 +0200" channel="arenasport3.rs">
-    <title lang="bs">Metallurg - Lokomotiv, finale G2</title>
-    <desc lang="bs">KHL.</desc>
-    <category lang="bs">Hokej</category>
+  <programme start="20240503060000 +0200" stop="20240503080000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Fiorentina - Sassuolo</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501083000 +0200" stop="20240501101500 +0200" channel="arenasport3.rs">
-    <title lang="bs">Din. Moskva - Zenit Kazan, finale G3</title>
-    <desc lang="bs">RUSKA LIGA.</desc>
-    <category lang="bs">Odbojka</category>
+  <programme start="20240503080000 +0200" stop="20240503100000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Real Sociedad - Real Madrid</title>
+    <desc lang="bs">ŠPANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501101500 +0200" stop="20240501120000 +0200" channel="arenasport3.rs">
-    <title lang="bs">Samara - Unics, G3</title>
-    <desc lang="bs">VTB LIGA.</desc>
+  <programme start="20240503100000 +0200" stop="20240503120000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Juventus - Milan</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240503120000 +0200" stop="20240503140000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Las Palmas - Girona</title>
+    <desc lang="bs">ŠPANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240503140000 +0200" stop="20240503160000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Lazio - Verona</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240503160000 +0200" stop="20240503180000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Uživo: Benfica - Palma</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Futsal</category>
+  </programme>
+  <programme start="20240503180000 +0200" stop="20240503190000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Pregled kola</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240503190000 +0200" stop="20240503203000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Armani - Brescia</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
     <category lang="bs">Košarka</category>
   </programme>
-  <programme start="20240501120000 +0200" stop="20240501140000 +0200" channel="arenasport3.rs">
-    <title lang="bs">Sochi - Fakel</title>
-    <desc lang="bs">RUSKA LIGA.</desc>
+  <programme start="20240503203000 +0200" stop="20240503223000 +0200" channel="arenasport2.rs">
+    <title lang="bs">Uživo: Barnsley - Bolton</title>
+    <desc lang="bs">LEAGUE 1.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501140000 +0200" stop="20240501160000 +0200" channel="arenasport3.rs">
-    <title lang="bs">Rostov - Orenburg</title>
-    <desc lang="bs">RUSKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
+  <programme start="20240503223000 +0200" stop="20240503234500 +0200" channel="arenasport2.rs">
+    <title lang="bs">Neuspjeh prvaka sa Mirzom Džombom - Dejan Stanković</title>
   </programme>
-  <programme start="20240501160000 +0200" stop="20240501183000 +0200" channel="arenasport3.rs">
-    <title lang="bs">Lokomotiv - Metallurg, finale G3</title>
-    <desc lang="bs">KHL.</desc>
-    <category lang="bs">Hokej</category>
-  </programme>
-  <programme start="20240501183000 +0200" stop="20240501190000 +0200" channel="arenasport3.rs">
-    <title lang="bs">Oni žive za fudbal - ep. 121 FK POPOVIĆ - Sopot</title>
-  </programme>
-  <programme start="20240501190000 +0200" stop="20240501210000 +0200" channel="arenasport3.rs">
-    <title lang="bs">Spartak - Lokomotiv</title>
-    <desc lang="bs">RUSKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501210000 +0200" stop="20240501213000 +0200" channel="arenasport3.rs">
-    <title lang="bs">Zona zdravog sporta</title>
-  </programme>
-  <programme start="20240501213000 +0200" stop="20240501233000 +0200" channel="arenasport3.rs">
-    <title lang="bs">Dinamo - Zenit</title>
-    <desc lang="bs">RUSKA LIGA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501233000 +0200" stop="20240502013000 +0200" channel="arenasport3.rs">
-    <title lang="bs">Baltika - CSKA</title>
-    <desc lang="bs">RUSKA LIGA.</desc>
+  <programme start="20240503234500 +0200" stop="20240504000000 +0200" channel="arenasport2.rs">
+    <title lang="bs">La Liga Zap</title>
+    <desc lang="bs">ŠPANSKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
   <programme start="20240502013000 +0200" stop="20240502033000 +0200" channel="arenasport3.rs">
@@ -20986,78 +20920,67 @@
     <desc lang="bs">VTB LIGA.</desc>
     <category lang="bs">Košarka</category>
   </programme>
-  <programme start="20240501010000 +0200" stop="20240501030000 +0200" channel="arenasport4.rs">
-    <title lang="bs">Atletico - Borussia (D)</title>
-    <desc lang="bs">LIGA ŠAMPIONA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501030000 +0200" stop="20240501050000 +0200" channel="arenasport4.rs">
-    <title lang="bs">Bayer - West Ham</title>
-    <desc lang="bs">LIGA EVROPE.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501050000 +0200" stop="20240501060000 +0200" channel="arenasport4.rs">
-    <title lang="bs">Pregled</title>
-    <desc lang="bs">LIGA EVROPE.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501060000 +0200" stop="20240501080000 +0200" channel="arenasport4.rs">
-    <title lang="bs">Borussia (D) - Atletico</title>
-    <desc lang="bs">LIGA ŠAMPIONA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501080000 +0200" stop="20240501100000 +0200" channel="arenasport4.rs">
-    <title lang="bs">West Ham - Bayer</title>
-    <desc lang="bs">LIGA EVROPE.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501100000 +0200" stop="20240501120000 +0200" channel="arenasport4.rs">
-    <title lang="bs">Club Brugge - PAOK</title>
-    <desc lang="bs">LIGA KONFERENCIJA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501120000 +0200" stop="20240501140000 +0200" channel="arenasport4.rs">
-    <title lang="bs">Benfica - Rangers</title>
-    <desc lang="bs">LIGA EVROPE.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501140000 +0200" stop="20240501143000 +0200" channel="arenasport4.rs">
-    <title lang="bs">TV Sport</title>
-  </programme>
-  <programme start="20240501143000 +0200" stop="20240501163000 +0200" channel="arenasport4.rs">
-    <title lang="bs">Aston Villa - Lille</title>
-    <desc lang="bs">LIGA KONFERENCIJA.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501163000 +0200" stop="20240501170000 +0200" channel="arenasport4.rs">
-    <title lang="bs">Oni vole Srbiju</title>
-  </programme>
-  <programme start="20240501170000 +0200" stop="20240501190000 +0200" channel="arenasport4.rs">
-    <title lang="bs">Uživo: Bodrum - Tofas</title>
-    <desc lang="bs">TURSKA LIGA.</desc>
+  <programme start="20240503001500 +0200" stop="20240503020000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Enisey - CSKA, G3</title>
+    <desc lang="bs">VTB LIGA.</desc>
     <category lang="bs">Košarka</category>
   </programme>
-  <programme start="20240501190000 +0200" stop="20240501200000 +0200" channel="arenasport4.rs">
-    <title lang="bs">Magazin</title>
-    <desc lang="bs">LIGA EVROPE.</desc>
+  <programme start="20240503020000 +0200" stop="20240503040000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Akhmat - Nizhny Novgorod</title>
+    <desc lang="bs">RUSKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501200000 +0200" stop="20240501203000 +0200" channel="arenasport4.rs">
-    <title lang="bs">Moja Arena</title>
-  </programme>
-  <programme start="20240501203000 +0200" stop="20240501223000 +0200" channel="arenasport4.rs">
-    <title lang="bs">Roma - Milan</title>
-    <desc lang="bs">LIGA EVROPE.</desc>
+  <programme start="20240503040000 +0200" stop="20240503060000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Sochi - Fakel</title>
+    <desc lang="bs">RUSKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501223000 +0200" stop="20240501231500 +0200" channel="arenasport4.rs">
-    <title lang="bs">Pregled 9.4.</title>
-    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+  <programme start="20240503060000 +0200" stop="20240503083000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Lokomotiv - Metallurg, finale G4</title>
+    <desc lang="bs">KHL.</desc>
+    <category lang="bs">Hokej</category>
+  </programme>
+  <programme start="20240503083000 +0200" stop="20240503101500 +0200" channel="arenasport3.rs">
+    <title lang="bs">Samara - Unics, G3</title>
+    <desc lang="bs">VTB LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240503101500 +0200" stop="20240503120000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Enisey - CSKA, G3</title>
+    <desc lang="bs">VTB LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240503120000 +0200" stop="20240503140000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Akhmat - Nizhny Novgorod</title>
+    <desc lang="bs">RUSKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501231500 +0200" stop="20240502011500 +0200" channel="arenasport4.rs">
-    <title lang="bs">Ajax - Aston Villa, 7.3.</title>
-    <desc lang="bs">LIGA KONFERENCIJA.</desc>
+  <programme start="20240503140000 +0200" stop="20240503160000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Krylya Sovetov - Krasnodar</title>
+    <desc lang="bs">RUSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240503160000 +0200" stop="20240503183000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Metallurg - Lokomotiv, finale G1</title>
+    <desc lang="bs">KHL.</desc>
+    <category lang="bs">Hokej</category>
+  </programme>
+  <programme start="20240503183000 +0200" stop="20240503203000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Dinamo - Zenit</title>
+    <desc lang="bs">RUSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240503203000 +0200" stop="20240503223000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Uživo: Villarreal II - Levante</title>
+    <desc lang="bs">ŠPANSKA 2. LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240503223000 +0200" stop="20240503230000 +0200" channel="arenasport3.rs">
+    <title lang="bs">One žive za fudbal - ep. 04</title>
+  </programme>
+  <programme start="20240503230000 +0200" stop="20240504010000 +0200" channel="arenasport3.rs">
+    <title lang="bs">Sochi - Fakel</title>
+    <desc lang="bs">RUSKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
   <programme start="20240502011500 +0200" stop="20240502031500 +0200" channel="arenasport4.rs">
@@ -21120,74 +21043,67 @@
     <desc lang="bs">LIGA ŠAMPIONA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501010000 +0200" stop="20240501020000 +0200" channel="arenasport5.rs">
-    <title lang="bs">Pregled 9. kola</title>
-    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+  <programme start="20240503010000 +0200" stop="20240503030000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Benfica - Marseille</title>
+    <desc lang="bs">LIGA EVROPE.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501020000 +0200" stop="20240501040000 +0200" channel="arenasport5.rs">
-    <title lang="bs">Holandija - Republika Irska, 18.11.23.</title>
-    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+  <programme start="20240503030000 +0200" stop="20240503060000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Lille - Aston Villa</title>
+    <desc lang="bs">LIGA KONFERENCIJA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501040000 +0200" stop="20240501060000 +0200" channel="arenasport5.rs">
-    <title lang="bs">Senegal - Holandija, 21.11.22.</title>
-    <desc lang="bs">SVETSKO PRVENSTVO.</desc>
+  <programme start="20240503060000 +0200" stop="20240503080000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Bayern - Lazio, 5.3.</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501060000 +0200" stop="20240501080000 +0200" channel="arenasport5.rs">
-    <title lang="bs">Poljska - Estonija</title>
-    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+  <programme start="20240503080000 +0200" stop="20240503100000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Bayer - West Ham</title>
+    <desc lang="bs">LIGA EVROPE.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501080000 +0200" stop="20240501100000 +0200" channel="arenasport5.rs">
-    <title lang="bs">Holandija - SAD, 3.12.22.</title>
-    <desc lang="bs">SVETSKO PRVENSTVO.</desc>
+  <programme start="20240503100000 +0200" stop="20240503130000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Marseille - Benfica</title>
+    <desc lang="bs">LIGA EVROPE.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501100000 +0200" stop="20240501103000 +0200" channel="arenasport5.rs">
-    <title lang="bs">U susret EURU 2024 - ep. 07</title>
-    <desc lang="bs">EVROPSKO PRVENSTVO.</desc>
+  <programme start="20240503130000 +0200" stop="20240503150000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Borussia (D) - Atletico</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501103000 +0200" stop="20240501123000 +0200" channel="arenasport5.rs">
-    <title lang="bs">Francuska - Maroko, 14.12.22.</title>
-    <desc lang="bs">SVETSKO PRVENSTVO.</desc>
+  <programme start="20240503150000 +0200" stop="20240503160000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Pregled polufinala</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501123000 +0200" stop="20240501150000 +0200" channel="arenasport5.rs">
-    <title lang="bs">Gruzija - Grčka</title>
-    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+  <programme start="20240503160000 +0200" stop="20240503180000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Uživo: Željezničar - Tuzla</title>
+    <desc lang="bs">WWIN LIGA BIH.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501150000 +0200" stop="20240501160000 +0200" channel="arenasport5.rs">
-    <title lang="bs">Pregled 7. kola</title>
-    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+  <programme start="20240503180000 +0200" stop="20240503200000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Uživo: Velež - Posušje</title>
+    <desc lang="bs">WWIN LIGA BIH.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501160000 +0200" stop="20240501180000 +0200" channel="arenasport5.rs">
-    <title lang="bs">Koreja - Gana, 28.11.22.</title>
-    <desc lang="bs">SVETSKO PRVENSTVO.</desc>
+  <programme start="20240503200000 +0200" stop="20240503203000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Sporting Rivalries</title>
+  </programme>
+  <programme start="20240503203000 +0200" stop="20240503223000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Uživo: Zrinjski - Široki</title>
+    <desc lang="bs">WWIN LIGA BIH.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501180000 +0200" stop="20240501200000 +0200" channel="arenasport5.rs">
-    <title lang="bs">Poljska - Češka, 17.11.23.</title>
-    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+  <programme start="20240503223000 +0200" stop="20240503233000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Pregled</title>
+    <desc lang="bs">LIGA EVROPE.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501200000 +0200" stop="20240501210000 +0200" channel="arenasport5.rs">
-    <title lang="bs">Pregled 8. kola</title>
-    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501210000 +0200" stop="20240501230000 +0200" channel="arenasport5.rs">
-    <title lang="bs">Vels - Engleska, 29.11.22.</title>
-    <desc lang="bs">SVETSKO PRVENSTVO.</desc>
-    <category lang="bs">Fudbal</category>
-  </programme>
-  <programme start="20240501230000 +0200" stop="20240502010000 +0200" channel="arenasport5.rs">
-    <title lang="bs">Kipar - Srbija</title>
-    <desc lang="bs">PRIJATELJSKA UTAKMICA.</desc>
+  <programme start="20240503233000 +0200" stop="20240504020000 +0200" channel="arenasport4.rs">
+    <title lang="bs">Atletico - Inter</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
   <programme start="20240502010000 +0200" stop="20240502040000 +0200" channel="arenasport5.rs">
@@ -21255,68 +21171,75 @@
     <desc lang="bs">EURO KVALIFIKACIJE.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501020000 +0200" stop="20240501040000 +0200" channel="arenasport6.rs">
-    <title lang="bs">LA Lakers - Denver, G3</title>
-    <desc lang="bs">NBA.</desc>
-    <category lang="bs">Košarka</category>
+  <programme start="20240503000000 +0200" stop="20240503020000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Francuska - Australija, 21.11.22.</title>
+    <desc lang="bs">SVETSKO PRVENSTVO.</desc>
+    <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501040000 +0200" stop="20240501060000 +0200" channel="arenasport6.rs">
-    <title lang="bs">Toronto - Boston, G3</title>
-    <desc lang="bs">NHL.</desc>
-    <category lang="bs">Hokej</category>
+  <programme start="20240503020000 +0200" stop="20240503040000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Severna Irska - Danska, 20.11.23.</title>
+    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+    <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501060000 +0200" stop="20240501080000 +0200" channel="arenasport6.rs">
-    <title lang="bs">Minnesota - Phoenix, G2</title>
-    <desc lang="bs">NBA.</desc>
-    <category lang="bs">Košarka</category>
+  <programme start="20240503040000 +0200" stop="20240503060000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Francuska - Danska, 26.11.22.</title>
+    <desc lang="bs">SVETSKO PRVENSTVO.</desc>
+    <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501080000 +0200" stop="20240501100000 +0200" channel="arenasport6.rs">
-    <title lang="bs">Dallas - New Orleans, 12.2.21.</title>
-    <desc lang="bs">NBA.</desc>
-    <category lang="bs">Košarka</category>
+  <programme start="20240503060000 +0200" stop="20240503080000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Grčka - Kazahstan</title>
+    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+    <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501100000 +0200" stop="20240501120000 +0200" channel="arenasport6.rs">
-    <title lang="bs">Boston - Toronto, G2</title>
-    <desc lang="bs">NHL.</desc>
-    <category lang="bs">Hokej</category>
+  <programme start="20240503080000 +0200" stop="20240503100000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Engleska - Iran, 21.11.22.</title>
+    <desc lang="bs">SVETSKO PRVENSTVO.</desc>
+    <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501120000 +0200" stop="20240501123000 +0200" channel="arenasport6.rs">
-    <title lang="bs">DIREKT</title>
+  <programme start="20240503100000 +0200" stop="20240503110000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Pregled 2. kola</title>
+    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+    <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501123000 +0200" stop="20240501140000 +0200" channel="arenasport6.rs">
-    <title lang="bs">Pregled 10. nedelje</title>
-    <desc lang="bs">NFL.</desc>
-    <category lang="bs">Američki fudbal</category>
+  <programme start="20240503110000 +0200" stop="20240503130000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Poljska - Estonija</title>
+    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+    <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501140000 +0200" stop="20240501163000 +0200" channel="arenasport6.rs">
-    <title lang="bs">Detroit Lions - Tampa Bay Buccaneers, 16.1.</title>
-    <desc lang="bs">NFL.</desc>
-    <category lang="bs">Američki fudbal</category>
+  <programme start="20240503130000 +0200" stop="20240503140000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Pregled 3. kola</title>
+    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+    <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501163000 +0200" stop="20240501183000 +0200" channel="arenasport6.rs">
-    <title lang="bs">LA Lakers - Denver, G3</title>
-    <desc lang="bs">NBA.</desc>
-    <category lang="bs">Košarka</category>
+  <programme start="20240503140000 +0200" stop="20240503160000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Brazil - Koreja, 5.12.22.</title>
+    <desc lang="bs">SVETSKO PRVENSTVO.</desc>
+    <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501183000 +0200" stop="20240501210000 +0200" channel="arenasport6.rs">
-    <title lang="bs">Dallas - LA Clippers, G4</title>
-    <desc lang="bs">NBA.</desc>
-    <category lang="bs">Košarka</category>
+  <programme start="20240503160000 +0200" stop="20240503180000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Holandija - USA, 3.12.22.</title>
+    <desc lang="bs">SVETSKO PRVENSTVO.</desc>
+    <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501210000 +0200" stop="20240501213000 +0200" channel="arenasport6.rs">
-    <title lang="bs">NBA Action</title>
-    <desc lang="bs">NBA.</desc>
-    <category lang="bs">Košarka</category>
+  <programme start="20240503180000 +0200" stop="20240503200000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Severna Irska - Danska, 20.11.23.</title>
+    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+    <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501213000 +0200" stop="20240501233000 +0200" channel="arenasport6.rs">
-    <title lang="bs">LA Lakers - Denver, G4</title>
-    <desc lang="bs">NBA.</desc>
-    <category lang="bs">Košarka</category>
+  <programme start="20240503200000 +0200" stop="20240503204500 +0200" channel="arenasport5.rs">
+    <title lang="bs">Pregled 4. kola</title>
+    <desc lang="bs">EURO KVALIFIKACIJE.</desc>
+    <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501233000 +0200" stop="20240502020000 +0200" channel="arenasport6.rs">
-    <title lang="bs">Buffalo Bills - Kansas City Chiefs, 22.1.</title>
-    <desc lang="bs">NFL.</desc>
-    <category lang="bs">Američki fudbal</category>
+  <programme start="20240503204500 +0200" stop="20240503224500 +0200" channel="arenasport5.rs">
+    <title lang="bs">Uživo: Dundee United - Partick Thistle</title>
+    <desc lang="bs">ŠKOTSKA 2. LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20240503224500 +0200" stop="20240504010000 +0200" channel="arenasport5.rs">
+    <title lang="bs">Belgija - Kanada, 23.11.22.</title>
+    <desc lang="bs">SVETSKO PRVENSTVO.</desc>
+    <category lang="bs">Fudbal</category>
   </programme>
   <programme start="20240502020000 +0200" stop="20240502040000 +0200" channel="arenasport6.rs">
     <title lang="bs">Clevland - Orlando, G2</title>
@@ -21383,77 +21306,71 @@
     <desc lang="bs">NFL.</desc>
     <category lang="bs">Američki fudbal</category>
   </programme>
-  <programme start="20240501000000 +0200" stop="20240501020000 +0200" channel="arenasport7.rs">
-    <title lang="bs">Bodrum Spor - Manisa</title>
-    <desc lang="bs">TURSKA LIGA.</desc>
+  <programme start="20240503020000 +0200" stop="20240503040000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Denver - LA Lakers, G2</title>
+    <desc lang="bs">NBA.</desc>
     <category lang="bs">Košarka</category>
   </programme>
-  <programme start="20240501020000 +0200" stop="20240501023000 +0200" channel="arenasport7.rs">
-    <title lang="bs">Homage</title>
+  <programme start="20240503040000 +0200" stop="20240503060000 +0200" channel="arenasport6.rs">
+    <title lang="bs">NY Rangers - Washington, G2</title>
+    <desc lang="bs">NHL.</desc>
+    <category lang="bs">Hokej</category>
   </programme>
-  <programme start="20240501023000 +0200" stop="20240501040000 +0200" channel="arenasport7.rs">
-    <title lang="bs">Nantes - Fuchse</title>
-    <desc lang="bs">LIGA EVROPE.</desc>
-    <category lang="bs">Rukomet</category>
-  </programme>
-  <programme start="20240501040000 +0200" stop="20240501060000 +0200" channel="arenasport7.rs">
-    <title lang="bs">Galatasaray - Samsunspor</title>
-    <desc lang="bs">TURSKA LIGA.</desc>
+  <programme start="20240503060000 +0200" stop="20240503080000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Boston - Miami, G2</title>
+    <desc lang="bs">NBA.</desc>
     <category lang="bs">Košarka</category>
   </programme>
-  <programme start="20240501060000 +0200" stop="20240501063000 +0200" channel="arenasport7.rs">
-    <title lang="bs">Great Sporting Moments</title>
-  </programme>
-  <programme start="20240501063000 +0200" stop="20240501080000 +0200" channel="arenasport7.rs">
-    <title lang="bs">Skjern - Dinamo</title>
-    <desc lang="bs">LIGA EVROPE.</desc>
-    <category lang="bs">Rukomet</category>
-  </programme>
-  <programme start="20240501080000 +0200" stop="20240501093000 +0200" channel="arenasport7.rs">
-    <title lang="bs">Flensburg - Savehof</title>
-    <desc lang="bs">LIGA EVROPE.</desc>
-    <category lang="bs">Rukomet</category>
-  </programme>
-  <programme start="20240501093000 +0200" stop="20240501100000 +0200" channel="arenasport7.rs">
-    <title lang="bs">Homage</title>
-  </programme>
-  <programme start="20240501100000 +0200" stop="20240501120000 +0200" channel="arenasport7.rs">
-    <title lang="bs">Bahcesehir - Tofas</title>
-    <desc lang="bs">TURSKA LIGA.</desc>
+  <programme start="20240503080000 +0200" stop="20240503094500 +0200" channel="arenasport6.rs">
+    <title lang="bs">Boston - La Clippers, 30.12.22.</title>
+    <desc lang="bs">NBA.</desc>
     <category lang="bs">Košarka</category>
   </programme>
-  <programme start="20240501120000 +0200" stop="20240501140000 +0200" channel="arenasport7.rs">
-    <title lang="bs">Armani - Brescia</title>
-    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+  <programme start="20240503094500 +0200" stop="20240503100000 +0200" channel="arenasport6.rs">
+    <title lang="bs">NBA ABC</title>
+  </programme>
+  <programme start="20240503100000 +0200" stop="20240503120000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Tampa Bay - Florida, G4</title>
+    <desc lang="bs">NHL.</desc>
+    <category lang="bs">Hokej</category>
+  </programme>
+  <programme start="20240503120000 +0200" stop="20240503123000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Pregled nedelje</title>
+    <desc lang="bs">MLB.</desc>
+    <category lang="bs">Bejzbol</category>
+  </programme>
+  <programme start="20240503123000 +0200" stop="20240503140000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Pregled 12. nedelje</title>
+    <desc lang="bs">NFL.</desc>
+    <category lang="bs">Američki fudbal</category>
+  </programme>
+  <programme start="20240503140000 +0200" stop="20240503160000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Probowl 2024</title>
+    <desc lang="bs">NFL.</desc>
+    <category lang="bs">Američki fudbal</category>
+  </programme>
+  <programme start="20240503160000 +0200" stop="20240503163000 +0200" channel="arenasport6.rs">
+    <title lang="bs">DIREKT</title>
+  </programme>
+  <programme start="20240503163000 +0200" stop="20240503183000 +0200" channel="arenasport6.rs">
+    <title lang="bs">LA Lakers - Denver, G4</title>
+    <desc lang="bs">NBA.</desc>
     <category lang="bs">Košarka</category>
   </programme>
-  <programme start="20240501140000 +0200" stop="20240501160000 +0200" channel="arenasport7.rs">
-    <title lang="bs">Murcia - Unicaja, polufinale</title>
-    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+  <programme start="20240503183000 +0200" stop="20240503203000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Philadelphia - New York, G6</title>
+    <desc lang="bs">NBA.</desc>
     <category lang="bs">Košarka</category>
   </programme>
-  <programme start="20240501160000 +0200" stop="20240501180000 +0200" channel="arenasport7.rs">
-    <title lang="bs">Eczacibasi - Conegliano, polufinale</title>
-    <desc lang="bs">LIGA ŠAMPIONA Ž.</desc>
-    <category lang="bs">Odbojka</category>
+  <programme start="20240503203000 +0200" stop="20240503223000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Uživo: Ruch -Lech</title>
+    <desc lang="bs">POLJSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20240501180000 +0200" stop="20240501183000 +0200" channel="arenasport7.rs">
-    <title lang="bs">Great Sporting Moments</title>
-  </programme>
-  <programme start="20240501183000 +0200" stop="20240501200000 +0200" channel="arenasport7.rs">
-    <title lang="bs">Virtus - Reggio Emilia</title>
-    <desc lang="bs">ITALIJANSKA LIGA.</desc>
-    <category lang="bs">Košarka</category>
-  </programme>
-  <programme start="20240501200000 +0200" stop="20240501220000 +0200" channel="arenasport7.rs">
-    <title lang="bs">Trentino - Lube, polufinale</title>
-    <desc lang="bs">LIGA ŠAMPIONA.</desc>
-    <category lang="bs">Odbojka</category>
-  </programme>
-  <programme start="20240501220000 +0200" stop="20240502000000 +0200" channel="arenasport7.rs">
-    <title lang="bs">Tenerife - Peristeri, polufinale</title>
-    <desc lang="bs">LIGA ŠAMPIONA.</desc>
-    <category lang="bs">Košarka</category>
+  <programme start="20240503223000 +0200" stop="20240504020000 +0200" channel="arenasport6.rs">
+    <title lang="bs">Kansas City - San Francisco, Superbowl</title>
+    <desc lang="bs">NFL.</desc>
+    <category lang="bs">Američki fudbal</category>
   </programme>
   <programme start="20240502000000 +0200" stop="20240502020000 +0200" channel="arenasport7.rs">
     <title lang="bs">Peristeri - Murcia, meč za 3. mesto</title>
@@ -21521,6 +21438,82 @@
   </programme>
   <programme start="20240502220000 +0200" stop="20240503000000 +0200" channel="arenasport7.rs">
     <title lang="bs">Murcia - Unicaja, polufinale</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240503000000 +0200" stop="20240503010000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Pregled</title>
+    <desc lang="bs">WEC IMOLA.</desc>
+    <category lang="bs">Auto moto</category>
+  </programme>
+  <programme start="20240503010000 +0200" stop="20240503023000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Armani - Givova</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240503023000 +0200" stop="20240503040000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Kiel - Montpellier</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Rukomet</category>
+  </programme>
+  <programme start="20240503040000 +0200" stop="20240503060000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Bahcesehir - Tofas</title>
+    <desc lang="bs">TURSKA LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240503060000 +0200" stop="20240503063000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Great Sporting Moments</title>
+  </programme>
+  <programme start="20240503063000 +0200" stop="20240503080000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Sporting - RNL</title>
+    <desc lang="bs">LIGA EVROPE.</desc>
+    <category lang="bs">Rukomet</category>
+  </programme>
+  <programme start="20240503080000 +0200" stop="20240503093000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Magdeburg - Kielce</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Rukomet</category>
+  </programme>
+  <programme start="20240503093000 +0200" stop="20240503100000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Homage</title>
+  </programme>
+  <programme start="20240503100000 +0200" stop="20240503113000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Armani - Brescia</title>
+    <desc lang="bs">ITALIJANSKA LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240503113000 +0200" stop="20240503133000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Turk Telekom - Besiktas</title>
+    <desc lang="bs">TURSKA LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240503133000 +0200" stop="20240503153000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Galatasaray - Samsunspor</title>
+    <desc lang="bs">TURSKA LIGA.</desc>
+    <category lang="bs">Košarka</category>
+  </programme>
+  <programme start="20240503153000 +0200" stop="20240503173000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Rzeszow - Luneburg, finale</title>
+    <desc lang="bs">CEV CUP.</desc>
+    <category lang="bs">Odbojka</category>
+  </programme>
+  <programme start="20240503173000 +0200" stop="20240503190000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Neuchatel - Chieri 76, finale</title>
+    <desc lang="bs">CEV CUP Ž.</desc>
+    <category lang="bs">Odbojka</category>
+  </programme>
+  <programme start="20240503190000 +0200" stop="20240503210000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Uživo: Barcelona - Sporting</title>
+    <desc lang="bs">LIGA ŠAMPIONA.</desc>
+    <category lang="bs">Futsal</category>
+  </programme>
+  <programme start="20240503210000 +0200" stop="20240503220000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Alabama, pregled</title>
+    <desc lang="bs">INDYCAR.</desc>
+    <category lang="bs">Auto moto</category>
+  </programme>
+  <programme start="20240503220000 +0200" stop="20240504000000 +0200" channel="arenasport7.rs">
+    <title lang="bs">Peristeri - Murcia, meč za 3. mesto</title>
     <desc lang="bs">LIGA ŠAMPIONA.</desc>
     <category lang="bs">Košarka</category>
   </programme>
