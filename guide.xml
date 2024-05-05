@@ -186,99 +186,76 @@
     <url>http://www.allente.se</url>
   </channel>
   <channel id="ert1.gr">
-    <display-name lang="el">ΕΡΤ1 HD</display-name>
-    <icon src="https://www.cosmote.gr/portal/documents/148154061/148157781/96176518/41acaf68-3399-f43d-8d3e-c652f999ba4d?version=1.0&amp;t=1680276276696"/>
-    <url>http://www.cosmote.gr</url>
+    <display-name lang="el">ΕΡΤ1</display-name>
+    <url>http://www.ishow.gr</url>
   </channel>
   <channel id="ert2.gr">
-    <display-name lang="el">ΕΡΤ2 HD</display-name>
-    <icon src="https://www.cosmote.gr/portal/documents/148154061/148157787/96176530/cba0950f-5aef-5753-2dff-f723ba4ea543?version=1.0&amp;t=1680276228937"/>
-    <url>http://www.cosmote.gr</url>
+    <display-name lang="el">ΕΡΤ2</display-name>
+    <url>http://www.ishow.gr</url>
   </channel>
   <channel id="ert3.gr">
-    <display-name lang="el">ΕΡΤ3 HD</display-name>
-    <icon src="https://www.cosmote.gr/portal/documents/148154061/148176450/96176482?version=1.0&amp;t=1680276300355"/>
-    <url>http://www.cosmote.gr</url>
+    <display-name lang="el">ΕΡΤ HD</display-name>
+    <url>http://www.ishow.gr</url>
   </channel>
   <channel id="ant1.gr">
-    <display-name lang="el">ANT1 HD</display-name>
-    <icon src="https://www.cosmote.gr/portal/documents/148154061/148157957/144814629/e09f3d4f-f062-8bea-7223-8e99a4e83ab9?version=1.0&amp;t=1680276256293"/>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="alpha.gr">
-    <display-name lang="el">ALPHA HD</display-name>
-    <icon src="https://www.cosmote.gr/portal/documents/148154061/148179430/60901121/c3a09ef1-326b-74f8-0a37-53b70ce38756?version=1.0&amp;t=1680276365535"/>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="star.gr">
-    <display-name lang="el">STAR HD</display-name>
-    <icon src="https://www.cosmote.gr/portal/documents/148154061/148170225/92731237/b67f7ffc-0b66-110f-ec8c-57f1736cf1e1?version=1.0&amp;t=1680276286894"/>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="skai.gr">
-    <display-name lang="el">ΣΚΑΪ HD</display-name>
-    <icon src="https://www.cosmote.gr/portal/documents/148154061/148157445/58680743/dfc15bb5-34e8-14cd-2403-5bff7da55de9?version=1.0&amp;t=1680276280447"/>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="epsilontv.gr">
-    <display-name lang="el">OPEN BEYOND HD</display-name>
-    <icon src="https://www.cosmote.gr/portal/documents/148154061/148154569/81433235/1d620b8a-b77f-befa-0895-1250046a4fda?version=1.0&amp;t=1680276162508"/>
-    <url>http://www.cosmote.gr</url>
+    <display-name lang="el">ANT1</display-name>
+    <url>http://www.ishow.gr</url>
   </channel>
   <channel id="mega.gr">
-    <display-name lang="el">MEGA HD</display-name>
-    <icon src="https://www.cosmote.gr/portal/documents/148154061/148206636/81491231/992da856-ba5a-0b09-e8b2-f1f37b29abfc?version=1.0&amp;t=1680276324441"/>
-    <url>http://www.cosmote.gr</url>
+    <display-name lang="el">MEGA</display-name>
+    <url>http://www.ishow.gr</url>
   </channel>
   <channel id="makedoniatv.gr">
-    <display-name lang="el">Μακεδονία TV HD</display-name>
-    <icon src="https://www.cosmote.gr/portal/documents/d/otetv/maktv_400x400-normal-"/>
-    <url>http://www.cosmote.gr</url>
+    <display-name lang="el">Μακεδονία TV</display-name>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="skai.gr">
+    <display-name lang="el">ΣΚΑΙ</display-name>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="epsilontv.gr">
+    <display-name lang="el">Open Beyond TV</display-name>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="alpha.gr">
+    <display-name lang="el">ALPHA</display-name>
+    <url>http://www.ishow.gr</url>
+  </channel>
+  <channel id="star.gr">
+    <display-name lang="el">STAR</display-name>
+    <url>http://www.ishow.gr</url>
   </channel>
   <channel id="cosmotesport1.gr">
-    <display-name lang="el">COSMOTE SPORT 1HD</display-name>
-    <icon src="https://www.cosmote.gr/portal/documents/148154061/148154784/111095123/2a126328-4f9a-a525-6b41-867bb65b8865?version=1.0&amp;t=1680276186977"/>
-    <url>http://www.cosmote.gr</url>
+    <display-name lang="el">Cosmote Sport 1 HD</display-name>
+    <url>http://www.ishow.gr</url>
   </channel>
   <channel id="cosmotesport2.gr">
-    <display-name lang="el">COSMOTE SPORT 2HD</display-name>
-    <icon src="https://www.cosmote.gr/portal/documents/148154061/148157887/111095087/793bdc44-3c58-dad1-8605-f24c98213f75?version=1.0&amp;t=1680276315739"/>
-    <url>http://www.cosmote.gr</url>
+    <display-name lang="el">Cosmote Sport 2 HD</display-name>
+    <url>http://www.ishow.gr</url>
   </channel>
   <channel id="cosmotesport3.gr">
-    <display-name lang="el">COSMOTE SPORT 3HD</display-name>
-    <icon src="https://www.cosmote.gr/portal/documents/148154061/148157818/111095111/e3e17e09-02fd-1186-6e45-6fe7e6f9f0e1?version=1.0&amp;t=1680276183587"/>
-    <url>http://www.cosmote.gr</url>
+    <display-name lang="el">Cosmote Sport 3 HD</display-name>
+    <url>http://www.ishow.gr</url>
   </channel>
   <channel id="cosmotesport4.gr">
-    <display-name lang="el">COSMOTE SPORT 4HD</display-name>
-    <icon src="https://www.cosmote.gr/portal/documents/148154061/148157955/111095209/77d02eea-11bd-c559-365e-73d2724c4963?version=1.0&amp;t=1680276211369"/>
-    <url>http://www.cosmote.gr</url>
+    <display-name lang="el">Cosmote Sport 4 HD</display-name>
+    <url>http://www.ishow.gr</url>
   </channel>
   <channel id="cosmotesport5.gr">
-    <display-name lang="el">COSMOTE SPORT 5HD</display-name>
-    <icon src="https://www.cosmote.gr/portal/documents/148154061/148160878/111095099/908551b9-e9ed-5a0f-137b-b37c0b4d769b?version=1.0&amp;t=1680276184595"/>
-    <url>http://www.cosmote.gr</url>
+    <display-name lang="el">Cosmote Sport 5 HD</display-name>
+    <url>http://www.ishow.gr</url>
   </channel>
   <channel id="cosmotesport6.gr">
-    <display-name lang="el">COSMOTE SPORT 6HD</display-name>
-    <icon src="https://www.cosmote.gr/portal/documents/148154061/148182360/49297273/07e09409-45d1-37bc-b4c5-19c75ff1c4e5?version=1.0&amp;t=1680276245817"/>
-    <url>http://www.cosmote.gr</url>
+    <display-name lang="el">Cosmote Sport 6 HD</display-name>
+    <url>http://www.ishow.gr</url>
   </channel>
   <channel id="cosmotesport7.gr">
-    <display-name lang="el">COSMOTE SPORT 7HD</display-name>
-    <icon src="https://www.cosmote.gr/portal/documents/148154061/148161018/41708057/1808f63e-85f7-2ec5-9074-01f9550abfcc?version=1.0&amp;t=1680276406937"/>
-    <url>http://www.cosmote.gr</url>
+    <display-name lang="el">Cosmote Sport 7 HD</display-name>
+    <url>http://www.ishow.gr</url>
   </channel>
-  <channel id="cosmotesport8.gr">
-    <display-name lang="el">COSMOTE SPORT 8HD</display-name>
-    <icon src="https://www.cosmote.gr/portal/documents/148154061/148188478/41708082/a3275df1-f0b7-57a0-67ad-2ef65d62e563?version=1.0&amp;t=1680276406994"/>
-    <url>http://www.cosmote.gr</url>
-  </channel>
-  <channel id="cosmotesport9hd.gr">
-    <display-name lang="el">COSMOTE SPORT 9HD</display-name>
-    <icon src="https://www.cosmote.gr/portal/documents/148154061/148179340/49297261/c52e9d8a-096c-75f5-25c5-9a563ac78541?version=1.0&amp;t=1680276245757"/>
-    <url>http://www.cosmote.gr</url>
+  <channel id="cosmotesport18.gr">
+    <display-name lang="el">Cosmote Sport 8 HD</display-name>
+    <url>http://www.ishow.gr</url>
   </channel>
   <channel id="novasportsprime.gr">
     <display-name lang="gr">Novasports Prime</display-name>
@@ -13893,6 +13870,2130 @@
     <desc lang="sv">Sändningsuppehåll Live 5.</desc>
     <category lang="sv">Sport</category>
   </programme>
+  <programme start="20240505001000 +0300" stop="20240505015000 +0300" channel="ert1.gr">
+    <title lang="el">Νύχτα Στάσου Κ2</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505015000 +0300" stop="20240505032000 +0300" channel="ert1.gr">
+    <title lang="el">Ραντεβού στα κλεφτά</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2016/4/11/fe5fd639-6150-4d27-a272-84a03dec7e96.jpg"/>
+  </programme>
+  <programme start="20240505032000 +0300" stop="20240505042000 +0300" channel="ert1.gr">
+    <title lang="el">Μπαμπά-Δες Κ2</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505042000 +0300" stop="20240505043000 +0300" channel="ert1.gr">
+    <title lang="el">Ιστόρημα Κ1</title>
+    <icon src="https://www.ishow.gr//files/images/2023/1/a6d0d689-f8fa-4adf-a4ba-19ca97dcd899.jpg"/>
+  </programme>
+  <programme start="20240505043000 +0300" stop="20240505053000 +0300" channel="ert1.gr">
+    <title lang="el">Πες τη Λέξη Κ2</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505053000 +0300" stop="20240505060500 +0300" channel="ert1.gr">
+    <title lang="el">ΕΡΤ Ειδήσεις</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2022/11/117a7732-6c84-4840-b953-6ff60cc7edfc.jpg"/>
+  </programme>
+  <programme start="20240505060500 +0300" stop="20240505100000 +0300" channel="ert1.gr">
+    <title lang="el">Σαββατοκύριακο από τις 6</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/e8f6fdea-586f-4ecf-84f2-8cb613a2c843.jpg"/>
+  </programme>
+  <programme start="20240505100000 +0300" stop="20240505120000 +0300" channel="ert1.gr">
+    <title lang="el">Δύο στις 10 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505120000 +0300" stop="20240505130000 +0300" channel="ert1.gr">
+    <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
+    <icon src="https://www.ishow.gr//files/images/2022/11/35f400fc-fa8a-438d-95f1-08636d7afc35.jpg"/>
+  </programme>
+  <programme start="20240505130000 +0300" stop="20240505144500 +0300" channel="ert1.gr">
+    <title lang="el">Αχ και να 'μουν άντρας</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2015/11/2/b370200d-4a51-46d2-a884-505a3981f162.jpg"/>
+  </programme>
+  <programme start="20240505144500 +0300" stop="20240505153000 +0300" channel="ert1.gr">
+    <title lang="el">Τα καλύτερά μας χρόνια Κ2</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/b6eb9f97-2e23-45fb-ba27-e149c08046ee.jpg"/>
+  </programme>
+  <programme start="20240505153000 +0300" stop="20240505160000 +0300" channel="ert1.gr">
+    <title lang="el">Euro Magazine Show</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505160000 +0300" stop="20240505170000 +0300" channel="ert1.gr">
+    <title lang="el">Μαμά-δες Κ7</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505170000 +0300" stop="20240505180000 +0300" channel="ert1.gr">
+    <title lang="el">Φτάσαμε! Κ2</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505180000 +0300" stop="20240505191500 +0300" channel="ert1.gr">
+    <title lang="el">Αναλυτικό Δελτίο Ειδήσεων - Αθλητικά - Καιρός</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505191500 +0300" stop="20240505200000 +0300" channel="ert1.gr">
+    <title lang="el">Πες τη Λέξη Κ2</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505200000 +0300" stop="20240505210000 +0300" channel="ert1.gr">
+    <title lang="el">Ψαρόσουπα, Β' Μέρος</title>
+    <icon src="https://www.ishow.gr//files/images/2022/12/2b44689f-891c-47f8-83cc-a556f06f6e50.jpg"/>
+  </programme>
+  <programme start="20240505210000 +0300" stop="20240505231000 +0300" channel="ert1.gr">
+    <title lang="el">Ghostbusters: Afterlife</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2022/11/87228e76-fe3a-482a-824b-9ebf931a69fa.jpg"/>
+  </programme>
+  <programme start="20240505231000 +0300" stop="20240506011000 +0300" channel="ert1.gr">
+    <title lang="el">Αυτή η νύχτα μένει</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2011/11/15/b2b18f2b-0a43-4ee7-9fc0-1a3eb7514d54.jpg"/>
+  </programme>
+  <programme start="20240506011000 +0300" stop="20240506025000 +0300" channel="ert1.gr">
+    <title lang="el">Το τέλος του κόσμου</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2013/8/1/7860a1b2-19b6-4761-808e-e59a5c78feaa.jpg"/>
+  </programme>
+  <programme start="20240506025000 +0300" stop="20240506034500 +0300" channel="ert1.gr">
+    <title lang="el">Φτάσαμε! Κ2</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506034500 +0300" stop="20240506044000 +0300" channel="ert1.gr">
+    <title lang="el">Μαμά-δες Κ7</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506044000 +0300" stop="20240506053000 +0300" channel="ert1.gr">
+    <title lang="el">Πες τη Λέξη Κ2</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506053000 +0300" stop="20240506060500 +0300" channel="ert1.gr">
+    <title lang="el">ΕΡΤ Ειδήσεις</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2022/11/117a7732-6c84-4840-b953-6ff60cc7edfc.jpg"/>
+  </programme>
+  <programme start="20240506060500 +0300" stop="20240506100000 +0300" channel="ert1.gr">
+    <title lang="el">Συνδέσεις</title>
+    <icon src="https://www.ishow.gr//files/images/2022/8/72841105-5aca-4127-85de-c128ce6781bf.jpg"/>
+  </programme>
+  <programme start="20240506100000 +0300" stop="20240506120000 +0300" channel="ert1.gr">
+    <title lang="el">Πρωίαν Σε Είδον</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506120000 +0300" stop="20240506130000 +0300" channel="ert1.gr">
+    <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
+    <icon src="https://www.ishow.gr//files/images/2022/11/35f400fc-fa8a-438d-95f1-08636d7afc35.jpg"/>
+  </programme>
+  <programme start="20240506130000 +0300" stop="20240506140000 +0300" channel="ert1.gr">
+    <title lang="el">Switch</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506140000 +0300" stop="20240506150000 +0300" channel="ert1.gr">
+    <title lang="el">ΠΟΠ Μαγειρική Κ7</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506150000 +0300" stop="20240506180000 +0300" channel="ert1.gr">
+    <title lang="el">Στούντιο 4</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/8f7d4c46-ac70-466e-b435-fea956b68831.jpg"/>
+  </programme>
+  <programme start="20240506180000 +0300" stop="20240506191000 +0300" channel="ert1.gr">
+    <title lang="el">Αναλυτικό Δελτίο Ειδήσεων - Αθλητικά - Καιρός</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506191000 +0300" stop="20240506201500 +0300" channel="ert1.gr">
+    <title lang="el">Ηλέκτρα Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506201500 +0300" stop="20240506211500 +0300" channel="ert1.gr">
+    <title lang="el">Switch</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506211500 +0300" stop="20240506224500 +0300" channel="ert1.gr">
+    <title lang="el">Πίτερ Ράμπιτ</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2018/3/24/8659eed7-6f83-4e5d-b62f-220ce79d2f01.jpg"/>
+  </programme>
+  <programme start="20240505023000 +0300" stop="20240505033000 +0300" channel="ert2.gr">
+    <title lang="el">Οι μουσικοί του κόσμου</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505033000 +0300" stop="20240505043000 +0300" channel="ert2.gr">
+    <title lang="el">Λίστα Γάμου</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505043000 +0300" stop="20240505051500 +0300" channel="ert2.gr">
+    <title lang="el">Καρυωτάκης</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505051500 +0300" stop="20240505060000 +0300" channel="ert2.gr">
+    <title lang="el">Καρυωτάκης</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505060000 +0300" stop="20240505070000 +0300" channel="ert2.gr">
+    <title lang="el">Αφιερώματα Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505070000 +0300" stop="20240505073000 +0300" channel="ert2.gr">
+    <title lang="el">Μεσογειακό τρίπτυχο για τα πάθη</title>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505073000 +0300" stop="20240505083000 +0300" channel="ert2.gr">
+    <title lang="el">Στα μονοπάτια της παράδοσης</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505083000 +0300" stop="20240505090000 +0300" channel="ert2.gr">
+    <title lang="el">Νηστικό αρκούδι</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505090000 +0300" stop="20240505093000 +0300" channel="ert2.gr">
+    <title lang="el">Νηστικό αρκούδι</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505093000 +0300" stop="20240505100000 +0300" channel="ert2.gr">
+    <title lang="el">Αναζητώντας τη χαμένη εικόνα</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505100000 +0300" stop="20240505110000 +0300" channel="ert2.gr">
+    <title lang="el">Πάσχα στην Έλυμπο Καρπάθου</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505110000 +0300" stop="20240505123000 +0300" channel="ert2.gr">
+    <title lang="el">Εσπερινός της Αγάπης</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505123000 +0300" stop="20240505133500 +0300" channel="ert2.gr">
+    <title lang="el">Ήχοι και Χρώματα της Πασχαλιάς και της Άνοιξης</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505133500 +0300" stop="20240505140000 +0300" channel="ert2.gr">
+    <title lang="el">Έτσι γιορτάζουν οι Έλληνες</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505140000 +0300" stop="20240505143000 +0300" channel="ert2.gr">
+    <title lang="el">Αφιερώματα Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505143000 +0300" stop="20240505150000 +0300" channel="ert2.gr">
+    <title lang="el">Αφιερώματα Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505150000 +0300" stop="20240505160000 +0300" channel="ert2.gr">
+    <title lang="el">Οι μουσικοί του κόσμου</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505160000 +0300" stop="20240505170000 +0300" channel="ert2.gr">
+    <title lang="el">Λίστα Γάμου</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505170000 +0300" stop="20240505190000 +0300" channel="ert2.gr">
+    <title lang="el">Πασχαλινό Τραπέζι</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505190000 +0300" stop="20240505200000 +0300" channel="ert2.gr">
+    <title lang="el">Συναντήσεις με αξιοσημείωτους ανθρώπους Κ2</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505200000 +0300" stop="20240505210000 +0300" channel="ert2.gr">
+    <title lang="el">Δρόμοι</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505210000 +0300" stop="20240506000000 +0300" channel="ert2.gr">
+    <title lang="el">Οι Αταίριαστοι Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506000000 +0300" stop="20240506010000 +0300" channel="ert2.gr">
+    <title lang="el">Οι μουσικοί του κόσμου</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506010000 +0300" stop="20240506020000 +0300" channel="ert2.gr">
+    <title lang="el">Δρόμοι</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506020000 +0300" stop="20240506040000 +0300" channel="ert2.gr">
+    <title lang="el">Πασχαλινό Τραπέζι</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506040000 +0300" stop="20240506050000 +0300" channel="ert2.gr">
+    <title lang="el">Λίστα Γάμου</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506050000 +0300" stop="20240506060000 +0300" channel="ert2.gr">
+    <title lang="el">Πάσχα στην Έλυμπο Καρπάθου</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506060000 +0300" stop="20240506070000 +0300" channel="ert2.gr">
+    <title lang="el">Αφιερώματα Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506070000 +0300" stop="20240506073000 +0300" channel="ert2.gr">
+    <title lang="el">Γυναικεία μοναστήρια</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506073000 +0300" stop="20240506083000 +0300" channel="ert2.gr">
+    <title lang="el">Ξένιος Ζευς - Ταξιδεύοντας Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506083000 +0300" stop="20240506090000 +0300" channel="ert2.gr">
+    <title lang="el">Νηστικό αρκούδι</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506090000 +0300" stop="20240506093000 +0300" channel="ert2.gr">
+    <title lang="el">Νηστικό αρκούδι</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506093000 +0300" stop="20240506103000 +0300" channel="ert2.gr">
+    <title lang="el">Μουσικό Οδοιπορικό - κύκλος 1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506103000 +0300" stop="20240506110000 +0300" channel="ert2.gr">
+    <title lang="el">Το μικρό σπίτι στο Παγκράτι</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506110000 +0300" stop="20240506113000 +0300" channel="ert2.gr">
+    <title lang="el">Στενές επαφές τρύπιου τοίχου</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506113000 +0300" stop="20240506121500 +0300" channel="ert2.gr">
+    <title lang="el">Χαιρέτα μου τον πλάτανο Κ2</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/8b77f8ea-ad5a-432e-afc3-f213de22354e.jpg"/>
+  </programme>
+  <programme start="20240506121500 +0300" stop="20240506130000 +0300" channel="ert2.gr">
+    <title lang="el">Χαιρέτα μου τον πλάτανο Κ2</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/8b77f8ea-ad5a-432e-afc3-f213de22354e.jpg"/>
+  </programme>
+  <programme start="20240506130000 +0300" stop="20240506140000 +0300" channel="ert2.gr">
+    <title lang="el">Η Γυφτοπούλα Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506140000 +0300" stop="20240506150000 +0300" channel="ert2.gr">
+    <title lang="el">Δύο Ζωές Κ1</title>
+    <icon src="https://www.ishow.gr//files/images/2022/11/f91da3bc-be71-47c5-a2e3-cede75cabec8.jpg"/>
+  </programme>
+  <programme start="20240506150000 +0300" stop="20240506160000 +0300" channel="ert2.gr">
+    <title lang="el">Δύο Ζωές Κ1</title>
+    <icon src="https://www.ishow.gr//files/images/2022/11/f91da3bc-be71-47c5-a2e3-cede75cabec8.jpg"/>
+  </programme>
+  <programme start="20240506160000 +0300" stop="20240506170000 +0300" channel="ert2.gr">
+    <title lang="el">Πασχαλογιορτή</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506170000 +0300" stop="20240506173000 +0300" channel="ert2.gr">
+    <title lang="el">Το μικρό σπίτι στο Παγκράτι</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506173000 +0300" stop="20240506181500 +0300" channel="ert2.gr">
+    <title lang="el">Χαιρέτα μου τον πλάτανο Κ2</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/8b77f8ea-ad5a-432e-afc3-f213de22354e.jpg"/>
+  </programme>
+  <programme start="20240506181500 +0300" stop="20240506190000 +0300" channel="ert2.gr">
+    <title lang="el">Χαιρέτα μου τον πλάτανο Κ2</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/8b77f8ea-ad5a-432e-afc3-f213de22354e.jpg"/>
+  </programme>
+  <programme start="20240506190000 +0300" stop="20240506200000 +0300" channel="ert2.gr">
+    <title lang="el">Παρασκήνιο Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506200000 +0300" stop="20240506210000 +0300" channel="ert2.gr">
+    <title lang="el">Δρόμοι Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506210000 +0300" stop="20240506230000 +0300" channel="ert2.gr">
+    <title lang="el">Κοίτα τι Έκανες</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505001000 +0300" stop="20240505031500 +0300" channel="ant1.gr">
+    <title lang="el">Θέατρο Γης: Μαρινέλλα - Ν. Θεοδωρίδου</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505031500 +0300" stop="20240505040000 +0300" channel="ant1.gr">
+    <title lang="el">Το πιο γλυκό μου ψέμα</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2011/12/7/556d604b-fc19-4881-a2c5-23536bea20c6.jpg"/>
+  </programme>
+  <programme start="20240505040000 +0300" stop="20240505050000 +0300" channel="ant1.gr">
+    <title lang="el">Ιωάννα της καρδιάς</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2015/9/24/4d5d9217-2c8d-4615-82f7-398da17235aa.jpg"/>
+  </programme>
+  <programme start="20240505050000 +0300" stop="20240505061500 +0300" channel="ant1.gr">
+    <title lang="el">Η Μπάρμπι (Barbie) στην ιστορία μιας γοργόνας 2</title>
+    <category lang="el">Παιδικά</category>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2012/2/14/ef27562e-675a-45c3-b673-533d7fe096d2.jpg"/>
+  </programme>
+  <programme start="20240505061500 +0300" stop="20240505083000 +0300" channel="ant1.gr">
+    <title lang="el">Θέατρο Γης: Μαρινέλλα - Ν. Θεοδωρίδου</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505083000 +0300" stop="20240505090000 +0300" channel="ant1.gr">
+    <title lang="el">Formula 1 2024 - Γκραν Πρι Crypto.com Μαϊάμι (Μ)</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505090000 +0300" stop="20240505110000 +0300" channel="ant1.gr">
+    <title lang="el">Η Αλίκη στο ναυτικό</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2012/5/29/4435a5ba-ceb4-44b2-8ea5-d7cdd8aed854.jpg"/>
+  </programme>
+  <programme start="20240505110000 +0300" stop="20240505130000 +0300" channel="ant1.gr">
+    <title lang="el">Γαβ στόρι</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2014/3/20/f5d8f3ba-0538-4044-8229-7c2a68e12cbd.jpg"/>
+  </programme>
+  <programme start="20240505130000 +0300" stop="20240505135000 +0300" channel="ant1.gr">
+    <title lang="el">ΑΝΤ1 News</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2021/3/2395b8a1-c4dc-4aed-9f93-6c7ba67cec7a.jpg"/>
+  </programme>
+  <programme start="20240505135000 +0300" stop="20240505140000 +0300" channel="ant1.gr">
+    <title lang="el">ΑΝΤ1 News - Δελτίο στη Νοηματική Γλώσσα</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2021/3/e57a8987-d00f-4faf-99cf-62763feb8023.jpg"/>
+  </programme>
+  <programme start="20240505140000 +0300" stop="20240505150000 +0300" channel="ant1.gr">
+    <title lang="el">Κωνσταντίνου και Ελένης</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2021/3/6e1281de-5876-4d3e-9521-571e210fa65c.jpg"/>
+  </programme>
+  <programme start="20240505150000 +0300" stop="20240505164500 +0300" channel="ant1.gr">
+    <title lang="el">5 x 5 Σπέσιαλ</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505164500 +0300" stop="20240505184500 +0300" channel="ant1.gr">
+    <title lang="el">Έξω οι κλέφτες</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2013/9/18/18c854fd-6d76-4d31-9180-e7a213091392.jpg"/>
+  </programme>
+  <programme start="20240505184500 +0300" stop="20240505200000 +0300" channel="ant1.gr">
+    <title lang="el">Ant1 news</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2017/11/13/9ccac51d-04bf-4ff5-9b4b-c795ba86734e.jpg"/>
+  </programme>
+  <programme start="20240505200000 +0300" stop="20240505220000 +0300" channel="ant1.gr">
+    <title lang="el">5 x 5 Σπέσιαλ</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505220000 +0300" stop="20240506000000 +0300" channel="ant1.gr">
+    <title lang="el">Μια τρελή τρελή οικογένεια</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2013/10/14/a2af8d03-cbe6-4fa1-ae3d-c8f6a59ffea8.jpg"/>
+  </programme>
+  <programme start="20240506000000 +0300" stop="20240506001500 +0300" channel="ant1.gr">
+    <title lang="el">Formula 1 Show (Μ)</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506001500 +0300" stop="20240506020000 +0300" channel="ant1.gr">
+    <title lang="el">Formula 1 2024 - Γκραν Πρι Crypto.com Μαϊάμι (Μ)</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506020000 +0300" stop="20240506050000 +0300" channel="ant1.gr">
+    <title lang="el">Πέρα από την Αφρική</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2014/3/10/a33fc8b2-203c-4921-94c1-35a318afc779.jpg"/>
+  </programme>
+  <programme start="20240506050000 +0300" stop="20240506063000 +0300" channel="ant1.gr">
+    <title lang="el">Barbie: Η βασίλισσα της μόδας</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2016/2/1/3933130f-41f3-447e-9683-3e99201c3815.jpg"/>
+  </programme>
+  <programme start="20240506063000 +0300" stop="20240506080000 +0300" channel="ant1.gr">
+    <title lang="el">Της Ελλάδος τα παιδιά</title>
+    <icon src="https://www.ishow.gr//files/images/2011/10/13/41a6c3eb-c8c7-4a5c-976c-8191baa0aca0.jpg"/>
+  </programme>
+  <programme start="20240506080000 +0300" stop="20240506090000 +0300" channel="ant1.gr">
+    <title lang="el">Εκείνες κι εγώ</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2013/8/29/30a8b87e-4013-4a0c-bdf4-6bac539ecb40.jpg"/>
+  </programme>
+  <programme start="20240506090000 +0300" stop="20240506110000 +0300" channel="ant1.gr">
+    <title lang="el">Τα καμώματα του... Μπετόβεν</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2014/6/4/24b4363e-0c1e-424f-82f5-f5ba884b9f56.jpg"/>
+  </programme>
+  <programme start="20240506110000 +0300" stop="20240506130000 +0300" channel="ant1.gr">
+    <title lang="el">5 x 5 Σπέσιαλ</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506130000 +0300" stop="20240506133000 +0300" channel="ant1.gr">
+    <title lang="el">ΑΝΤ1 News</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2021/3/2395b8a1-c4dc-4aed-9f93-6c7ba67cec7a.jpg"/>
+  </programme>
+  <programme start="20240506133000 +0300" stop="20240506135000 +0300" channel="ant1.gr">
+    <title lang="el">Τώρα για το Μέλλον</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/e9ba35ad-31d5-413a-b10a-1a586cf5c4ef.jpg"/>
+  </programme>
+  <programme start="20240506135000 +0300" stop="20240506140000 +0300" channel="ant1.gr">
+    <title lang="el">ΑΝΤ1 News - Δελτίο στη Νοηματική Γλώσσα</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2021/3/e57a8987-d00f-4faf-99cf-62763feb8023.jpg"/>
+  </programme>
+  <programme start="20240506140000 +0300" stop="20240506150000 +0300" channel="ant1.gr">
+    <title lang="el">Κωνσταντίνου και Ελένης</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2021/3/6e1281de-5876-4d3e-9521-571e210fa65c.jpg"/>
+  </programme>
+  <programme start="20240506150000 +0300" stop="20240506161500 +0300" channel="ant1.gr">
+    <title lang="el">Ρουκ Ζουκ</title>
+    <category lang="el">Τηλεπαιχνίδι</category>
+    <icon src="https://www.ishow.gr//files/images/2017/5/31/c805debd-bc10-40bc-af67-58efb7901313.jpg"/>
+  </programme>
+  <programme start="20240506161500 +0300" stop="20240506173000 +0300" channel="ant1.gr">
+    <title lang="el">Το καφέ της Χαράς</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2015/9/24/a9946427-3bee-4979-a4b5-d456794f492a.jpg"/>
+  </programme>
+  <programme start="20240506173000 +0300" stop="20240506184500 +0300" channel="ant1.gr">
+    <title lang="el">5 x 5</title>
+    <icon src="https://www.ishow.gr//files/images/2021/3/d45b5f52-433f-46d6-8351-42a9125501ca.jpg"/>
+  </programme>
+  <programme start="20240506184500 +0300" stop="20240506200000 +0300" channel="ant1.gr">
+    <title lang="el">Ant1 news</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2017/11/13/9ccac51d-04bf-4ff5-9b4b-c795ba86734e.jpg"/>
+  </programme>
+  <programme start="20240506200000 +0300" stop="20240506210000 +0300" channel="ant1.gr">
+    <title lang="el">Ποιος θέλει να γίνει εκατομμυριούχος</title>
+    <category lang="el">Τηλεπαιχνίδι</category>
+    <icon src="https://www.ishow.gr//files/images/2022/9/de200644-c9c5-4a50-916f-849eb50c7a9e.jpg"/>
+  </programme>
+  <programme start="20240506210000 +0300" stop="20240506230000 +0300" channel="ant1.gr">
+    <title lang="el">Καπετάν φάντης μπαστούνι</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2011/10/31/5f3a099e-5835-4087-9bb2-3d8d9910af54.jpg"/>
+  </programme>
+  <programme start="20240505001000 +0300" stop="20240505033000 +0300" channel="mega.gr">
+    <title lang="el">Ανάσταση στο Σπίτι με το Mega Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505033000 +0300" stop="20240505045000 +0300" channel="mega.gr">
+    <title lang="el">L.A.P.D.</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505045000 +0300" stop="20240505070000 +0300" channel="mega.gr">
+    <title lang="el">Ο θρύλος ενός ιππότη</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2013/9/12/cf947be5-8ec0-4aac-b9d7-a6d772c93849.jpg"/>
+  </programme>
+  <programme start="20240505070000 +0300" stop="20240505091000 +0300" channel="mega.gr">
+    <title lang="el">Συλλαβίζοντας το όνειρο</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2014/4/15/f6432d17-c399-4e1e-8b35-4d04993a1bd9.jpg"/>
+  </programme>
+  <programme start="20240505091000 +0300" stop="20240505105000 +0300" channel="mega.gr">
+    <title lang="el">Ο ποντικομικρούλης 2</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2013/10/3/11729022-bf64-4a92-bb0c-d560f98338cf.jpg"/>
+  </programme>
+  <programme start="20240505105000 +0300" stop="20240505124500 +0300" channel="mega.gr">
+    <title lang="el">Κατά λάθος μπαμπάς</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2013/9/16/0622da79-c92f-490c-bdc1-c6bb723aa18f.jpg"/>
+  </programme>
+  <programme start="20240505124500 +0300" stop="20240505134000 +0300" channel="mega.gr">
+    <title lang="el">Μεσημβρινό δελτίο ειδήσεων MEGA</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2013/9/25/fc95996d-686f-40a6-97c1-869fdcdd5620.jpg"/>
+  </programme>
+  <programme start="20240505134000 +0300" stop="20240505182000 +0300" channel="mega.gr">
+    <title lang="el">Ανάσταση στο Σπίτι με το Mega Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505182000 +0300" stop="20240505183000 +0300" channel="mega.gr">
+    <title lang="el">Δελτίο Νοηματικής</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2022/9/2e000953-666d-4819-9575-e01c706ec1e2.jpg"/>
+  </programme>
+  <programme start="20240505183000 +0300" stop="20240505194500 +0300" channel="mega.gr">
+    <title lang="el">The Chase</title>
+    <category lang="el">Τηλεπαιχνίδι</category>
+    <icon src="https://www.ishow.gr//files/images/2023/9/80158b72-e1df-4d81-8571-2e2c8e64b0e2.jpg"/>
+  </programme>
+  <programme start="20240505194500 +0300" stop="20240505204000 +0300" channel="mega.gr">
+    <title lang="el">Κεντρικό δελτίο ειδήσεων</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2022/9/c57f4537-4859-4253-8676-d223999ea7ae.jpg"/>
+  </programme>
+  <programme start="20240505204000 +0300" stop="20240505205000 +0300" channel="mega.gr">
+    <title lang="el">MEGA Αθλητικά</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505205000 +0300" stop="20240505210000 +0300" channel="mega.gr">
+    <title lang="el">Δελτίο Καιρού</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/4874b3fc-c4d1-485c-aafe-c75afc9e1e45.jpg"/>
+  </programme>
+  <programme start="20240505210000 +0300" stop="20240505220000 +0300" channel="mega.gr">
+    <title lang="el">Συμπέθεροι απ' τα Τίρανα Κ1</title>
+    <icon src="https://www.ishow.gr//files/images/2022/12/6ee1192b-2e36-41c0-ba2f-0f522a5219b5.jpg"/>
+  </programme>
+  <programme start="20240505220000 +0300" stop="20240505231000 +0300" channel="mega.gr">
+    <title lang="el">Συμπέθεροι απ' τα Τίρανα Κ1</title>
+    <icon src="https://www.ishow.gr//files/images/2022/12/6ee1192b-2e36-41c0-ba2f-0f522a5219b5.jpg"/>
+  </programme>
+  <programme start="20240505231000 +0300" stop="20240506003000 +0300" channel="mega.gr">
+    <title lang="el">Maestro</title>
+    <icon src="https://www.ishow.gr//files/images/2022/12/c4fb02ab-4222-4cfe-a0e4-e424e3ae06f4.jpg"/>
+  </programme>
+  <programme start="20240506003000 +0300" stop="20240506015000 +0300" channel="mega.gr">
+    <title lang="el">Maestro</title>
+    <icon src="https://www.ishow.gr//files/images/2022/12/c4fb02ab-4222-4cfe-a0e4-e424e3ae06f4.jpg"/>
+  </programme>
+  <programme start="20240506015000 +0300" stop="20240506023000 +0300" channel="mega.gr">
+    <title lang="el">UEFA Champions League Magazine</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506023000 +0300" stop="20240506040000 +0300" channel="mega.gr">
+    <title lang="el">Πήτερ Παν</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2010/7/7/b7aa55e8-90f4-46dc-ab0e-498b3ee97cdf.jpg"/>
+  </programme>
+  <programme start="20240506040000 +0300" stop="20240506044000 +0300" channel="mega.gr">
+    <title lang="el">Σ' αγαπώ - Μ' αγαπάς</title>
+    <icon src="https://www.ishow.gr//files/images/2022/12/516862fb-713f-4610-98fc-a40f6792ecb6.jpg"/>
+  </programme>
+  <programme start="20240506044000 +0300" stop="20240506050000 +0300" channel="mega.gr">
+    <title lang="el">Φιλοδοξίες - 1ος κύκλος</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506050000 +0300" stop="20240506063000 +0300" channel="mega.gr">
+    <title lang="el">Ώρα για σερφ</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2013/10/2/0f303d39-0631-44a6-8e18-42a2c60dc196.jpg"/>
+  </programme>
+  <programme start="20240506063000 +0300" stop="20240506084000 +0300" channel="mega.gr">
+    <title lang="el">Άννι</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2015/4/2/1ff1cda1-1855-4f26-9d77-5229eb741b46.jpg"/>
+  </programme>
+  <programme start="20240506084000 +0300" stop="20240506103000 +0300" channel="mega.gr">
+    <title lang="el">Ξενοδοχείο για τέρατα</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2014/7/11/22f299f7-35b3-4dee-bf48-2ce2ce44a19a.jpg"/>
+  </programme>
+  <programme start="20240506103000 +0300" stop="20240506123000 +0300" channel="mega.gr">
+    <title lang="el">Κάθε φορά, πρώτη φορά</title>
+    <icon src="https://www.ishow.gr//files/images/2023/5/acaad293-4264-4769-9eb0-159bf7815693.jpg"/>
+  </programme>
+  <programme start="20240506123000 +0300" stop="20240506133000 +0300" channel="mega.gr">
+    <title lang="el">Μεσημβρινό δελτίο ειδήσεων MEGA</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2013/9/25/fc95996d-686f-40a6-97c1-869fdcdd5620.jpg"/>
+  </programme>
+  <programme start="20240506133000 +0300" stop="20240506162000 +0300" channel="mega.gr">
+    <title lang="el">Επτά θανάσιμες πεθερές</title>
+    <icon src="https://www.ishow.gr//files/images/2022/12/b3e47822-5142-439d-ad63-95fc1b107d53.jpg"/>
+  </programme>
+  <programme start="20240506162000 +0300" stop="20240506182000 +0300" channel="mega.gr">
+    <title lang="el">Τρελός, παλαβός και Βέγγος</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2013/10/7/cc943f41-e084-4dac-966e-9dfc438ed5ce.jpg"/>
+  </programme>
+  <programme start="20240506182000 +0300" stop="20240506183000 +0300" channel="mega.gr">
+    <title lang="el">Δελτίο Νοηματικής</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2022/9/2e000953-666d-4819-9575-e01c706ec1e2.jpg"/>
+  </programme>
+  <programme start="20240506183000 +0300" stop="20240506194500 +0300" channel="mega.gr">
+    <title lang="el">The Chase</title>
+    <category lang="el">Τηλεπαιχνίδι</category>
+    <icon src="https://www.ishow.gr//files/images/2023/9/80158b72-e1df-4d81-8571-2e2c8e64b0e2.jpg"/>
+  </programme>
+  <programme start="20240506194500 +0300" stop="20240506204000 +0300" channel="mega.gr">
+    <title lang="el">Κεντρικό δελτίο ειδήσεων</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2022/9/c57f4537-4859-4253-8676-d223999ea7ae.jpg"/>
+  </programme>
+  <programme start="20240506204000 +0300" stop="20240506205000 +0300" channel="mega.gr">
+    <title lang="el">MEGA Αθλητικά</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506205000 +0300" stop="20240506210000 +0300" channel="mega.gr">
+    <title lang="el">Δελτίο Καιρού</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/4874b3fc-c4d1-485c-aafe-c75afc9e1e45.jpg"/>
+  </programme>
+  <programme start="20240506210000 +0300" stop="20240506220000 +0300" channel="mega.gr">
+    <title lang="el">Συμπέθεροι απ' τα Τίρανα Κ1</title>
+    <icon src="https://www.ishow.gr//files/images/2022/12/6ee1192b-2e36-41c0-ba2f-0f522a5219b5.jpg"/>
+  </programme>
+  <programme start="20240506220000 +0300" stop="20240506231000 +0300" channel="mega.gr">
+    <title lang="el">Συμπέθεροι απ' τα Τίρανα Κ1</title>
+    <icon src="https://www.ishow.gr//files/images/2022/12/6ee1192b-2e36-41c0-ba2f-0f522a5219b5.jpg"/>
+  </programme>
+  <programme start="20240505000000 +0300" stop="20240505020000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Πέφτει η Νύχτα με... Ρυθμό Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505020000 +0300" stop="20240505030000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Επ. 18.999</title>
+  </programme>
+  <programme start="20240505030000 +0300" stop="20240505040000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Εργαζόμενη γυναίκα</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2014/1/22/172b9851-2786-48d4-bb67-11ecfa838f6a.jpg"/>
+  </programme>
+  <programme start="20240505040000 +0300" stop="20240505050000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Οι μεν και οι δεν</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2011/12/1/040d3041-df20-4c39-a1d8-09e6412dbec7.jpg"/>
+  </programme>
+  <programme start="20240505050000 +0300" stop="20240505060000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Νταντά αμέσου δράσης</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2013/8/29/2a5a2d56-e626-4bbb-b6fb-9a6618de3013.jpg"/>
+  </programme>
+  <programme start="20240505060000 +0300" stop="20240505070000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Πέτα τη Φριτέζα Κ2</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505070000 +0300" stop="20240505080000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Μην Ψαρώνεις Κ2</title>
+    <icon src="https://www.ishow.gr//files/images/2023/2/1d58cb6f-0b78-4c97-99de-521466ddb627.jpg"/>
+  </programme>
+  <programme start="20240505080000 +0300" stop="20240505090000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Εργαζόμενη γυναίκα</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2014/1/22/172b9851-2786-48d4-bb67-11ecfa838f6a.jpg"/>
+  </programme>
+  <programme start="20240505090000 +0300" stop="20240505130000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Η Αγορά Σήμερα</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/9eb36a44-39e6-4de6-bf51-507ebfc91254.jpg"/>
+  </programme>
+  <programme start="20240505130000 +0300" stop="20240505140000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Λίτσα.com</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2009/12/12/848195a3-4e43-4825-a6c2-368104a94e9d.jpg"/>
+  </programme>
+  <programme start="20240505140000 +0300" stop="20240505150000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Λίτσα.com</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2009/12/12/848195a3-4e43-4825-a6c2-368104a94e9d.jpg"/>
+  </programme>
+  <programme start="20240505150000 +0300" stop="20240505160000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Οι μεν και οι δεν</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2011/12/1/040d3041-df20-4c39-a1d8-09e6412dbec7.jpg"/>
+  </programme>
+  <programme start="20240505160000 +0300" stop="20240505170000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Μην Ψαρώνεις Κ2</title>
+    <icon src="https://www.ishow.gr//files/images/2023/2/1d58cb6f-0b78-4c97-99de-521466ddb627.jpg"/>
+  </programme>
+  <programme start="20240505170000 +0300" stop="20240505180000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Πέτα τη Φριτέζα Κ2</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505180000 +0300" stop="20240505190000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Εργαζόμενη γυναίκα</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2014/1/22/172b9851-2786-48d4-bb67-11ecfa838f6a.jpg"/>
+  </programme>
+  <programme start="20240505190000 +0300" stop="20240505200000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Εργαζόμενη γυναίκα</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2014/1/22/172b9851-2786-48d4-bb67-11ecfa838f6a.jpg"/>
+  </programme>
+  <programme start="20240505200000 +0300" stop="20240505210000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Νταντά αμέσου δράσης</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2013/8/29/2a5a2d56-e626-4bbb-b6fb-9a6618de3013.jpg"/>
+  </programme>
+  <programme start="20240505210000 +0300" stop="20240505220000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Criminal Minds - 12ος Κύκλος</title>
+    <icon src="https://www.ishow.gr//files/images/2022/10/3366ec82-56d4-44bb-8112-ccafa9136ce7.jpg"/>
+  </programme>
+  <programme start="20240505220000 +0300" stop="20240505230000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Criminal Minds - 12ος Κύκλος</title>
+    <icon src="https://www.ishow.gr//files/images/2022/10/3366ec82-56d4-44bb-8112-ccafa9136ce7.jpg"/>
+  </programme>
+  <programme start="20240505230000 +0300" stop="20240506000000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Law &amp; Order: Special Victims Unit - 18ος κύκλος</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506000000 +0300" stop="20240506020000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Πέφτει η Νύχτα με... Ρυθμό Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506020000 +0300" stop="20240506030000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Επ. 18.999</title>
+  </programme>
+  <programme start="20240506030000 +0300" stop="20240506040000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Εργαζόμενη γυναίκα</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2014/1/22/172b9851-2786-48d4-bb67-11ecfa838f6a.jpg"/>
+  </programme>
+  <programme start="20240506040000 +0300" stop="20240506050000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Οι μεν και οι δεν</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2011/12/1/040d3041-df20-4c39-a1d8-09e6412dbec7.jpg"/>
+  </programme>
+  <programme start="20240506050000 +0300" stop="20240506060000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Νταντά αμέσου δράσης</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2013/8/29/2a5a2d56-e626-4bbb-b6fb-9a6618de3013.jpg"/>
+  </programme>
+  <programme start="20240506060000 +0300" stop="20240506070000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Πέτα τη Φριτέζα Κ2</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506070000 +0300" stop="20240506080000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Μην Ψαρώνεις Κ2</title>
+    <icon src="https://www.ishow.gr//files/images/2023/2/1d58cb6f-0b78-4c97-99de-521466ddb627.jpg"/>
+  </programme>
+  <programme start="20240506080000 +0300" stop="20240506090000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Εγκλήματα</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2013/8/16/ebe99f6f-87c1-4d74-b579-b098b9204ed7.jpg"/>
+  </programme>
+  <programme start="20240506090000 +0300" stop="20240506130000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Η Αγορά Σήμερα</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/9eb36a44-39e6-4de6-bf51-507ebfc91254.jpg"/>
+  </programme>
+  <programme start="20240506130000 +0300" stop="20240506140000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Λίτσα.com</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2009/12/12/848195a3-4e43-4825-a6c2-368104a94e9d.jpg"/>
+  </programme>
+  <programme start="20240506140000 +0300" stop="20240506150000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Λίτσα.com</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2009/12/12/848195a3-4e43-4825-a6c2-368104a94e9d.jpg"/>
+  </programme>
+  <programme start="20240506150000 +0300" stop="20240506160000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Οι μεν και οι δεν</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2011/12/1/040d3041-df20-4c39-a1d8-09e6412dbec7.jpg"/>
+  </programme>
+  <programme start="20240506160000 +0300" stop="20240506170000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Μην Ψαρώνεις Κ2</title>
+    <icon src="https://www.ishow.gr//files/images/2023/2/1d58cb6f-0b78-4c97-99de-521466ddb627.jpg"/>
+  </programme>
+  <programme start="20240506170000 +0300" stop="20240506180000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Πέτα τη φριτέζα</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/dcbcddae-28df-4940-83ec-18389c3f0386.jpg"/>
+  </programme>
+  <programme start="20240506180000 +0300" stop="20240506193000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Εγκλήματα</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2013/8/16/ebe99f6f-87c1-4d74-b579-b098b9204ed7.jpg"/>
+  </programme>
+  <programme start="20240506193000 +0300" stop="20240506210000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Άγριες μέλισσες Κ3</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506210000 +0300" stop="20240506220000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Criminal Minds - 12ος Κύκλος</title>
+    <icon src="https://www.ishow.gr//files/images/2022/10/3366ec82-56d4-44bb-8112-ccafa9136ce7.jpg"/>
+  </programme>
+  <programme start="20240506220000 +0300" stop="20240506230000 +0300" channel="makedoniatv.gr">
+    <title lang="el">Criminal Minds - 12ος Κύκλος</title>
+    <icon src="https://www.ishow.gr//files/images/2022/10/3366ec82-56d4-44bb-8112-ccafa9136ce7.jpg"/>
+  </programme>
+  <programme start="20240505000500 +0300" stop="20240505031500 +0300" channel="skai.gr">
+    <title lang="el">Σάββατο με Φίλους!</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505031500 +0300" stop="20240505050000 +0300" channel="skai.gr">
+    <title lang="el">Άπληστοι γείτονες</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2014/10/23/142a834c-4929-4d5a-a4e5-5930f4a2ce08.jpg"/>
+  </programme>
+  <programme start="20240505050000 +0300" stop="20240505060000 +0300" channel="skai.gr">
+    <title lang="el">Frozen Planet II Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505060000 +0300" stop="20240505070000 +0300" channel="skai.gr">
+    <title lang="el">Frozen Planet II Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505070000 +0300" stop="20240505113000 +0300" channel="skai.gr">
+    <title lang="el">Οι Δεκατιανοί</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/75a0a2c3-c2bd-45cb-81ec-296537888c12.jpg"/>
+  </programme>
+  <programme start="20240505113000 +0300" stop="20240505134000 +0300" channel="skai.gr">
+    <title lang="el">Μουσικό Πρόγραμμα</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505134000 +0300" stop="20240505140000 +0300" channel="skai.gr">
+    <title lang="el">Δελτίο στη Νοηματική</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2021/3/5c5e40fc-d41b-4733-b0f1-d42cb775862b.jpg"/>
+  </programme>
+  <programme start="20240505140000 +0300" stop="20240505144500 +0300" channel="skai.gr">
+    <title lang="el">Οι ειδήσεις του ΣΚΑΪ</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2021/3/6d5a4ec9-3010-43d0-901c-9022e6c138a8.jpg"/>
+  </programme>
+  <programme start="20240505144500 +0300" stop="20240505180000 +0300" channel="skai.gr">
+    <title lang="el">Σάββατο με Φίλους! Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505180000 +0300" stop="20240505195000 +0300" channel="skai.gr">
+    <title lang="el">Για ποιον χτυπά η κουδούνα</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2013/11/15/de0003fc-7e72-4f96-a363-a308a0da3c15.jpg"/>
+  </programme>
+  <programme start="20240505195000 +0300" stop="20240505210000 +0300" channel="skai.gr">
+    <title lang="el">Τα νέα του ΣΚΑΪ</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2021/3/ef972038-ea9a-4c44-8e33-1d00e91cef8a.jpg"/>
+  </programme>
+  <programme start="20240505210000 +0300" stop="20240506010000 +0300" channel="skai.gr">
+    <title lang="el">Survivor</title>
+    <icon src="https://www.ishow.gr//files/images/2024/1/2356743c-986b-439a-a8b8-81397a027d62.jpg"/>
+  </programme>
+  <programme start="20240506010000 +0300" stop="20240506031500 +0300" channel="skai.gr">
+    <title lang="el">Ο αετός της αυτοκρατορίας</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2013/9/10/b36ddf1e-9738-4f7d-acdc-cdd0c5abf791.jpg"/>
+  </programme>
+  <programme start="20240506031500 +0300" stop="20240506040000 +0300" channel="skai.gr">
+    <title lang="el">House Κ2</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506040000 +0300" stop="20240506050000 +0300" channel="skai.gr">
+    <title lang="el">Happy traveller</title>
+    <icon src="https://www.ishow.gr//files/images/2018/11/2/328c4d14-b517-472b-83eb-19eb82a96b55.jpg"/>
+  </programme>
+  <programme start="20240506050000 +0300" stop="20240506060000 +0300" channel="skai.gr">
+    <title lang="el">Spectacular Earth Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506060000 +0300" stop="20240506095000 +0300" channel="skai.gr">
+    <title lang="el">Σήμερα</title>
+    <category lang="el">Ενημ. εκπομπή</category>
+    <icon src="https://www.ishow.gr//files/images/2022/9/0f5d031d-cf8f-439a-bae4-bb2c8dd40171.webp"/>
+  </programme>
+  <programme start="20240506095000 +0300" stop="20240506115000 +0300" channel="skai.gr">
+    <title lang="el">Αταίριαστοι</title>
+    <icon src="https://www.ishow.gr//files/images/2018/11/2/02c73f7e-3c28-4a66-9b77-d8bba6f3e679.jpg"/>
+  </programme>
+  <programme start="20240506115000 +0300" stop="20240506124500 +0300" channel="skai.gr">
+    <title lang="el">Γειτονιές στο πιάτο</title>
+    <icon src="https://www.ishow.gr//files/images/2020/11/1493309b-324b-4276-ae62-d42023fa50d9.jpg"/>
+  </programme>
+  <programme start="20240506124500 +0300" stop="20240506134000 +0300" channel="skai.gr">
+    <title lang="el">Happy traveller</title>
+    <icon src="https://www.ishow.gr//files/images/2018/11/2/328c4d14-b517-472b-83eb-19eb82a96b55.jpg"/>
+  </programme>
+  <programme start="20240506134000 +0300" stop="20240506140000 +0300" channel="skai.gr">
+    <title lang="el">Δελτίο στη Νοηματική</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2021/3/5c5e40fc-d41b-4733-b0f1-d42cb775862b.jpg"/>
+  </programme>
+  <programme start="20240506140000 +0300" stop="20240506145000 +0300" channel="skai.gr">
+    <title lang="el">Οι ειδήσεις του ΣΚΑΪ</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2021/3/6d5a4ec9-3010-43d0-901c-9022e6c138a8.jpg"/>
+  </programme>
+  <programme start="20240506145000 +0300" stop="20240506161500 +0300" channel="skai.gr">
+    <title lang="el">Η μαμά μου μαγειρεύει καλύτερα από τη δική σου</title>
+    <icon src="https://www.ishow.gr//files/images/2023/9/4203533b-4024-4309-a0cf-ab7cb61f8929.jpg"/>
+  </programme>
+  <programme start="20240506161500 +0300" stop="20240506184500 +0300" channel="skai.gr">
+    <title lang="el">My Style Rocks</title>
+    <icon src="https://www.ishow.gr//files/images/2024/2/2c842f09-cca0-4454-a28d-59d25da29275.jpg"/>
+  </programme>
+  <programme start="20240506184500 +0300" stop="20240506195000 +0300" channel="skai.gr">
+    <title lang="el">Ο Μονομάχος</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506195000 +0300" stop="20240506210000 +0300" channel="skai.gr">
+    <title lang="el">Τα νέα του ΣΚΑΪ</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2021/3/ef972038-ea9a-4c44-8e33-1d00e91cef8a.jpg"/>
+  </programme>
+  <programme start="20240505034500 +0300" stop="20240505043000 +0300" channel="epsilontv.gr">
+    <title lang="el">Chef στην κουζίνα σας</title>
+    <icon src="https://www.ishow.gr//files/images/2023/9/c94a2a20-c056-4077-adf9-938d56e24b1d.jpg"/>
+  </programme>
+  <programme start="20240505043000 +0300" stop="20240505051500 +0300" channel="epsilontv.gr">
+    <title lang="el">Chef στην κουζίνα σας</title>
+    <icon src="https://www.ishow.gr//files/images/2023/9/c94a2a20-c056-4077-adf9-938d56e24b1d.jpg"/>
+  </programme>
+  <programme start="20240505051500 +0300" stop="20240505060000 +0300" channel="epsilontv.gr">
+    <title lang="el">Εικόνες</title>
+    <icon src="https://www.ishow.gr//files/images/2022/11/7692d92d-a16b-4a17-80f6-62fec9925964.jpg"/>
+  </programme>
+  <programme start="20240505060000 +0300" stop="20240505095000 +0300" channel="epsilontv.gr">
+    <title lang="el">Τώρα Μαζί</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505095000 +0300" stop="20240505130000 +0300" channel="epsilontv.gr">
+    <title lang="el">Επί Τόπου</title>
+    <icon src="https://www.ishow.gr//files/images/2023/11/83a0c381-1fdc-4167-a4c7-12896a83e318.jpg"/>
+  </programme>
+  <programme start="20240505130000 +0300" stop="20240505134500 +0300" channel="epsilontv.gr">
+    <title lang="el">Open News - Μεσημεριανό Δελτίο</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505134500 +0300" stop="20240505143000 +0300" channel="epsilontv.gr">
+    <title lang="el">Chef στην κουζίνα σας</title>
+    <icon src="https://www.ishow.gr//files/images/2023/9/c94a2a20-c056-4077-adf9-938d56e24b1d.jpg"/>
+  </programme>
+  <programme start="20240505143000 +0300" stop="20240505144500 +0300" channel="epsilontv.gr">
+    <title lang="el">Open News στη Νοηματική</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505144500 +0300" stop="20240505150000 +0300" channel="epsilontv.gr">
+    <title lang="el">Θυρίδα Τηλεπώλησης</title>
+    <icon src="https://www.ishow.gr//files/images/2021/3/4b8e39a7-6fb0-4df3-a161-68d93f718ef2.jpg"/>
+  </programme>
+  <programme start="20240505150000 +0300" stop="20240505174500 +0300" channel="epsilontv.gr">
+    <title lang="el">Next Please</title>
+    <icon src="https://www.ishow.gr//files/images/2024/2/af36aa75-cc95-418b-b14a-31b7282b6314.jpg"/>
+  </programme>
+  <programme start="20240505174500 +0300" stop="20240505184500 +0300" channel="epsilontv.gr">
+    <title lang="el">Εικόνες</title>
+    <icon src="https://www.ishow.gr//files/images/2022/11/7692d92d-a16b-4a17-80f6-62fec9925964.jpg"/>
+  </programme>
+  <programme start="20240505184500 +0300" stop="20240505200000 +0300" channel="epsilontv.gr">
+    <title lang="el">Open News</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2022/7/0247936c-436f-448f-a1d1-79a3a4da6925.jpg"/>
+  </programme>
+  <programme start="20240505200000 +0300" stop="20240505234500 +0300" channel="epsilontv.gr">
+    <title lang="el">Ταινία</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505234500 +0300" stop="20240506033000 +0300" channel="epsilontv.gr">
+    <title lang="el">Ταινία</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506033000 +0300" stop="20240506051500 +0300" channel="epsilontv.gr">
+    <title lang="el">Πρωινό Σου Σου</title>
+    <icon src="https://www.ishow.gr//files/images/2023/10/504a5043-f900-4a60-b942-cd0df33a4e5e.jpg"/>
+  </programme>
+  <programme start="20240506051500 +0300" stop="20240506060000 +0300" channel="epsilontv.gr">
+    <title lang="el">Εικόνες</title>
+    <icon src="https://www.ishow.gr//files/images/2022/11/7692d92d-a16b-4a17-80f6-62fec9925964.jpg"/>
+  </programme>
+  <programme start="20240506060000 +0300" stop="20240506095000 +0300" channel="epsilontv.gr">
+    <title lang="el">Ώρα Ελλάδος</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506095000 +0300" stop="20240506130000 +0300" channel="epsilontv.gr">
+    <title lang="el">Πρωινό Σου Σου</title>
+    <icon src="https://www.ishow.gr//files/images/2023/10/504a5043-f900-4a60-b942-cd0df33a4e5e.jpg"/>
+  </programme>
+  <programme start="20240506130000 +0300" stop="20240506140000 +0300" channel="epsilontv.gr">
+    <title lang="el">Open News - Μεσημεριανό Δελτίο</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506140000 +0300" stop="20240506153000 +0300" channel="epsilontv.gr">
+    <title lang="el">Οδός Ζαρίφη 2</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506153000 +0300" stop="20240506154500 +0300" channel="epsilontv.gr">
+    <title lang="el">Θυρίδα Τηλεπώλησης</title>
+    <icon src="https://www.ishow.gr//files/images/2021/3/4b8e39a7-6fb0-4df3-a161-68d93f718ef2.jpg"/>
+  </programme>
+  <programme start="20240506154500 +0300" stop="20240506160000 +0300" channel="epsilontv.gr">
+    <title lang="el">Open News στη Νοηματική</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506160000 +0300" stop="20240506174500 +0300" channel="epsilontv.gr">
+    <title lang="el">Ελληνική Ταινία</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506174500 +0300" stop="20240506184500 +0300" channel="epsilontv.gr">
+    <title lang="el">Σαν Ψέμα</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506184500 +0300" stop="20240506200000 +0300" channel="epsilontv.gr">
+    <title lang="el">Open News</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2022/7/0247936c-436f-448f-a1d1-79a3a4da6925.jpg"/>
+  </programme>
+  <programme start="20240506200000 +0300" stop="20240506211500 +0300" channel="epsilontv.gr">
+    <title lang="el">Η Υπόσχεση Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506211500 +0300" stop="20240506235500 +0300" channel="epsilontv.gr">
+    <title lang="el">Ταινία</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505001000 +0300" stop="20240505003000 +0300" channel="alpha.gr">
+    <title lang="el">Μια νύχτα στο μουσείο</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2014/9/4/faf9ea5c-af53-4eb0-9128-c7189139a6ba.jpg"/>
+  </programme>
+  <programme start="20240505003000 +0300" stop="20240505051500 +0300" channel="alpha.gr">
+    <title lang="el">50 Χρόνια Άννα Βίσση</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505051500 +0300" stop="20240505061500 +0300" channel="alpha.gr">
+    <title lang="el">Έρωτας με επιδότηση ΟΓΑ - 1ος κύκλος</title>
+    <icon src="https://www.ishow.gr//files/images/2013/9/26/e09cf957-3e32-411a-b571-7df5fcc17bb5.jpg"/>
+  </programme>
+  <programme start="20240505061500 +0300" stop="20240505064500 +0300" channel="alpha.gr">
+    <title lang="el">Θυρίδα Τηλεπώλησης</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/637b11d7-fa69-4e17-aa52-d25d2e5b12ed.jpg"/>
+  </programme>
+  <programme start="20240505064500 +0300" stop="20240505074500 +0300" channel="alpha.gr">
+    <title lang="el">Μπερδέματα</title>
+    <icon src="https://www.ishow.gr//files/images/2023/1/3fe941f9-e0fe-476f-96fc-b2900246b216.jpg"/>
+  </programme>
+  <programme start="20240505074500 +0300" stop="20240505093000 +0300" channel="alpha.gr">
+    <title lang="el">Ονειρομπελάδες</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2022/1/ecafac68-30e4-4ac2-be85-e1585692750e.jpg"/>
+  </programme>
+  <programme start="20240505093000 +0300" stop="20240505111500 +0300" channel="alpha.gr">
+    <title lang="el">Kung Fu Panda</title>
+    <category lang="el">Παιδικά</category>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2013/8/23/2850bad9-3d45-49b5-86cf-84e821743d19.jpg"/>
+  </programme>
+  <programme start="20240505111500 +0300" stop="20240505130000 +0300" channel="alpha.gr">
+    <title lang="el">Σρεκ και εμείς καλύτερα</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2010/8/9/2aded340-43aa-4a44-a2ce-9b1fa8ab6380.jpg"/>
+  </programme>
+  <programme start="20240505130000 +0300" stop="20240505134500 +0300" channel="alpha.gr">
+    <title lang="el">Ειδήσεις</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2021/3/b7969ecc-2e02-4a13-8003-5e6d6877b4e6.jpg"/>
+  </programme>
+  <programme start="20240505134500 +0300" stop="20240505154500 +0300" channel="alpha.gr">
+    <title lang="el">Η κρουαζιέρα του έρωτα</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2015/7/31/9704afaa-3baf-43d4-8e89-b46cc713d676.gif"/>
+  </programme>
+  <programme start="20240505154500 +0300" stop="20240505164000 +0300" channel="alpha.gr">
+    <title lang="el">Το σόι σου Κ5</title>
+    <icon src="https://www.ishow.gr//files/images/2022/10/b6a89329-7177-433c-8562-f2809e3f366a.jpg"/>
+  </programme>
+  <programme start="20240505164000 +0300" stop="20240505174000 +0300" channel="alpha.gr">
+    <title lang="el">Kitchen Lab</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/48e283d7-27e8-42ea-80ee-16be3ebe62f7.jpg"/>
+  </programme>
+  <programme start="20240505174000 +0300" stop="20240505175000 +0300" channel="alpha.gr">
+    <title lang="el">Δελτίο ειδήσεων στη νοηματική γλώσσα</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2021/3/8b65edd5-c7cd-4892-9603-3278670b16e7.jpg"/>
+  </programme>
+  <programme start="20240505175000 +0300" stop="20240505185000 +0300" channel="alpha.gr">
+    <title lang="el">Το σόι σου Κ4</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/309907f6-7a33-4012-9bba-a8fe90ba133d.jpg"/>
+  </programme>
+  <programme start="20240505185000 +0300" stop="20240505195500 +0300" channel="alpha.gr">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων Alpha</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2022/9/01474be8-815a-4fa2-b6b8-90a17acaf172.jpg"/>
+  </programme>
+  <programme start="20240505195500 +0300" stop="20240505200000 +0300" channel="alpha.gr">
+    <title lang="el">Καιρός</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/c6f8b73b-64b7-420f-8bd4-598bde1041cd.jpg"/>
+  </programme>
+  <programme start="20240505200000 +0300" stop="20240505220000 +0300" channel="alpha.gr">
+    <title lang="el">Ρίο</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2013/9/16/67141d58-5458-41c6-a52d-4c4dbfde72a1.jpg"/>
+  </programme>
+  <programme start="20240505220000 +0300" stop="20240506000000 +0300" channel="alpha.gr">
+    <title lang="el">Ο κυρ-Γιώργης εκπαιδεύεται</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2020/9/17f2c9bb-8937-406c-932e-ce6c98d3f3c4.jpg"/>
+  </programme>
+  <programme start="20240506000000 +0300" stop="20240506023000 +0300" channel="alpha.gr">
+    <title lang="el">Fame ζορι</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506023000 +0300" stop="20240506051500 +0300" channel="alpha.gr">
+    <title lang="el">Τα μάτια της Τάμι Φέι</title>
+    <icon src="https://www.ishow.gr//files/images/2024/4/29d9ef5c-3875-475b-8eac-450c4433978e.jpg"/>
+  </programme>
+  <programme start="20240506051500 +0300" stop="20240506061500 +0300" channel="alpha.gr">
+    <title lang="el">Έρωτας με επιδότηση ΟΓΑ - Β' κύκλος</title>
+    <icon src="https://www.ishow.gr//files/images/2009/12/11/3903e3b5-1668-46da-9fc5-a1c00dcd4ada.jpg"/>
+  </programme>
+  <programme start="20240506061500 +0300" stop="20240506064500 +0300" channel="alpha.gr">
+    <title lang="el">Θυρίδα Τηλεπώλησης</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/637b11d7-fa69-4e17-aa52-d25d2e5b12ed.jpg"/>
+  </programme>
+  <programme start="20240506064500 +0300" stop="20240506074000 +0300" channel="alpha.gr">
+    <title lang="el">Οικογενειακές ιστορίες</title>
+    <category lang="el">Ριάλιτι</category>
+    <icon src="https://www.ishow.gr//files/images/2017/9/22/57eb5974-f11a-49bf-9fb2-80cabcdcdd37.jpg"/>
+  </programme>
+  <programme start="20240506074000 +0300" stop="20240506091500 +0300" channel="alpha.gr">
+    <title lang="el">Kung Fu Panda</title>
+    <category lang="el">Παιδικά</category>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2013/8/23/2850bad9-3d45-49b5-86cf-84e821743d19.jpg"/>
+  </programme>
+  <programme start="20240506091500 +0300" stop="20240506110000 +0300" channel="alpha.gr">
+    <title lang="el">Ο μαγικός κήπος</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2019/2/22/46239ed0-3d5c-43a8-97da-9e35d7101dc7.jpg"/>
+  </programme>
+  <programme start="20240506110000 +0300" stop="20240506130000 +0300" channel="alpha.gr">
+    <title lang="el">Ριο 2</title>
+    <category lang="el">Παιδικά</category>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2014/4/10/ee01d2f9-cdfe-4eaa-ba52-08a54499da29.jpg"/>
+  </programme>
+  <programme start="20240506130000 +0300" stop="20240506140000 +0300" channel="alpha.gr">
+    <title lang="el">Το σόι σου Κ2</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/f0bc367e-5e54-42ca-89da-53bcc6e61a05.png"/>
+  </programme>
+  <programme start="20240506140000 +0300" stop="20240506145000 +0300" channel="alpha.gr">
+    <title lang="el">Ειδήσεις</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2021/3/b7969ecc-2e02-4a13-8003-5e6d6877b4e6.jpg"/>
+  </programme>
+  <programme start="20240506145000 +0300" stop="20240506163500 +0300" channel="alpha.gr">
+    <title lang="el">Ακαταμάχητος πιλότος</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2018/5/4/1f0f65dd-7087-4983-b50b-8f470ef9a7ea.jpg"/>
+  </programme>
+  <programme start="20240506163500 +0300" stop="20240506164500 +0300" channel="alpha.gr">
+    <title lang="el">Δελτίο ειδήσεων στη νοηματική γλώσσα</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2021/3/8b65edd5-c7cd-4892-9603-3278670b16e7.jpg"/>
+  </programme>
+  <programme start="20240506164500 +0300" stop="20240506174500 +0300" channel="alpha.gr">
+    <title lang="el">Το σόι σου Κ3</title>
+    <icon src="https://www.ishow.gr//files/images/2022/10/4cce5ad9-8e7b-4096-88bd-e8676bb3945f.jpg"/>
+  </programme>
+  <programme start="20240506174500 +0300" stop="20240506185000 +0300" channel="alpha.gr">
+    <title lang="el">Οικογενειακές ιστορίες</title>
+    <category lang="el">Ριάλιτι</category>
+    <icon src="https://www.ishow.gr//files/images/2017/9/22/57eb5974-f11a-49bf-9fb2-80cabcdcdd37.jpg"/>
+  </programme>
+  <programme start="20240506185000 +0300" stop="20240506200000 +0300" channel="alpha.gr">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων Alpha</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2022/9/01474be8-815a-4fa2-b6b8-90a17acaf172.jpg"/>
+  </programme>
+  <programme start="20240506200000 +0300" stop="20240506215000 +0300" channel="alpha.gr">
+    <title lang="el">Η κυρά μας η μαμή</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2013/4/29/26996b82-2bd9-4d87-8ff2-fdb43599f106.jpg"/>
+  </programme>
+  <programme start="20240505001500 +0300" stop="20240505011500 +0300" channel="star.gr">
+    <title lang="el">Η οργή των Τιτάνων</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2013/9/9/86928672-30ee-46ab-9fcc-1d01175c463d.jpg"/>
+  </programme>
+  <programme start="20240505011500 +0300" stop="20240505034500 +0300" channel="star.gr">
+    <title lang="el">Ροκ για πάντα</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2013/9/2/5298ebb7-72c2-4689-9593-43262204135a.jpg"/>
+  </programme>
+  <programme start="20240505034500 +0300" stop="20240505061500 +0300" channel="star.gr">
+    <title lang="el">Για πάντα νέος</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2013/10/8/842305cf-226e-4e23-8540-2feacc343e45.jpg"/>
+  </programme>
+  <programme start="20240505061500 +0300" stop="20240505071500 +0300" channel="star.gr">
+    <title lang="el">Scooby Doo and guess who</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505071500 +0300" stop="20240505074500 +0300" channel="star.gr">
+    <title lang="el">Μπίνγκο</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2017/3/10/c4f44f9c-3158-4d94-89bd-5c1b43534ef7.jpg"/>
+  </programme>
+  <programme start="20240505074500 +0300" stop="20240505081000 +0300" channel="star.gr">
+    <title lang="el">Ο Γκρίζι και τα Λέμινγκς</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505081000 +0300" stop="20240505083000 +0300" channel="star.gr">
+    <title lang="el">Booba</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2022/9/2d09664b-3ee3-4b5e-849f-c5919f7e4262.jpg"/>
+  </programme>
+  <programme start="20240505083000 +0300" stop="20240505084500 +0300" channel="star.gr">
+    <title lang="el">Πέππα, το Γουρουνάκι</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505084500 +0300" stop="20240505091500 +0300" channel="star.gr">
+    <title lang="el">Σκούμπι Ντου! Το στοιχειωμένο γήπεδο</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2019/11/25/47cdca7f-dc41-4350-837e-103774c1629b_poster.jpg"/>
+  </programme>
+  <programme start="20240505091500 +0300" stop="20240505104500 +0300" channel="star.gr">
+    <title lang="el">Σκούμπι Ντου! Το τέρας της λίμνης</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2015/6/17/1d962880-b958-41ff-bc80-d8cdc8d20bb9.jpg"/>
+  </programme>
+  <programme start="20240505104500 +0300" stop="20240505124500 +0300" channel="star.gr">
+    <title lang="el">Οι Ευχούληδες</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2016/10/28/595fca71-3919-4799-9a72-68ae63972db6.jpg"/>
+  </programme>
+  <programme start="20240505124500 +0300" stop="20240505150000 +0300" channel="star.gr">
+    <title lang="el">Wendy</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2022/12/f3fa1527-e81c-4a6a-8985-fe32a3ce477a.jpg"/>
+  </programme>
+  <programme start="20240505150000 +0300" stop="20240505151500 +0300" channel="star.gr">
+    <title lang="el">STAR News</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2021/3/1d6c02d5-40ad-4bcc-842b-d8ad698bfb45.jpg"/>
+  </programme>
+  <programme start="20240505151500 +0300" stop="20240505173000 +0300" channel="star.gr">
+    <title lang="el">Αλίμονο στους νέους</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2013/9/3/5aab8102-9398-4f09-b802-ba6a75e93b29.jpg"/>
+  </programme>
+  <programme start="20240505173000 +0300" stop="20240505194500 +0300" channel="star.gr">
+    <title lang="el">Μια δεύτερη ευκαιρία</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2018/12/28/c99b33b0-6d3c-4b3f-a177-ad5ddc101c40.jpg"/>
+  </programme>
+  <programme start="20240505194500 +0300" stop="20240505210000 +0300" channel="star.gr">
+    <title lang="el">STAR News</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2021/3/1d6c02d5-40ad-4bcc-842b-d8ad698bfb45.jpg"/>
+  </programme>
+  <programme start="20240505210000 +0300" stop="20240505221500 +0300" channel="star.gr">
+    <title lang="el">Στα Σύνορα Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505221500 +0300" stop="20240506014500 +0300" channel="star.gr">
+    <title lang="el">Τροία</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2013/9/11/d421b2e2-794d-48f4-af6a-c9cea6f0a211.jpg"/>
+  </programme>
+  <programme start="20240506014500 +0300" stop="20240506040000 +0300" channel="star.gr">
+    <title lang="el">Νοτιάς</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2016/1/13/e8238916-b3fc-4ee6-89ad-0c44595b9e41.jpg"/>
+  </programme>
+  <programme start="20240506040000 +0300" stop="20240506061500 +0300" channel="star.gr">
+    <title lang="el">Δυο Αμερικανιδούλες στο Παρίσι</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506061500 +0300" stop="20240506071500 +0300" channel="star.gr">
+    <title lang="el">Scooby Doo and guess who</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506071500 +0300" stop="20240506074500 +0300" channel="star.gr">
+    <title lang="el">Μπίνγκο</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2017/3/10/c4f44f9c-3158-4d94-89bd-5c1b43534ef7.jpg"/>
+  </programme>
+  <programme start="20240506074500 +0300" stop="20240506081000 +0300" channel="star.gr">
+    <title lang="el">Ο Γκρίζι και τα Λέμινγκς</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506081000 +0300" stop="20240506083000 +0300" channel="star.gr">
+    <title lang="el">Booba</title>
+    <category lang="el">Σειρά</category>
+    <icon src="https://www.ishow.gr//files/images/2022/9/2d09664b-3ee3-4b5e-849f-c5919f7e4262.jpg"/>
+  </programme>
+  <programme start="20240506083000 +0300" stop="20240506084500 +0300" channel="star.gr">
+    <title lang="el">Πέππα, το Γουρουνάκι</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506084500 +0300" stop="20240506100000 +0300" channel="star.gr">
+    <title lang="el">Σκούμπι Ντου! Άμπρα Κατάμπρα</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2016/8/18/ae6ffb7d-f6a0-4ae3-a499-a8c22016aba9.jpg"/>
+  </programme>
+  <programme start="20240506100000 +0300" stop="20240506114500 +0300" channel="star.gr">
+    <title lang="el">Γουίλι</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2018/12/28/c8814a90-187e-49fc-8513-61d504fee4c7.jpg"/>
+  </programme>
+  <programme start="20240506114500 +0300" stop="20240506150000 +0300" channel="star.gr">
+    <title lang="el">Ο Χάρι Πότερ και η κάμαρα με τα μυστικά</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2013/9/5/61244c6c-a495-4dae-b90a-886e8497bd13.jpg"/>
+  </programme>
+  <programme start="20240506150000 +0300" stop="20240506154500 +0300" channel="star.gr">
+    <title lang="el">STAR News</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2021/3/1d6c02d5-40ad-4bcc-842b-d8ad698bfb45.jpg"/>
+  </programme>
+  <programme start="20240506154500 +0300" stop="20240506155000 +0300" channel="star.gr">
+    <title lang="el">Ειδήσεις στη Νοηματική Γλώσσα</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/3f5c843a-440c-465b-b729-f711dc6c2b22.jpg"/>
+  </programme>
+  <programme start="20240506155000 +0300" stop="20240506173000 +0300" channel="star.gr">
+    <title lang="el">Shopping Star</title>
+    <icon src="https://www.ishow.gr//files/images/2023/9/90cfca8a-b5f8-4c64-85df-bffe6d6ab268.jpg"/>
+  </programme>
+  <programme start="20240506173000 +0300" stop="20240506183000 +0300" channel="star.gr">
+    <title lang="el">Cash or Trash</title>
+    <icon src="https://www.ishow.gr//files/images/2022/10/fcfa952e-261c-42f4-a278-9b83795bb9d4.jpg"/>
+  </programme>
+  <programme start="20240506183000 +0300" stop="20240506194500 +0300" channel="star.gr">
+    <title lang="el">Ο τροχός της τύχης</title>
+    <category lang="el">Τηλεπαιχνίδι</category>
+    <icon src="https://www.ishow.gr//files/images/2023/2/0cbab4da-17d8-4554-b6b5-b97c0cb01350.jpg"/>
+  </programme>
+  <programme start="20240506194500 +0300" stop="20240506210000 +0300" channel="star.gr">
+    <title lang="el">STAR News</title>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://www.ishow.gr//files/images/2021/3/1d6c02d5-40ad-4bcc-842b-d8ad698bfb45.jpg"/>
+  </programme>
+  <programme start="20240506210000 +0300" stop="20240506233000 +0300" channel="star.gr">
+    <title lang="el">The A-Team</title>
+    <category lang="el">Ταινία</category>
+    <icon src="https://www.ishow.gr//files/images/2014/12/17/d8aa8c92-e130-4b2f-a213-09e349345563.jpg"/>
+  </programme>
+  <programme start="20240505000500 +0300" stop="20240505020000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Ρίο Άβε - Βιτόρια Γκιμαράες</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505020000 +0300" stop="20240505040000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Σπόρτινγκ Λισαβόνας - Πορτιμονένσε</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505040000 +0300" stop="20240505060000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Σάβες - Πόρτο</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505060000 +0300" stop="20240505080000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Άστον Βίλα - Ολυμπιακός Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505080000 +0300" stop="20240505083000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Στιγμιότυπα: UEL &amp; UECL 2023-24 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505083000 +0300" stop="20240505103000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Ρίο Άβε - Βιτόρια Γκιμαράες Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505103000 +0300" stop="20240505110000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Στιγμιότυπα: UEL &amp; UECL 2023-24 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505110000 +0300" stop="20240505130000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Σπόρτινγκ Λισαβόνας - Πορτιμονένσε Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505130000 +0300" stop="20240505133000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Game R1 Κ4</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505133000 +0300" stop="20240505140000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">UEFA Champions League Μαγκαζίνο 2023-24 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505140000 +0300" stop="20240505160000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Σάβες - Πόρτο</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505160000 +0300" stop="20240505180000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Ελλάς Βερόνα - Φιορεντίνα</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505180000 +0300" stop="20240505183000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">UEFA Champions League Μαγκαζίνο 2023-24 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505183000 +0300" stop="20240505190000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Sports Classics: Worldies Κ1</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/06ce80d5-e58f-42fb-a6e3-705aa546eb0d.jpg"/>
+  </programme>
+  <programme start="20240505190000 +0300" stop="20240505210000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Μίλαν - Τζένοα</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505210000 +0300" stop="20240505214500 +0300" channel="cosmotesport1.gr">
+    <title lang="el">UEFA Champions League Μαγκαζίνο 2023-24 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505214500 +0300" stop="20240505234500 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Ρόμα - Γιουβέντους</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505234500 +0300" stop="20240506015500 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Άστον Βίλα - Ολυμπιακός</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506015500 +0300" stop="20240506040000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Μπράγκα - Κάζα Πία</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506040000 +0300" stop="20240506060000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Φιορεντίνα - Κλαμπ Μπριζ Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506060000 +0300" stop="20240506063000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">UEFA Champions League - Στιγμιότυπα 2023-24 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506063000 +0300" stop="20240506070000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">UEFA Champions League - Στιγμιότυπα 2023-24 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506070000 +0300" stop="20240506090000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Ντόρτμουντ - Παρί Σεν Ζερμέν</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506090000 +0300" stop="20240506093000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">UEFA Champions League - Στιγμιότυπα 2023-24 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506093000 +0300" stop="20240506100000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">UEFA Champions League - Στιγμιότυπα 2023-24 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506100000 +0300" stop="20240506120000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Μαρσέιγ - Αταλάντα Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506120000 +0300" stop="20240506140000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Μπάγερν Μονάχου - Ρεάλ Μαδρίτης Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506140000 +0300" stop="20240506160000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Άστον Βίλα - Ολυμπιακός Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506160000 +0300" stop="20240506180000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Ρόμα - Λεβερκούζεν Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506180000 +0300" stop="20240506200000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Φιορεντίνα - Κλαμπ Μπριζ Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506200000 +0300" stop="20240506203000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">UEFA Champions League - Στιγμιότυπα 2023-24 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506203000 +0300" stop="20240506210000 +0300" channel="cosmotesport1.gr">
+    <title lang="el">UEFA Champions League - Στιγμιότυπα 2023-24 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506210000 +0300" stop="20240506230500 +0300" channel="cosmotesport1.gr">
+    <title lang="el">Ποδόσφαιρο: Αλ Αχλί - Αλ Χιλάλ</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505015000 +0300" stop="20240505035000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Ποδόσφαιρο: Σασουόλο - Ίντερ</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505035000 +0300" stop="20240505060000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Ποδόσφαιρο: Ολυμπιακός - ΠΑΣ Λαμία Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505060000 +0300" stop="20240505063000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Sports Classics: My Sporting Moment Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505063000 +0300" stop="20240505083000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Ποδόσφαιρο: Τορίνο - Μπολόνια</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505083000 +0300" stop="20240505103000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Ποδόσφαιρο: Μόντσα - Λάτσιο</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505103000 +0300" stop="20240505123000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Ποδόσφαιρο: Σασουόλο - Ίντερ</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505123000 +0300" stop="20240505133000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">UEL &amp; UECL Μαγκαζίνο 2023-24 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505133000 +0300" stop="20240505153000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Ποδόσφαιρο: Κάλιαρι - Λέτσε</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505153000 +0300" stop="20240505160000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Sports Classics: Worldies Κ1</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/06ce80d5-e58f-42fb-a6e3-705aa546eb0d.jpg"/>
+  </programme>
+  <programme start="20240505160000 +0300" stop="20240505180000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Ποδόσφαιρο: Έμπολι - Φροζινόνε</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505180000 +0300" stop="20240505182500 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Sports Classics: Worldies Κ1</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/06ce80d5-e58f-42fb-a6e3-705aa546eb0d.jpg"/>
+  </programme>
+  <programme start="20240505182500 +0300" stop="20240505190000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Sports Classics: My Sporting Moment Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505190000 +0300" stop="20240505200000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">UEL &amp; UECL Μαγκαζίνο 2023-24 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505200000 +0300" stop="20240505220000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Ποδόσφαιρο: Μπράγκα - Κάζα Πία</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505220000 +0300" stop="20240505223000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Sports Classics: My Sporting Moment Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505223000 +0300" stop="20240506003000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Ποδόσφαιρο: Φαμαλικάο - Μπενφίκα</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506003000 +0300" stop="20240506023000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Ποδόσφαιρο: Ελλάς Βερόνα - Φιορεντίνα</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506023000 +0300" stop="20240506033000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">UEL &amp; UECL Μαγκαζίνο 2023-24 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506033000 +0300" stop="20240506040000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Sports Classics: My Sporting Moment Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506040000 +0300" stop="20240506060000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Ποδόσφαιρο: Κάλιαρι - Λέτσε</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506060000 +0300" stop="20240506063000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Sports Classics: Football's Greatest IV Κ1</title>
+    <icon src="https://www.ishow.gr//files/images/2022/10/d27f9c24-2f55-4493-8479-94be7471afd7.jpg"/>
+  </programme>
+  <programme start="20240506063000 +0300" stop="20240506084000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Ποδόσφαιρο: Ολυμπιακός - ΠΑΣ Λαμία Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506084000 +0300" stop="20240506104000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Ποδόσφαιρο: Έμπολι - Φροζινόνε</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506104000 +0300" stop="20240506124500 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Ποδόσφαιρο: Μίλαν - Τζένοα</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506124500 +0300" stop="20240506145500 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Ποδόσφαιρο: Παναθηναϊκός - Άρης Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506145500 +0300" stop="20240506170000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Ποδόσφαιρο: Ρόμα - Γιουβέντους Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506170000 +0300" stop="20240506190000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Ποδόσφαιρο: Sky Bet EFL League Two 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506190000 +0300" stop="20240506193000 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Sports Classics: Football's Greatest IV Κ1</title>
+    <icon src="https://www.ishow.gr//files/images/2022/10/d27f9c24-2f55-4493-8479-94be7471afd7.jpg"/>
+  </programme>
+  <programme start="20240506193000 +0300" stop="20240506214500 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Ποδόσφαιρο: Παναθηναϊκός - Άρης</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506214500 +0300" stop="20240506234500 +0300" channel="cosmotesport2.gr">
+    <title lang="el">Ποδόσφαιρο: Ουντινέζε - Νάπολι</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505000000 +0300" stop="20240505020000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Ποδόσφαιρο: Sky Bet EFL Championship 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505020000 +0300" stop="20240505040000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Ποδόσφαιρο: Sky Bet EFL Championship 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505040000 +0300" stop="20240505060000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Ποδόσφαιρο: Sky Bet EFL Championship 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505060000 +0300" stop="20240505080000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Ποδόσφαιρο: Sky Bet EFL Championship 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505080000 +0300" stop="20240505100000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Ποδόσφαιρο: Sky Bet EFL Championship 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505100000 +0300" stop="20240505120000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Ποδόσφαιρο: Sky Bet EFL Championship 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505120000 +0300" stop="20240505140000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Ποδόσφαιρο Σάλας: Μπενφίκα - Πάλμα</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505140000 +0300" stop="20240505160000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Ποδόσφαιρο Σάλας: Μπαρτσελόνα - Σπόρτινγκ Λισαβόνας</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505160000 +0300" stop="20240505180000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Ποδόσφαιρο Σάλας: UEFA Futsal Champions League 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505180000 +0300" stop="20240505183000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Sports Classics: Sporting Countdowns Κ1</title>
+    <icon src="https://www.ishow.gr//files/images/2022/10/cc5fbb9b-98a7-4bf1-b827-7521d0809e98.jpg"/>
+  </programme>
+  <programme start="20240505183000 +0300" stop="20240505190000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Sports Classics: Worldies Κ1</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/06ce80d5-e58f-42fb-a6e3-705aa546eb0d.jpg"/>
+  </programme>
+  <programme start="20240505190000 +0300" stop="20240505213000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Ποδόσφαιρο Σάλας: UEFA Futsal Champions League 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505213000 +0300" stop="20240505220000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Sports Classics: Sporting Countdowns Κ1</title>
+    <icon src="https://www.ishow.gr//files/images/2022/10/cc5fbb9b-98a7-4bf1-b827-7521d0809e98.jpg"/>
+  </programme>
+  <programme start="20240505220000 +0300" stop="20240505223000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Στιγμιότυπα: UEFA Youth League 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505223000 +0300" stop="20240506010000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Ποδόσφαιρο Σάλας: UEFA Futsal Champions League 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506010000 +0300" stop="20240506030000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Ποδόσφαιρο Σάλας: UEFA Futsal Champions League 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506030000 +0300" stop="20240506033000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Στιγμιότυπα: UEFA Youth League 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506033000 +0300" stop="20240506040000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Emirates FA Cup 2023-24 - Στιγμιότυπα Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506040000 +0300" stop="20240506060000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Ποδόσφαιρο: Ρέιντζερς - Κιλμάρνοκ</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506060000 +0300" stop="20240506080000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Ποδόσφαιρο: Ρίο Άβε - Βιτόρια Γκιμαράες</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506080000 +0300" stop="20240506100000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Ποδόσφαιρο: Σέρο Πορτένιο - Φλουμινένσε Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506100000 +0300" stop="20240506120000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Ποδόσφαιρο Σάλας: Μπενφίκα - Πάλμα</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506120000 +0300" stop="20240506140000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Ποδόσφαιρο: Ρέιντζερς - Κιλμάρνοκ</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506140000 +0300" stop="20240506143000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Στιγμιότυπα: UEFA Youth League 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506143000 +0300" stop="20240506163000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Ποδόσφαιρο: Ιντεπεντιέντε ντελ Βάλε - Παλμέιρας Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506163000 +0300" stop="20240506183000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Ποδόσφαιρο: Σάβες - Πόρτο</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506183000 +0300" stop="20240506190000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Emirates FA Cup 2023-24 - Στιγμιότυπα Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506190000 +0300" stop="20240506193000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Στιγμιότυπα: UEFA Youth League 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506193000 +0300" stop="20240506213000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">Ποδόσφαιρο: Sky Bet EFL League Two 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506213000 +0300" stop="20240506220000 +0300" channel="cosmotesport3.gr">
+    <title lang="el">cinch Scottish Premiership 2023-24 - Στιγμιότυπα</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505013000 +0300" stop="20240505020000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">NBA Specials Κ1</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/0acf9808-d6e2-4de2-b0e1-1b1de5b1771d.jpg"/>
+  </programme>
+  <programme start="20240505020000 +0300" stop="20240505040000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Βαλένθια - Μπανταλόνα</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505040000 +0300" stop="20240505060000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Turkish Basketball Super League 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505060000 +0300" stop="20240505083000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Περιστέρι - Μούρθια</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505083000 +0300" stop="20240505101500 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Pick n' Roll</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505101500 +0300" stop="20240505121500 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Βαλένθια - Μπανταλόνα</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505121500 +0300" stop="20240505145000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: NBA 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505145000 +0300" stop="20240505172500 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Τενερίφη - Μάλαγα</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505172500 +0300" stop="20240505180000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">NBA on Fire 2023-24 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505180000 +0300" stop="20240505200000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Μπασκόνια - Τζιρόνα</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505200000 +0300" stop="20240505223000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: NBA 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505223000 +0300" stop="20240506013000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: NBA 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506013000 +0300" stop="20240506020000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">NBA Specials Κ1</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/0acf9808-d6e2-4de2-b0e1-1b1de5b1771d.jpg"/>
+  </programme>
+  <programme start="20240506020000 +0300" stop="20240506040000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Βίρτους Μπολόνια - Τρέντο</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506040000 +0300" stop="20240506060000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Μπασκόνια - Τζιρόνα</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506060000 +0300" stop="20240506080000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Turkish Basketball Super League 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506080000 +0300" stop="20240506100000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Τενερίφη - Περιστέρι</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506100000 +0300" stop="20240506120000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Μπασκόνια - Τζιρόνα</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506120000 +0300" stop="20240506143000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: NBA 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506143000 +0300" stop="20240506163000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Βίρτους Μπολόνια - Τρέντο</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506163000 +0300" stop="20240506183000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: Turkish Basketball Super League 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506183000 +0300" stop="20240506190000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">NBA Specials Κ1</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/0acf9808-d6e2-4de2-b0e1-1b1de5b1771d.jpg"/>
+  </programme>
+  <programme start="20240506190000 +0300" stop="20240506213000 +0300" channel="cosmotesport4.gr">
+    <title lang="el">Μπάσκετ: FIBA Basketball Champions League 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505010000 +0300" stop="20240505020500 +0300" channel="cosmotesport5.gr">
+    <title lang="el">ERC 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505020500 +0300" stop="20240505030000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Rallycross 2023 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505030000 +0300" stop="20240505040000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Rallycross 2023</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505040000 +0300" stop="20240505060000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Motorsports: Extreme-E 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505060000 +0300" stop="20240505070000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Extreme E - Highlights 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505070000 +0300" stop="20240505080000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Extreme E - Highlights 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505080000 +0300" stop="20240505083000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Extreme E Magazine 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505083000 +0300" stop="20240505090000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Sports Classics: Gearing Up 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505090000 +0300" stop="20240505093000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">WRC Μαγκαζίνο 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505093000 +0300" stop="20240505103000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">DTM 2024 - Higlights Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505103000 +0300" stop="20240505113000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">WRC 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505113000 +0300" stop="20240505122500 +0300" channel="cosmotesport5.gr">
+    <title lang="el">ERC 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505122500 +0300" stop="20240505133000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">ERC 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505133000 +0300" stop="20240505143500 +0300" channel="cosmotesport5.gr">
+    <title lang="el">ERC 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505143500 +0300" stop="20240505145000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Sports Classics: Worldies Κ1</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/06ce80d5-e58f-42fb-a6e3-705aa546eb0d.jpg"/>
+  </programme>
+  <programme start="20240505145000 +0300" stop="20240505162500 +0300" channel="cosmotesport5.gr">
+    <title lang="el">DTM 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505162500 +0300" stop="20240505180000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">DTM 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505180000 +0300" stop="20240505190000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">WRC 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505190000 +0300" stop="20240505191500 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Sports Classics: Worldies Κ1</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/06ce80d5-e58f-42fb-a6e3-705aa546eb0d.jpg"/>
+  </programme>
+  <programme start="20240505191500 +0300" stop="20240505211500 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Μπάσκετ: Βίρτους Μπολόνια - Τρέντο</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505211500 +0300" stop="20240505225000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">WRC 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505225000 +0300" stop="20240505232000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">WRC Μαγκαζίνο 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505232000 +0300" stop="20240505233500 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Sports Classics: Worldies Κ1</title>
+    <icon src="https://www.ishow.gr//files/images/2022/9/06ce80d5-e58f-42fb-a6e3-705aa546eb0d.jpg"/>
+  </programme>
+  <programme start="20240505233500 +0300" stop="20240506003500 +0300" channel="cosmotesport5.gr">
+    <title lang="el">DTM 2024 - Higlights Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506003500 +0300" stop="20240506010500 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Extreme E Magazine 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506010500 +0300" stop="20240506020500 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Extreme E - Highlights 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506020500 +0300" stop="20240506030000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Extreme E - Highlights 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506030000 +0300" stop="20240506033000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Sports Classics: Gearing Up 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506033000 +0300" stop="20240506040000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Extreme E Magazine 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506040000 +0300" stop="20240506060000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Motorsports: Extreme-E 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506060000 +0300" stop="20240506063500 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Extreme E Magazine 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506063500 +0300" stop="20240506073500 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Extreme E - Highlights 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506073500 +0300" stop="20240506083500 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Extreme E - Highlights 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506083500 +0300" stop="20240506101000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">DTM 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506101000 +0300" stop="20240506114500 +0300" channel="cosmotesport5.gr">
+    <title lang="el">DTM 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506114500 +0300" stop="20240506121500 +0300" channel="cosmotesport5.gr">
+    <title lang="el">WRC Μαγκαζίνο 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506121500 +0300" stop="20240506142000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Motorsports: Extreme-E 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506142000 +0300" stop="20240506162500 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Motorsports: Extreme-E 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506162500 +0300" stop="20240506172000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">WRC 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506172000 +0300" stop="20240506185000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">WRC 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506185000 +0300" stop="20240506195000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">WRC 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506195000 +0300" stop="20240506210000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Εκπομπή Grand Prix 2024</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506210000 +0300" stop="20240506213000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">ERC 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506213000 +0300" stop="20240506222500 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Red Bull MotoGP Rookies Cup 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506222500 +0300" stop="20240506232000 +0300" channel="cosmotesport5.gr">
+    <title lang="el">Red Bull MotoGP Rookies Cup 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505010000 +0300" stop="20240505033000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: ATP Masters 1000 2024</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505033000 +0300" stop="20240505043000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">ATP 500 2024 - Στιγμιότυπα Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505043000 +0300" stop="20240505050000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Sports Classics: The Outdoor Sports Show 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505050000 +0300" stop="20240505090000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Πολεμικές Τέχνες: UFC Fight Night 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505090000 +0300" stop="20240505110000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: IMG Future Stars 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505110000 +0300" stop="20240505113000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Premier Padel Tour 2024- Στιγμιότυπα Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505113000 +0300" stop="20240505123000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">ATP 500 2024 - Στιγμιότυπα Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505123000 +0300" stop="20240505150000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: ATP Masters 1000 2024</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505150000 +0300" stop="20240505170000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: ATP Masters 1000 2024</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505170000 +0300" stop="20240505193000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: ATP Masters 1000 2024</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505193000 +0300" stop="20240505220000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: ATP Masters 1000 2024</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505220000 +0300" stop="20240505223000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Sports Classics: The Outdoor Sports Show 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505223000 +0300" stop="20240506023000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Πολεμικές Τέχνες: UFC Fight Night 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506023000 +0300" stop="20240506060000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Fight Sports: Oktagon 57 2024 Κ1</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506060000 +0300" stop="20240506083000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Πάντελ: Premier Padel Tour 2024</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506083000 +0300" stop="20240506110000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Πάντελ: Premier Padel Tour 2024</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506110000 +0300" stop="20240506133000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: ATP Masters 1000 2024</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506133000 +0300" stop="20240506160000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Πάντελ: Premier Padel Tour 2024</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506160000 +0300" stop="20240506183000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Πάντελ: Premier Padel Tour 2024</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506183000 +0300" stop="20240506210000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Πάντελ: Premier Padel Tour 2024</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506210000 +0300" stop="20240506233000 +0300" channel="cosmotesport6.gr">
+    <title lang="el">Τένις: ATP Masters 1000 2024</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505010000 +0300" stop="20240505040000 +0300" channel="cosmotesport7.gr">
+    <title lang="el">NBA TV 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505040000 +0300" stop="20240505170000 +0300" channel="cosmotesport7.gr">
+    <title lang="el">NBA TV 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505170000 +0300" stop="20240505200000 +0300" channel="cosmotesport7.gr">
+    <title lang="el">Βόλεϊ: Τρεντίνο - Γιαστρέμπσκι Βέγκελ</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505200000 +0300" stop="20240506010000 +0300" channel="cosmotesport7.gr">
+    <title lang="el">Βόλεϊ: Κονελιάνο - Μιλάνο</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506010000 +0300" stop="20240506040000 +0300" channel="cosmotesport7.gr">
+    <title lang="el">NBA TV 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240506040000 +0300" stop="20240506190000 +0300" channel="cosmotesport7.gr">
+    <title lang="el">NBA TV 2023-24</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
+  <programme start="20240505170000 +0300" stop="20240505190000 +0300" channel="cosmotesport18.gr">
+    <title lang="el">Πάντελ: Premier Padel Tour 2024</title>
+    <icon src="https://www.ishow.gr//images/movie_poster.jpg"/>
+  </programme>
   <programme start="20240505080000 +0300" stop="20240505100000 +0300" channel="novasportsprime.gr">
     <title lang="gr">Μπαρτσελόνα - Ολυμπιακός</title>
     <sub-title lang="gr">EuroLeague: 2ος Αγώνας Πλέι Οφ</sub-title>
@@ -21648,12 +23749,6 @@
     <category lang="en">Basketball</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p191276_b_h9_bb.jpg?w=360&amp;h=270"/>
   </programme>
-  <programme start="20240505122000 +0000" stop="20240505125500 +0000" channel="sportklub1.rs">
-    <title lang="sr">Pregled Evrolige: Playoffs - G3 &amp; G4</title>
-    <desc lang="sr">18 najboljih timova Evrope ponovo se bore za titulu najboljeg na kontinentu. EFES je zasluženo uzeo titulu prošle sezone, a čini se da će imati nikada teži zadatak da je odbrane. Mogu li Zvezda i...</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/06/15/13/38/58/stb_xl_0bd6e6a0e0fc9685d8fa9028375b577faa5eccc6_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-  </programme>
   <programme start="20240505125500 +0000" stop="20240505144000 +0000" channel="sportklub1.rs">
     <title lang="sr">Rukomet - Nemačka liga: Fuschse - Gummersbach</title>
     <desc lang="sr">Rukometna Bundesliga je najviši rang takmičenja u Nemačkoj. Kvalitetom igre smatra se jednim od najkvalitetnijih rukometnih liga na svetu. (LIVE).</desc>
@@ -21726,10 +23821,10 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/05/09/15/09/04/stb_xl_xl_trans_world_sport_2880x1620.jpg"/>
   </programme>
   <programme start="20240506040000 +0000" stop="20240506060000 +0000" channel="sportklub1.rs">
-    <title lang="sr">ATP Masters Madrid: FINALE</title>
+    <title lang="sr">ATP Masters Madrid: Finale: Auger-Aliassime - Rublev</title>
     <desc lang="sr">Pratite prenos uzbudljivih teniskih mečeva s turnira Madrid Open, poznatog i kao Mutua Madrid Open. Ovaj teniski turnir za žene i muškarce održava se svake godine u glavnom gradu Španije.</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/04/15/14/18/27/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
   </programme>
   <programme start="20240506060000 +0000" stop="20240506063000 +0000" channel="sportklub1.rs">
     <title lang="sr">Soccer Bet SK VESTI</title>
@@ -21914,24 +24009,37 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/09/21/04/37/05/stb_xl_f5144074e1873e43dfc743be76c0d2f4cd838da0_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
   </programme>
-  <programme start="20240507160000 +0000" stop="20240507172500 +0000" channel="sportklub1.rs">
-    <title lang="sr">SK dokumentarac: Dani divova 3</title>
-    <desc lang="sr">Film o trojici ultra trkača iz Srbije koji su odlučili da učestvuju u jednoj od najizazovnijih trka na svetu. O događajima koji su ih naveli da krenu da trče velike maratone govore ljudi iz njihovog...</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/04/22/10/23/10/stb_xl_4588cf79d9676b66a76cc567d08a9dffb0782768_69076b22232d318c70d77dedf4da18d6.jpg"/>
-  </programme>
-  <programme start="20240507172500 +0000" stop="20240507193000 +0000" channel="sportklub1.rs">
-    <title lang="sr">Fudbal - Turski kup: 1/2 Finale (2nd leg): Besiktas - Ankaragucu</title>
-    <desc lang="sr">Turski kup je fudbalsko takmičenje 156 najboljih profesionalnih i amaterskih turskih ekipa koje svake sezone kreću u lov na laskavu titulu osvajača kupa. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/10/25/12/35/51/stb_xl_48672f9bc8366dc8ac436daa3943e28d1e4eabde_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20240507193000 +0000" stop="20240507210000 +0000" channel="sportklub1.rs">
+  <programme start="20240507160000 +0000" stop="20240507173000 +0000" channel="sportklub1.rs">
     <title lang="sr">SK dokumentarac: Magična sedmica - Toni Kukoč</title>
     <desc lang="sr">Film o životu i karijeri košarkaške legende. Toni Kukoč karijeru je započeo u "Jugoplastici", a od 1993. do 2000. godine igrao je u "Čikago bulsima". Osvajač je tri "NBA prstena".</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2024/04/22/10/33/21/stb_xl_5f7563d655176519ca1bea6bc5d3670c9420b872_413897eff10bdfcea3c0eefa77a0f9ca.jpg"/>
+  </programme>
+  <programme start="20240507173000 +0000" stop="20240507181000 +0000" channel="sportklub1.rs">
+    <title lang="sr">Evroliga STUDIO</title>
+    <desc lang="sr">Ove sezone, Evroliga će biti neizvesnija i uzbudljivija nego ikad, a igraju i Zvezda i Partizan. Analiziramo svaki detalj svakog meča sa našim stručnjacima u studiju. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/08/16/00/32/38/stb_xl_12479cc015f44f67f6b748aa4d5212a03730da0a_6a68efdb4e02066bbe12c85c2411190d.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240507181000 +0000" stop="20240507201500 +0000" channel="sportklub1.rs">
+    <title lang="sr">Košarka - Euroleague: Playoffs (G5): Panathinaikos - Maccabi</title>
+    <desc lang="sr">Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/06/15/13/38/58/stb_xl_0bd6e6a0e0fc9685d8fa9028375b577faa5eccc6_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240507201500 +0000" stop="20240507203000 +0000" channel="sportklub1.rs">
+    <title lang="sr">Legende Evrolige &amp; Da li znate</title>
+    <desc lang="sr">Legende Evrolige &amp; Da li znate.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/03/22/17/18/46/stb_xl_cbebc676905acf21a4be75281df12678f002daae_60576d23e503901df7211f27d61696f8.jpg"/>
+  </programme>
+  <programme start="20240507203000 +0000" stop="20240507210000 +0000" channel="sportklub1.rs">
+    <title lang="sr">Put do vrha</title>
+    <desc lang="sr">Neverovatne priče o usponu tamnoputih sportista do samog vrha: Između ostalih, Lebron Džejms i Serena Vilijams...</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/01/23/09/02/08/stb_xl_123.jpg"/>
   </programme>
   <programme start="20240507210000 +0000" stop="20240507213000 +0000" channel="sportklub1.rs">
     <title lang="sr">Soccer Bet SK VESTI</title>
@@ -21941,10 +24049,10 @@
     <premiere/>
   </programme>
   <programme start="20240507213000 +0000" stop="20240507232000 +0000" channel="sportklub1.rs">
-    <title lang="sr">Košarka - Euroleague: Playoffs - najbolja utakmica (G4/G5)</title>
-    <desc lang="sr">Najjače klupsko takmičenje u košarci na području Evrope svake sezone privlači pažnju velikog broja zaljubljenika košarku. Kao takmičenje visokog kvaliteta verujemo da će privući vašu pažnju.</desc>
+    <title lang="sr">Fudbal - Turski kup: 1/2 Finale (2nd leg): Besiktas - Ankaragucu</title>
+    <desc lang="sr">Turski kup je fudbalsko takmičenje 156 najboljih profesionalnih i amaterskih turskih ekipa koje svake sezone kreću u lov na laskavu titulu osvajača kupa.</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/06/15/13/38/58/stb_xl_0bd6e6a0e0fc9685d8fa9028375b577faa5eccc6_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/10/25/12/35/51/stb_xl_48672f9bc8366dc8ac436daa3943e28d1e4eabde_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
   </programme>
   <programme start="20240507232000 +0000" stop="20240508010500 +0000" channel="sportklub1.rs">
     <title lang="sr">Fudbal - Bundesliga: Eintracht - Leverkusen</title>
@@ -22155,36 +24263,29 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2022/12/05/15/06/47/stb_xl_508618152de2b35c3a9015236182021b1fc014c2_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
   </programme>
-  <programme start="20240507183000 +0000" stop="20240507201500 +0000" channel="sportklub2.rs">
-    <title lang="sr">ATP Masters Madrid: Finale</title>
+  <programme start="20240507183000 +0000" stop="20240507202000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Madrid: Finale: Auger-Aliassime - Rublev</title>
     <desc lang="sr">Pratite prenos uzbudljivih teniskih mečeva s turnira Madrid Open, poznatog i kao Mutua Madrid Open. Ovaj teniski turnir za žene i muškarce održava se svake godine u glavnom gradu Španije.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
   </programme>
-  <programme start="20240507201500 +0000" stop="20240507212500 +0000" channel="sportklub2.rs">
+  <programme start="20240507202000 +0000" stop="20240507213000 +0000" channel="sportklub2.rs">
     <title lang="sr">Pregled turske lige</title>
     <desc lang="sr">Bešiktaš može da se hvali šampionskom titulom, ali Trabzon, Galatasaraj i Fenerbahče su se ozbiljno pojačali i svi misle da mogu do trofeja. Čini se da će biti napeto do poslednjeg kola.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/09/21/04/37/05/stb_xl_f5144074e1873e43dfc743be76c0d2f4cd838da0_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
   </programme>
-  <programme start="20240507212500 +0000" stop="20240507231500 +0000" channel="sportklub2.rs">
-    <title lang="sr">Fudbal - Turski kup: 1/2 finale (2nd leg): Besiktas - Ankaragucu</title>
-    <desc lang="sr">Turski kup je fudbalsko takmičenje 156 najboljih profesionalnih i amaterskih turskih ekipa koje svake sezone kreću u lov na laskavu titulu osvajača kupa.</desc>
+  <programme start="20240507213000 +0000" stop="20240507231500 +0000" channel="sportklub2.rs">
+    <title lang="sr">Fudbal - Bundesliga 2: Osnabruck - Schalke</title>
+    <desc lang="sr">Popularna "Cvajta" čini se, nikada nije bila jača. Ko će se od velikana vratiti u prvu ligu? Mesta je malo a kandidata mnogo.</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/10/25/12/35/51/stb_xl_48672f9bc8366dc8ac436daa3943e28d1e4eabde_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/02/10/51/39/stb_xl_f19de03e07bb2e8b5675f46a7d37dfd6c2af026c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
   </programme>
   <programme start="20240507231500 +0000" stop="20240508005000 +0000" channel="sportklub2.rs">
     <title lang="sr">Košarka - Slovenačka liga (M): Playoff - 1/4 Finale (G2): Cedevita Olimpija - Šentjur</title>
     <desc lang="sr">Olimpija je favorit u Sloveniji, ali plasmani njihove reprezentacije pokazuju da imaju veoma široku bazu igrača. Možda budemo svedoci nekog iznenađenja?</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/04/05/16/30/56/stb_xl_d981f64fae99101d92d63726c0c40c569156ae23_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-  </programme>
-  <programme start="20240505105500 +0000" stop="20240505125500 +0000" channel="sportklub3.rs">
-    <title lang="sr">Fudbal (Ž) EP U17: England - Norway</title>
-    <desc lang="sr">UEFA Evropsko prvenstvo U17 u ženskoj konkurenciji u svom 14. izdanju igra se u Estoniji, zemlji domaćinu turnira, od 14. do 26. maja 2023. godine. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/05/09/16/51/59/stb_xl_f3451c98ce6975b577505574dd7fc3d66815e9eb_7c49f0432d82674b4edeaad39505e4b7.jpg"/>
-    <premiere/>
   </programme>
   <programme start="20240505125500 +0000" stop="20240505150000 +0000" channel="sportklub3.rs">
     <title lang="sr">Fudbal - Serie B: Parma - Cremonese</title>
@@ -22406,30 +24507,36 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/01/16/12/47/04/stb_xl_97ba233ecebd65871ccac61c375aef06f973a228_60576d23e503901df7211f27d61696f8.jpg"/>
   </programme>
-  <programme start="20240507143500 +0000" stop="20240507162000 +0000" channel="sportklub3.rs">
+  <programme start="20240507143500 +0000" stop="20240507162500 +0000" channel="sportklub3.rs">
     <title lang="sr">Chelsea TV: Chelsea - West Ham (PL)</title>
     <desc lang="sr">Čelzi TV vas vodi kroz sve zanimljivosti sa Stamford Bridža, uživajte u svim utakmicama ovog engleskog velikana bogate prošlosti.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/04/27/12/18/42/stb_xl_d56000d129b2d63bed685609ef401e210b82e9cd_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
   </programme>
-  <programme start="20240507162000 +0000" stop="20240507171500 +0000" channel="sportklub3.rs">
+  <programme start="20240507162500 +0000" stop="20240507171500 +0000" channel="sportklub3.rs">
     <title lang="sr">Pregled Bundeslige</title>
     <desc lang="sr">Uz sve ono što nam je Nemačka podarila kroz istoriju ponosno stoji i Bundesliga. Najviši rang fudbalskog takmičenja osnovanog 1963. godine broji 18 ekipa koje svakog avgusta kreću u trku za popularnim...</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/09/05/11/30/43/stb_xl_bundesliga_2023_2024_studio_2880x1620.jpg"/>
   </programme>
-  <programme start="20240507171500 +0000" stop="20240507182500 +0000" channel="sportklub3.rs">
+  <programme start="20240507171500 +0000" stop="20240507172500 +0000" channel="sportklub3.rs">
     <title lang="sr">Pregled turske lige</title>
     <desc lang="sr">Bešiktaš može da se hvali šampionskom titulom, ali Trabzon, Galatasaraj i Fenerbahče su se ozbiljno pojačali i svi misle da mogu do trofeja. Čini se da će biti napeto do poslednjeg kola.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/09/21/04/37/05/stb_xl_f5144074e1873e43dfc743be76c0d2f4cd838da0_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
   </programme>
-  <programme start="20240507182500 +0000" stop="20240507203000 +0000" channel="sportklub3.rs">
-    <title lang="sr">Košarka - Slovenačka liga (M): Playoff - 1/4 Finale (G2): Cedevita Olimpija - Šentjur</title>
-    <desc lang="sr">Olimpija je favorit u Sloveniji, ali plasmani njihove reprezentacije pokazuju da imaju veoma široku bazu igrača. Možda budemo svedoci nekog iznenađenja? (LIVE).</desc>
+  <programme start="20240507172500 +0000" stop="20240507192500 +0000" channel="sportklub3.rs">
+    <title lang="sr">Fudbal - Turski kup: 1/2 finale (2nd leg): Besiktas - Ankaragucu</title>
+    <desc lang="sr">Turski kup je fudbalsko takmičenje 156 najboljih profesionalnih i amaterskih turskih ekipa koje svake sezone kreću u lov na laskavu titulu osvajača kupa. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/04/05/16/30/56/stb_xl_d981f64fae99101d92d63726c0c40c569156ae23_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/10/25/12/35/51/stb_xl_48672f9bc8366dc8ac436daa3943e28d1e4eabde_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
     <premiere/>
+  </programme>
+  <programme start="20240507192500 +0000" stop="20240507203000 +0000" channel="sportklub3.rs">
+    <title lang="sr">Pregled turske lige</title>
+    <desc lang="sr">Bešiktaš može da se hvali šampionskom titulom, ali Trabzon, Galatasaraj i Fenerbahče su se ozbiljno pojačali i svi misle da mogu do trofeja. Čini se da će biti napeto do poslednjeg kola.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/09/21/04/37/05/stb_xl_f5144074e1873e43dfc743be76c0d2f4cd838da0_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
   </programme>
   <programme start="20240507203000 +0000" stop="20240507204500 +0000" channel="sportklub3.rs">
     <title lang="sr">Pregled španske košarke</title>
@@ -22444,23 +24551,10 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/2022/05/09/16/51/59/stb_xl_f3451c98ce6975b577505574dd7fc3d66815e9eb_7c49f0432d82674b4edeaad39505e4b7.jpg"/>
   </programme>
   <programme start="20240507222500 +0000" stop="20240508002000 +0000" channel="sportklub3.rs">
-    <title lang="sr">LoL: EMEA Masters</title>
+    <title lang="sr">E-Sports: League of Legends - EMEA Masters</title>
     <desc lang="sr">EU Masters je vrhunski, evropski, poluprofesionalni turnir na kom učestvuju najbolji e-sport timovi iz svake zemlje.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/08/24/10/36/13/stb_xl_e1613a5bcd7e7643eec1b2d5cd25c37d9e63f415_7a58e1b9f834c1946cc0040ea1837348.jpg"/>
-  </programme>
-  <programme start="20240505103000 +0000" stop="20240505123000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Košarka - Španska liga: Zaragoza - Manresa</title>
-    <desc lang="sr">Španska košarkaška ACB liga osnovana je 1957. godine kao "Liga National". U ligi sudeluje 18 ekipa prema dvokružnom sistemu takmičenja. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/09/25/14/48/31/stb_xl_c7747a41643a8dc2b3b048a2435f12d890be8755_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-    <premiere/>
-  </programme>
-  <programme start="20240505123000 +0000" stop="20240505130000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Rivalitet legendi</title>
-    <desc lang="sr">Vukli su jedni druge napred, uvek je neki rivalitet izdizao sport na lestvicu više. Najbolji sportisti svih vremena, iz svih sportova.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/10/25/11/11/34/stb_xl_national_icons_2880x1620.jpg"/>
   </programme>
   <programme start="20240505130000 +0000" stop="20240505150000 +0000" channel="sportklub4.rs">
     <title lang="sr">Fudbal - Serie B: Sampdoria - Reggiana</title>
@@ -22664,30 +24758,25 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/09/22/16/46/25/stb_xl_14d56b95fbc959b0a73551f267092f0141ed0ecd_464d0e3a58b0f310dac94f828792c602.jpg"/>
   </programme>
-  <programme start="20240507150000 +0000" stop="20240507163000 +0000" channel="sportklub4.rs">
+  <programme start="20240507150000 +0000" stop="20240507162500 +0000" channel="sportklub4.rs">
     <title lang="sr">Rukomet - Nemačka liga: RN Lowen - Hannover</title>
     <desc lang="sr">Rukometna Bundesliga je najviši rang takmičenja u Nemačkoj. Kvalitetom igre smatra se jednim od najkvalitetnijih rukometnih liga na svetu.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/21/10/30/34/stb_xl_daafa397260b7414ce3806a4f8f5200c9c84d733_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
   </programme>
-  <programme start="20240507163000 +0000" stop="20240507183000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Košarka - Slovenačka liga (M): Playoff - 1/4 Finale (G2): LTH Castings - Krka</title>
+  <programme start="20240507162500 +0000" stop="20240507182500 +0000" channel="sportklub4.rs">
+    <title lang="sr">Fudbal - Bundesliga 2: Osnabruck - Schalke</title>
+    <desc lang="sr">Popularna "Cvajta" čini se, nikada nije bila jača. Ko će se od velikana vratiti u prvu ligu? Mesta je malo a kandidata mnogo. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/02/10/51/39/stb_xl_f19de03e07bb2e8b5675f46a7d37dfd6c2af026c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240507182500 +0000" stop="20240507202000 +0000" channel="sportklub4.rs">
+    <title lang="sr">Košarka - Slovenačka liga (M): Playoff - 1/4 Finale (G2): Cedevita Olimpija - Šentjur</title>
     <desc lang="sr">Olimpija je favorit u Sloveniji, ali plasmani njihove reprezentacije pokazuju da imaju veoma široku bazu igrača. Možda budemo svedoci nekog iznenađenja? (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/04/05/16/30/56/stb_xl_d981f64fae99101d92d63726c0c40c569156ae23_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
     <premiere/>
-  </programme>
-  <programme start="20240507183000 +0000" stop="20240507192500 +0000" channel="sportklub4.rs">
-    <title lang="sr">Pregled Bundeslige</title>
-    <desc lang="sr">Uz sve ono što nam je Nemačka podarila kroz istoriju ponosno stoji i Bundesliga. Najviši rang fudbalskog takmičenja osnovanog 1963. godine broji 18 ekipa koje svakog avgusta kreću u trku za popularnim...</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/09/05/11/30/43/stb_xl_bundesliga_2023_2024_studio_2880x1620.jpg"/>
-  </programme>
-  <programme start="20240507192500 +0000" stop="20240507202000 +0000" channel="sportklub4.rs">
-    <title lang="sr">Pregled holandske lige</title>
-    <desc lang="sr">Očekuje se trka Ajaksa i PSV-a za titulu. Može li Fejenord da im se priključi ili će AZ Alkmar napasti iz senke?</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/08/12/10/38/31/stb_xl_d27ab7f2cb1f03b7333d6a6087b9167aac9abc8b_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
   </programme>
   <programme start="20240507202000 +0000" stop="20240507204500 +0000" channel="sportklub4.rs">
     <title lang="sr">Omaž zvezdama</title>
@@ -22706,13 +24795,6 @@
     <desc lang="sr">Pratite "Kup Azije" za timove mlađe od 17 godina. Takmičenje za ženske nacionalne timove Azije osnovano je 2002. godine.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2024/05/03/18/33/19/stb_xl_251ea12f8a32e1b9840d70a95ee887f12d14e08a.jpg"/>
-  </programme>
-  <programme start="20240505113000 +0000" stop="20240505133000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Fudbal - Bundesliga 2: Hannover - Paderborn</title>
-    <desc lang="sr">Popularna "Cvajta" čini se, nikada nije bila jača. Ko će se od velikana vratiti u prvu ligu? Mesta je malo a kandidata mnogo. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/02/10/51/39/stb_xl_f19de03e07bb2e8b5675f46a7d37dfd6c2af026c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-    <premiere/>
   </programme>
   <programme start="20240505133000 +0000" stop="20240505153000 +0000" channel="sportklub5.rs">
     <title lang="sr">WTA 1000 Madrid: (dublovi) Finale: Krejcikova/Siegemund - Bucsa/Tormo</title>
@@ -22867,19 +24949,20 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/28/stb_xl_1302248bb306efbba31a696f54044b628ec22a53.jpg"/>
   </programme>
-  <programme start="20240506170000 +0000" stop="20240506180000 +0000" channel="sportklub5.rs">
+  <programme start="20240506170000 +0000" stop="20240506171500 +0000" channel="sportklub5.rs">
     <title lang="sr">Sport Klub 5 Promo 4</title>
     <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/25/stb_xl_331b3a6f7a47a0dacfb0f8118ee4a710451d6561.jpg"/>
   </programme>
-  <programme start="20240506180000 +0000" stop="20240506190000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 5 Promo 1</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+  <programme start="20240506171500 +0000" stop="20240506191500 +0000" channel="sportklub5.rs">
+    <title lang="sr">Košarka - Izraelska liga: Kiryat Ata - Hapoel Jerusalem</title>
+    <desc lang="sr">Superliga Izraela u košarci je najviši rang košarkaških takmičenja u Izraelu. Liga je osnovana 1954. godine i trenutno broji 12 klubova. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/30/stb_xl_159533a6c3c3c1b39d1d8f69881f2f255f318703.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/09/19/13/01/16/stb_xl_29ca1f097ce56bde4c69f0823c6f302a68773468_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <premiere/>
   </programme>
-  <programme start="20240506190000 +0000" stop="20240506200000 +0000" channel="sportklub5.rs">
+  <programme start="20240506191500 +0000" stop="20240506200000 +0000" channel="sportklub5.rs">
     <title lang="sr">Sport Klub 5 Promo 2</title>
     <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
     <category lang="sr">Sports</category>
@@ -23005,19 +25088,20 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/22/stb_xl_52221dbdd54aac1b5b931a4e69f8a7e83f8e9e6f.jpg"/>
   </programme>
-  <programme start="20240507160000 +0000" stop="20240507170000 +0000" channel="sportklub5.rs">
+  <programme start="20240507160000 +0000" stop="20240507163000 +0000" channel="sportklub5.rs">
     <title lang="sr">Sport Klub 5 Promo 3</title>
     <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/28/stb_xl_1302248bb306efbba31a696f54044b628ec22a53.jpg"/>
   </programme>
-  <programme start="20240507170000 +0000" stop="20240507180000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 5 Promo 4</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+  <programme start="20240507163000 +0000" stop="20240507183000 +0000" channel="sportklub5.rs">
+    <title lang="sr">Košarka - Slovenačka liga (M): Playoff - 1/4 Finale (G2): LTH Castings - Krka</title>
+    <desc lang="sr">Olimpija je favorit u Sloveniji, ali plasmani njihove reprezentacije pokazuju da imaju veoma široku bazu igrača. Možda budemo svedoci nekog iznenađenja? (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/25/stb_xl_331b3a6f7a47a0dacfb0f8118ee4a710451d6561.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/04/05/16/30/56/stb_xl_d981f64fae99101d92d63726c0c40c569156ae23_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <premiere/>
   </programme>
-  <programme start="20240507180000 +0000" stop="20240507190000 +0000" channel="sportklub5.rs">
+  <programme start="20240507183000 +0000" stop="20240507190000 +0000" channel="sportklub5.rs">
     <title lang="sr">Sport Klub 5 Promo 1</title>
     <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
     <category lang="sr">Sports</category>
@@ -23052,13 +25136,6 @@
     <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/22/stb_xl_52221dbdd54aac1b5b931a4e69f8a7e83f8e9e6f.jpg"/>
-  </programme>
-  <programme start="20240505113000 +0000" stop="20240505133000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Fudbal - Bundesliga 2: Elversberg - Hertha</title>
-    <desc lang="sr">Popularna "Cvajta" čini se, nikada nije bila jača. Ko će se od velikana vratiti u prvu ligu? Mesta je malo a kandidata mnogo. (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/02/10/51/39/stb_xl_f19de03e07bb2e8b5675f46a7d37dfd6c2af026c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
-    <premiere/>
   </programme>
   <programme start="20240505133000 +0000" stop="20240505153000 +0000" channel="sportklub6.rs">
     <title lang="sr">Fudbal (Ž) EP U17: Sweden - France</title>
