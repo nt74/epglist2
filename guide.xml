@@ -18055,11 +18055,32 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/2022/08/12/10/38/29/stb_xl_dbd2f88555a5a0ab53775792617f1198062a87ee_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20240511090000 +0000" stop="20240511213000 +0000" channel="sportklub1.rs">
-    <title lang="sr">ATP Masters &amp; WTA 1000 Rome</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+  <programme start="20240511140000 +0000" stop="20240511163000 +0000" channel="sportklub1.rs">
+    <title lang="sr">ATP Masters Rome: Baez - Lajović</title>
+    <desc lang="sr">Ne propustite odlične mečeve i najbolje trenutke s Italian Opena, prestižnog teniskog turnira koji se svake godine održava u Rimu. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/02/23/13/48/34/stb_xl_e18ba6ec76eda0a649f152874c20296a46428862_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240511163000 +0000" stop="20240511181500 +0000" channel="sportklub1.rs">
+    <title lang="sr">ATP Masters Rome: Tsitsipas - Struff</title>
+    <desc lang="sr">Ne propustite odlične mečeve i najbolje trenutke s Italian Opena, prestižnog teniskog turnira koji se svake godine održava u Rimu. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240511181500 +0000" stop="20240511190000 +0000" channel="sportklub1.rs">
+    <title lang="sr">WTA 1000 Rome: Gauff - Cristian (UKLJUČENJE)</title>
+    <desc lang="sr">Na teniskim terenima večnoga grada teniserke će se nadmetati na turniru WTA 1000 i testirati svoju spremnost neposredno pre Roland Garosa. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/04/15/11/16/32/stb_xl_2e6932afcfd807511b3662d73086ca44b91fac2f_8afab60e6994aaed322d7dcbf10f2c7e.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240511190000 +0000" stop="20240511213000 +0000" channel="sportklub1.rs">
+    <title lang="sr">ATP Masters Rome: Nardi - Rune</title>
+    <desc lang="sr">Ne propustite odlične mečeve i najbolje trenutke s Italian Opena, prestižnog teniskog turnira koji se svake godine održava u Rimu. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
     <premiere/>
   </programme>
   <programme start="20240511213000 +0000" stop="20240511220000 +0000" channel="sportklub1.rs">
@@ -18105,11 +18126,17 @@
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2022/07/20/10/14/58/stb_xl_soccer_sk_vesti_2600x1463.jpg"/>
   </programme>
-  <programme start="20240512062500 +0000" stop="20240512083000 +0000" channel="sportklub1.rs">
-    <title lang="sr">ATP Masters &amp; WTA 1000 Rome</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa!</desc>
+  <programme start="20240512062500 +0000" stop="20240512072000 +0000" channel="sportklub1.rs">
+    <title lang="sr">ATP Masters Rome: Hurkacz - Nadal</title>
+    <desc lang="sr">Ne propustite odlične mečeve i najbolje trenutke s Italian Opena, prestižnog teniskog turnira koji se svake godine održava u Rimu.</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/08/19/16/34/32/stb_xl_9a21f46a55b5d0fd2430091fdcf902c0b95e5634_6a68efdb4e02066bbe12c85c2411190d.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240512072000 +0000" stop="20240512083000 +0000" channel="sportklub1.rs">
+    <title lang="sr">ATP Masters Rome: Baez - Lajović</title>
+    <desc lang="sr">Ne propustite odlične mečeve i najbolje trenutke s Italian Opena, prestižnog teniskog turnira koji se svake godine održava u Rimu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
   </programme>
   <programme start="20240512083000 +0000" stop="20240512090000 +0000" channel="sportklub1.rs">
     <title lang="sr">SK STUDIO</title>
@@ -18257,11 +18284,23 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/2022/04/13/09/30/27/stb_xl_9fa54b2a9f6873c912d226a04b52b5749aacc788_fd51f68dab35bb356d0cbb7e6b2aa499.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20240511223000 +0000" stop="20240512022000 +0000" channel="sportklub2.rs">
-    <title lang="sr">ATP Masters &amp; WTA 1000 Rome</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa!</desc>
+  <programme start="20240511223000 +0000" stop="20240511235000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Rome: Davidovich-Fokina - Medjedović</title>
+    <desc lang="sr">Ne propustite odlične mečeve i najbolje trenutke s Italian Opena, prestižnog teniskog turnira koji se svake godine održava u Rimu.</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/08/19/16/34/32/stb_xl_9a21f46a55b5d0fd2430091fdcf902c0b95e5634_6a68efdb4e02066bbe12c85c2411190d.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240511235000 +0000" stop="20240512010500 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Rome: Tsitsipas - Struff</title>
+    <desc lang="sr">Ne propustite odlične mečeve i najbolje trenutke s Italian Opena, prestižnog teniskog turnira koji se svake godine održava u Rimu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+  </programme>
+  <programme start="20240512010500 +0000" stop="20240512022000 +0000" channel="sportklub2.rs">
+    <title lang="sr">ATP Masters Rome: Paul - Karatsev</title>
+    <desc lang="sr">Ne propustite odlične mečeve i najbolje trenutke s Italian Opena, prestižnog teniskog turnira koji se svake godine održava u Rimu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
   </programme>
   <programme start="20240512022000 +0000" stop="20240512042500 +0000" channel="sportklub2.rs">
     <title lang="sr">Košarka - Nemačka liga: Alba - Bayern</title>
@@ -18786,11 +18825,25 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/2022/09/09/13/40/24/stb_xl_f3e3d3b9ae75151635671a3b422d1ccf60fb1351_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20240511150000 +0000" stop="20240511190000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Tenis: WTA 1000 &amp; ATP Masters Rome (UKLJUČENJE)</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
+  <programme start="20240511150000 +0000" stop="20240511153000 +0000" channel="sportklub5.rs">
+    <title lang="sr">ATP Masters Rome: Gonzalez/Vasselin - Lammons/Withrow (UKLJUČENJE) (dublovi)</title>
+    <desc lang="sr">Ne propustite odlične mečeve i najbolje trenutke s Italian Opena, prestižnog teniskog turnira koji se svake godine održava u Rimu. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/02/23/13/48/34/stb_xl_e18ba6ec76eda0a649f152874c20296a46428862_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240511153000 +0000" stop="20240511170000 +0000" channel="sportklub5.rs">
+    <title lang="sr">ATP Masters Rome: Arevalo/Pavić - Doumbia/Reboul (dublovi)</title>
+    <desc lang="sr">Ne propustite odlične mečeve i najbolje trenutke s Italian Opena, prestižnog teniskog turnira koji se svake godine održava u Rimu. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240511170000 +0000" stop="20240511190000 +0000" channel="sportklub5.rs">
+    <title lang="sr">ATP Masters Rome: Giron - Rublev (UKLJUČENJE)</title>
+    <desc lang="sr">Ne propustite odlične mečeve i najbolje trenutke s Italian Opena, prestižnog teniskog turnira koji se svake godine održava u Rimu. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2022/06/12/20/48/04/stb_xl_c7f7378b07808fa82ca0f2695fec57ebd504193c_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
     <premiere/>
   </programme>
   <programme start="20240511190000 +0000" stop="20240511200000 +0000" channel="sportklub5.rs">
@@ -18939,43 +18992,19 @@
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/02/23/13/48/34/stb_xl_e18ba6ec76eda0a649f152874c20296a46428862_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20240511110000 +0000" stop="20240511130000 +0000" channel="sportklub6.rs">
+  <programme start="20240511110000 +0000" stop="20240511153000 +0000" channel="sportklub6.rs">
     <title lang="sr">Bilijar - UK Open Pool: 1/4 Finale</title>
     <desc lang="sr">UK Open Championship održava se od 17.-22. maja 2022. godine u Londonu. 256 igrača bore se za nagradni fond od 200.000 dolara. (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2024/05/07/14/17/06/stb_xl_5a7398e50fd28d1fc936f3f68b632af54a716261_340fc454bc73019d052cf936ebee5da3.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20240511130000 +0000" stop="20240511140000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Sport Klub 6 Promo 4</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+  <programme start="20240511153000 +0000" stop="20240511173000 +0000" channel="sportklub6.rs">
+    <title lang="sr">WTA 1000 Rome: Aoyama/Krunić - Siniakova/Townsend (dublovi)</title>
+    <desc lang="sr">Na teniskim terenima večnoga grada teniserke će se nadmetati na turniru WTA 1000 i testirati svoju spremnost neposredno pre Roland Garosa. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/46/stb_xl_69218669d330066f5ddd0848183b868fcf8f163c.jpg"/>
-  </programme>
-  <programme start="20240511140000 +0000" stop="20240511150000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Sport Klub 6 Promo 1</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/48/stb_xl_0bb27540b210ed55abf0edda825a14aa6077dd08.jpg"/>
-  </programme>
-  <programme start="20240511150000 +0000" stop="20240511153000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Sport Klub 6 Promo 2</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/45/stb_xl_a8f31983d2ec652dd1834fec4b6831ca0e9631e1.jpg"/>
-  </programme>
-  <programme start="20240511153000 +0000" stop="20240511170000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Tenis: WTA 1000 &amp; ATP Masters Rome (UKLJUČENJE)</title>
-    <desc lang="sr">Kombinovani prenosi i snimci mečeva u WTA i ATP konkurenciji. Uživajte uz mečeve muškog i ženskog profesionalnog tenisa! (LIVE).</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2023/02/23/13/48/34/stb_xl_e18ba6ec76eda0a649f152874c20296a46428862_23a6f03c2a2032014f5f1d9230576b0d.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/04/15/11/16/32/stb_xl_2e6932afcfd807511b3662d73086ca44b91fac2f_8afab60e6994aaed322d7dcbf10f2c7e.jpg"/>
     <premiere/>
-  </programme>
-  <programme start="20240511170000 +0000" stop="20240511173000 +0000" channel="sportklub6.rs">
-    <title lang="sr">Sport Klub 6 Promo 4</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
-    <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/46/stb_xl_69218669d330066f5ddd0848183b868fcf8f163c.jpg"/>
   </programme>
   <programme start="20240511173000 +0000" stop="20240511220000 +0000" channel="sportklub6.rs">
     <title lang="sr">Bilijar - UK Open Pool: 1/4 Finale</title>
