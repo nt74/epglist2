@@ -18678,14 +18678,42 @@
     <category lang="en">Baseball</category>
     <icon src="https://adma.tmsimg.com/assets/assets/p26156769_tb2_h9_ai.jpg?w=360&amp;h=270"/>
   </programme>
-  <programme start="20240519210000 +0000" stop="20240519230000 +0000" channel="ballysportswisconsin.us">
-    <title lang="en">Live: Professional Women's Hockey League</title>
-    <sub-title lang="en">Walter Cup Final: Minnesota at Boston</sub-title>
-    <desc lang="en">Game 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Playoff sports</category>
-    <category lang="en">Hockey</category>
-    <icon src="https://adma.tmsimg.com/assets/assets/p27268511_tb2_h9_aa.jpg?w=360&amp;h=270"/>
+  <programme start="20240519210000 +0000" stop="20240519213000 +0000" channel="ballysportswisconsin.us">
+    <title lang="en">Live: Brewers Live Postgame</title>
+    <desc lang="en">Review of the Milwaukee Brewers game.</desc>
+    <date>2018</date>
+    <category lang="en">Show</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://adma.tmsimg.com/assets/assets/p15179320_b_h9_ad.jpg?w=360&amp;h=270"/>
+  </programme>
+  <programme start="20240519213000 +0000" stop="20240519220000 +0000" channel="ballysportswisconsin.us">
+    <title lang="en">Offroad Odyssey</title>
+    <sub-title lang="en">Fall Colors</sub-title>
+    <desc lang="en">Alexa catches peak fall foliage in northern Maine and then crosses the border into Quebec for two unforgettable fall color rides.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Outdoors</category>
+    <icon src="https://adma.tmsimg.com/assets/assets/p26814456_b_h9_ab.jpg?w=360&amp;h=270"/>
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20240519220000 +0000" stop="20240519223000 +0000" channel="ballysportswisconsin.us">
+    <title lang="en">Golf Life</title>
+    <desc lang="en">Featuring the latest trends, tours of the finest courses and tips from golf experts.</desc>
+    <date>2012</date>
+    <category lang="en">Show</category>
+    <icon src="https://adma.tmsimg.com/assets/assets/p9195751_b_h9_aa.jpg?w=360&amp;h=270"/>
+  </programme>
+  <programme start="20240519223000 +0000" stop="20240519230000 +0000" channel="ballysportswisconsin.us">
+    <title lang="en">Breaking Par</title>
+    <desc lang="en">A look at the game of golf through a different lens.</desc>
+    <credits>
+      <actor>Ryan Johnson</actor>
+      <actor>Felix Stone</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Show</category>
+    <category lang="en">Golf</category>
+    <icon src="https://adma.tmsimg.com/assets/assets/p13467779_b_h9_aa.jpg?w=360&amp;h=270"/>
   </programme>
   <programme start="20240519230000 +0000" stop="20240520020000 +0000" channel="ballysportswisconsin.us">
     <title lang="en">Lights Out Xtreme Fighting</title>
