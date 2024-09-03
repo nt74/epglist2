@@ -12044,7 +12044,7 @@
     <country lang="sv">IT</country>
   </programme>
   <programme start="20240904133000 +0000" stop="20240904160000 +0000" channel="tv4fotboll.se">
-    <title lang="sv">Fotboll: Segunda División</title>
+    <title lang="sv">Segunda division: Eibar - Levante</title>
     <desc lang="sv">(R) Fotboll från 2024/25.</desc>
     <date>2024</date>
     <category lang="sv">Sport</category>
@@ -22089,16 +22089,6 @@
     <desc lang="el">Μάλαγα. Ημιτελικός Ανδρών. Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/130.png"/>
   </programme>
-  <programme start="20240903010000 +0300" stop="20240903040000 +0300" channel="cosmotesport7.gr">
-    <title lang="el">NBA TV 2023-24</title>
-    <desc lang="el">Απολαύστε ακόμη περισσότερη δράση από τον 'μαγικό' κόσμο του ΝΒΑ και παρακολουθήστε καθημερινά σε ζωντανή αναμετάδοση το NBA TV, το επίσημο κανάλι της κορυφαίας διοργάνωσης μπάσκετ του πλανήτη.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/131.png"/>
-  </programme>
-  <programme start="20240903010000 +0300" stop="20240903040000 +0300" channel="cosmotesport7.gr">
-    <title lang="el">NBA TV 2023-24</title>
-    <desc lang="el">Απολαύστε ακόμη περισσότερη δράση από τον 'μαγικό' κόσμο του ΝΒΑ και παρακολουθήστε καθημερινά σε ζωντανή αναμετάδοση το NBA TV, το επίσημο κανάλι της κορυφαίας διοργάνωσης μπάσκετ του πλανήτη.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/131.png"/>
-  </programme>
   <programme start="20240903000000 +0300" stop="20240903020000 +0300" channel="novasports1.gr">
     <title lang="el">Αλαβές - Λας Πάλμας : Ισπανικό Πρωτάθλημα Ποδοσφαίρου</title>
     <desc lang="el">Ισπανικό Πρωτάθλημα Ποδοσφαίρου.</desc>
@@ -22524,12 +22514,7 @@
     <desc lang="el">Μαγκαζίνo Τένις.</desc>
     <icon src="https://www.ishow.gr/files/images/2024/2/8ec4adbb-6d9a-4490-90e9-e71ae99faf9c.jpg"/>
   </programme>
-  <programme start="20240904151500 +0300" stop="20240904182000 +0300" channel="novasports6.gr">
-    <title lang="el">Κροατία - Βέλγιο : Τένις: Davis Cup 2024, Προκριματικά</title>
-    <desc lang="el">Τένις: Davis Cup 2024, Προκριματικά. Το Davis Cup είναι η σπουδαιότερη διοργάνωση τένις σε επίπεδο εθνικών ομάδων.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/41.png"/>
-  </programme>
-  <programme start="20240904182000 +0300" stop="20240904200000 +0300" channel="novasports6.gr">
+  <programme start="20240904151500 +0300" stop="20240904200000 +0300" channel="novasports6.gr">
     <title lang="el">Κροατία - Βέλγιο : Τένις: Davis Cup 2024, Προκριματικά</title>
     <desc lang="el">Τένις: Davis Cup 2024, Προκριματικά. Το Davis Cup είναι η σπουδαιότερη διοργάνωση τένις σε επίπεδο εθνικών ομάδων.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/41.png"/>
