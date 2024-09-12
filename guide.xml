@@ -28098,7 +28098,7 @@ Tip: Γυρίσματα της ταινίας έγιναν και στην Ελ�
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/03/31/12/03/11/stb_xl_2eccdb381dc07e4a3aea63b5bf9e150ffa2747b0_77e851d134c329c0a6edc31ae28c13a6.jpg"/>
   </programme>
   <programme start="20240913041500 +0000" stop="20240913060000 +0000" channel="sportklub1.rs">
-    <title lang="sr">Tenis - Davis Cup: najbolji meč</title>
+    <title lang="sr">Tenis Davis Cup (Bologna): Italy - Brazil</title>
     <desc lang="sr">Dejvis Kup je elitno ekipno takmičenje za tenisere. Svake godine 16 najboljih reprezentacija sveta kreće u trku za osvajanje popularne Salatare.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2022/11/18/00/08/35/stb_xl_ef32142f6f1658420e988f2e6c9f0ddbb9c2c64d_964519b42aca500e27626e7518e593fc.jpg"/>
@@ -28233,13 +28233,13 @@ Tip: Γυρίσματα της ταινίας έγιναν και στην Ελ�
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/05/26/15/32/56/stb_xl_8941d7c11812efa5a8bbf181b52e1008bd0dd263.jpg"/>
   </programme>
   <programme start="20240912090000 +0000" stop="20240912130000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis - Davis Cup: Czechia - Spain</title>
+    <title lang="sr">Tenis - Davis Cup (Valencia): Czechia - Spain</title>
     <desc lang="sr">Dejvis Kup je elitno ekipno takmičenje za tenisere. Svake godine 16 najboljih reprezentacija sveta kreće u trku za osvajanje popularne Salatare.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2022/11/18/00/08/35/stb_xl_ef32142f6f1658420e988f2e6c9f0ddbb9c2c64d_964519b42aca500e27626e7518e593fc.jpg"/>
   </programme>
   <programme start="20240912130000 +0000" stop="20240912183000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis - Davis Cup: Holland - Brazil</title>
+    <title lang="sr">Tenis - Davis Cup (Bologna): Holland - Brazil</title>
     <desc lang="sr">Dejvis Kup je elitno ekipno takmičenje za tenisere. Svake godine 16 najboljih reprezentacija sveta kreće u trku za osvajanje popularne Salatare. (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2022/11/18/00/08/35/stb_xl_ef32142f6f1658420e988f2e6c9f0ddbb9c2c64d_964519b42aca500e27626e7518e593fc.jpg"/>
@@ -28251,11 +28251,18 @@ Tip: Γυρίσματα της ταινίας έγιναν και στην Ελ�
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/05/25/15/07/06/stb_xl_fastzone_2880x1620_sk.jpg"/>
   </programme>
-  <programme start="20240912190000 +0000" stop="20240912223000 +0000" channel="sportklub2.rs">
-    <title lang="sr">WTA 500 Guadalajara</title>
+  <programme start="20240912190000 +0000" stop="20240912204500 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 500 Guadalajara: Stefanini - Bouzkova</title>
     <desc lang="sr">Bliži se kraj WTA sezone. Prošle sezone, ovde je bilo veliko finale, sada poslednja šansa da se sakupe bodovi za završni turnir u Teksasu. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/04/15/11/16/32/stb_xl_78e2b5c4bfe16d452d2f02d463333eab238ff5d2_6ef5783be691e3d24ea7b27a71e0662e.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/04/15/11/16/32/stb_xl_2e6932afcfd807511b3662d73086ca44b91fac2f_8afab60e6994aaed322d7dcbf10f2c7e.jpg"/>
+    <premiere/>
+  </programme>
+  <programme start="20240912204500 +0000" stop="20240912223000 +0000" channel="sportklub2.rs">
+    <title lang="sr">WTA 500 Guadalajara: Garcia - Shibahara</title>
+    <desc lang="sr">Bliži se kraj WTA sezone. Prošle sezone, ovde je bilo veliko finale, sada poslednja šansa da se sakupe bodovi za završni turnir u Teksasu. (LIVE).</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/04/15/11/16/32/stb_xl_2e6932afcfd807511b3662d73086ca44b91fac2f_8afab60e6994aaed322d7dcbf10f2c7e.jpg"/>
     <premiere/>
   </programme>
   <programme start="20240912223000 +0000" stop="20240912230000 +0000" channel="sportklub2.rs">
@@ -28265,7 +28272,7 @@ Tip: Γυρίσματα της ταινίας έγιναν και στην Ελ�
     <icon src="https://images-web.ug-be.cdn.united.cloud/2023/08/02/14/06/56/stb_xl_cdea72dbac3ad3552dada60326352c9c89ceea45_a4c9e229e0ab255ef972a64329bc30c4.jpg"/>
   </programme>
   <programme start="20240912230000 +0000" stop="20240913021000 +0000" channel="sportklub2.rs">
-    <title lang="sr">Tenis - Davis Cup: Australia - Czechia</title>
+    <title lang="sr">Tenis - Davis Cup (Valencia): Australia - Czechia</title>
     <desc lang="sr">Dejvis Kup je elitno ekipno takmičenje za tenisere. Svake godine 16 najboljih reprezentacija sveta kreće u trku za osvajanje popularne Salatare.</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2022/11/18/00/08/35/stb_xl_ef32142f6f1658420e988f2e6c9f0ddbb9c2c64d_964519b42aca500e27626e7518e593fc.jpg"/>
@@ -28905,30 +28912,33 @@ Tip: Γυρίσματα της ταινίας έγιναν και στην Ελ�
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/30/stb_xl_159533a6c3c3c1b39d1d8f69881f2f255f318703.jpg"/>
   </programme>
-  <programme start="20240912150000 +0000" stop="20240912190000 +0000" channel="sportklub5.rs">
-    <title lang="sr">WTA 250 Monastir</title>
+  <programme start="20240912150000 +0000" stop="20240912170000 +0000" channel="sportklub5.rs">
+    <title lang="sr">WTA 250 Monastir: Bronzetti - Li</title>
     <desc lang="sr">Ons Žaber je podigla tenis u Tunisu na neki sasvim novi nivo. Publika će sigurno u velikom broju doći da pozdravi svoju šampionku. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/04/15/11/16/32/stb_xl_78e2b5c4bfe16d452d2f02d463333eab238ff5d2_6ef5783be691e3d24ea7b27a71e0662e.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/04/15/11/16/32/stb_xl_2e6932afcfd807511b3662d73086ca44b91fac2f_8afab60e6994aaed322d7dcbf10f2c7e.jpg"/>
     <premiere/>
   </programme>
-  <programme start="20240912190000 +0000" stop="20240912200000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 5 Promo 2</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+  <programme start="20240912170000 +0000" stop="20240912183000 +0000" channel="sportklub5.rs">
+    <title lang="sr">WTA 250 Monastir: (dublovi) 1/4 Finale: Falei/Pridankina - Bolkvadze/Lamens</title>
+    <desc lang="sr">Ons Žaber je podigla tenis u Tunisu na neki sasvim novi nivo. Publika će sigurno u velikom broju doći da pozdravi svoju šampionku. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/22/stb_xl_52221dbdd54aac1b5b931a4e69f8a7e83f8e9e6f.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/04/15/11/16/32/stb_xl_2e6932afcfd807511b3662d73086ca44b91fac2f_8afab60e6994aaed322d7dcbf10f2c7e.jpg"/>
+    <premiere/>
   </programme>
-  <programme start="20240912200000 +0000" stop="20240912210000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 5 Promo 3</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+  <programme start="20240912183000 +0000" stop="20240912200000 +0000" channel="sportklub5.rs">
+    <title lang="sr">WTA 250 Monastir: (dublovi) 1/4 Finale: Bronzetti/Burrage - Blinkova/Sherif</title>
+    <desc lang="sr">Ons Žaber je podigla tenis u Tunisu na neki sasvim novi nivo. Publika će sigurno u velikom broju doći da pozdravi svoju šampionku. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/28/stb_xl_1302248bb306efbba31a696f54044b628ec22a53.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/04/15/11/16/32/stb_xl_2e6932afcfd807511b3662d73086ca44b91fac2f_8afab60e6994aaed322d7dcbf10f2c7e.jpg"/>
+    <premiere/>
   </programme>
-  <programme start="20240912210000 +0000" stop="20240912220000 +0000" channel="sportklub5.rs">
-    <title lang="sr">Sport Klub 5 Promo 4</title>
-    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+  <programme start="20240912200000 +0000" stop="20240912220000 +0000" channel="sportklub5.rs">
+    <title lang="sr">WTA 500 Guadalajara: (dublovi) 1/4 Finale: Sharan/Silva - Aney/Papadakis</title>
+    <desc lang="sr">Bliži se kraj WTA sezone. Prošle sezone, ovde je bilo veliko finale, sada poslednja šansa da se sakupe bodovi za završni turnir u Teksasu. (LIVE).</desc>
     <category lang="sr">Sports</category>
-    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/05/45/25/stb_xl_331b3a6f7a47a0dacfb0f8118ee4a710451d6561.jpg"/>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2024/04/15/11/16/32/stb_xl_2e6932afcfd807511b3662d73086ca44b91fac2f_8afab60e6994aaed322d7dcbf10f2c7e.jpg"/>
+    <premiere/>
   </programme>
   <programme start="20240912220000 +0000" stop="20240912230000 +0000" channel="sportklub5.rs">
     <title lang="sr">Sport Klub 5 Promo 1</title>
@@ -29142,12 +29152,18 @@ Tip: Γυρίσματα της ταινίας έγιναν και στην Ελ�
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/48/stb_xl_0bb27540b210ed55abf0edda825a14aa6077dd08.jpg"/>
   </programme>
-  <programme start="20240912150000 +0000" stop="20240912183000 +0000" channel="sportklub6.rs">
-    <title lang="sr">WTA 250 Monastir: (dublovi)</title>
+  <programme start="20240912150000 +0000" stop="20240912170000 +0000" channel="sportklub6.rs">
+    <title lang="sr">WTA 250 Monastir: (dublovi) 1/4 Finale: Ibbou/Karamoko - Korneeva/Zakharova</title>
     <desc lang="sr">Ons Žaber je podigla tenis u Tunisu na neki sasvim novi nivo. Publika će sigurno u velikom broju doći da pozdravi svoju šampionku. (LIVE).</desc>
     <category lang="sr">Sports</category>
     <icon src="https://images-web.ug-be.cdn.united.cloud/2024/04/15/11/16/32/stb_xl_2e6932afcfd807511b3662d73086ca44b91fac2f_8afab60e6994aaed322d7dcbf10f2c7e.jpg"/>
     <premiere/>
+  </programme>
+  <programme start="20240912170000 +0000" stop="20240912183000 +0000" channel="sportklub6.rs">
+    <title lang="sr">Sport Klub 6 Promo 4</title>
+    <desc lang="sr">Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+    <category lang="sr">Sports</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/2021/02/18/16/42/46/stb_xl_69218669d330066f5ddd0848183b868fcf8f163c.jpg"/>
   </programme>
   <programme start="20240912183000 +0000" stop="20240912190000 +0000" channel="sportklub6.rs">
     <title lang="sr">Sport Klub 6 Promo 1</title>
