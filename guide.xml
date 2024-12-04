@@ -560,19 +560,12 @@
     <icon src="https://cdn.images.simply.tv/15842567921118948164?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S35 E13</episode-num>
   </programme>
-  <programme start="20241204151000 +0000" stop="20241204165000 +0000" channel="svt1.se">
+  <programme start="20241204151000 +0000" stop="20241204170000 +0000" channel="svt1.se">
     <title lang="sv">Skidskytte: Världscupen</title>
     <desc lang="sv">Världscupen i skidskytte från finska Kontiolax. På programmet står 12,5 km individuell start för damerna.Kommentatorer: Ola Bränholm och Björn Ferry.</desc>
     <category lang="sv">Sport</category>
-    <icon src="https://cdn.images.simply.tv/11449585596266187801?aspect_ratio=16:9"/>
+    <icon src="https://cdn.images.simply.tv/3318820741451469212?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S45 E6</episode-num>
-  </programme>
-  <programme start="20241204165000 +0000" stop="20241204170000 +0000" channel="svt1.se">
-    <title lang="sv">Fjällvinter i väglöst land</title>
-    <desc lang="sv">Följ med Per-Anders Fredriksson på tur med långfärdsskridskor på en sjö vid foten av Kebnekaise.</desc>
-    <category lang="sv">Entertainment</category>
-    <icon src="https://cdn.images.simply.tv/15008031223643129799?aspect_ratio=16:9"/>
-    <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
   <programme start="20241204170000 +0000" stop="20241204171700 +0000" channel="svt1.se">
     <title lang="sv">Rapport</title>
@@ -713,19 +706,12 @@
     <icon src="https://cdn.images.simply.tv/4285235038828075452?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S7 E2</episode-num>
   </programme>
-  <programme start="20241205042000 +0000" stop="20241205050000 +0000" channel="svt1.se">
+  <programme start="20241205042000 +0000" stop="20241205061500 +0000" channel="svt1.se">
     <title lang="sv">Italien med Stanley Tucci</title>
     <desc lang="sv">Stanley upptäcker området som ibland kallas Italiens gröna hjärta, där skogens resurser präglat Umbriens unika kök.</desc>
     <category lang="sv">Other</category>
     <icon src="https://cdn.images.simply.tv/15195463850778821001?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S2 E2</episode-num>
-  </programme>
-  <programme start="20241205050000 +0000" stop="20241205061500 +0000" channel="svt1.se">
-    <title lang="sv">Morgonstudion</title>
-    <desc lang="sv">Dagens viktigaste nyheter och analyser med täta uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive väder, sport, kultur.</desc>
-    <category lang="sv">News</category>
-    <icon src="https://cdn.images.simply.tv/16206149985309462761?aspect_ratio=16:9"/>
-    <episode-num system="onscreen">E243</episode-num>
   </programme>
   <programme start="20241205061500 +0000" stop="20241205062900 +0000" channel="svt1.se">
     <title lang="sv">Julkalendern: Snödrömmar</title>
@@ -1173,22 +1159,22 @@
     <icon src="https://cdn.images.simply.tv/15455352129734962576?aspect_ratio=16:9"/>
     <episode-num system="onscreen">E242</episode-num>
   </programme>
-  <programme start="20241205010000 +0000" stop="20241205050000 +0000" channel="svt2.se">
-    <title lang="sv">Sändningsuppehåll</title>
-    <desc lang="sv">Sändningsuppehåll.</desc>
-    <category lang="sv">News</category>
-  </programme>
-  <programme start="20241205050000 +0000" stop="20241205073000 +0000" channel="svt2.se">
-    <title lang="sv">Sändningsuppehåll</title>
-    <desc lang="sv">Sändningsuppehåll.</desc>
-    <category lang="sv">Other</category>
-  </programme>
-  <programme start="20241205073000 +0000" stop="20241205074500 +0000" channel="svt2.se">
+  <programme start="20241205010000 +0000" stop="20241205013000 +0000" channel="svt2.se">
     <title lang="sv">Utrikesbyrån</title>
     <desc lang="sv">Det du egentligen vill veta om världen. Programledare Rebecca Randhawa med gäster djupdyker i veckans mest fascinerande världshändelse.</desc>
     <category lang="sv">News</category>
-    <icon src="https://cdn.images.simply.tv/1869495406729521549?aspect_ratio=16:9"/>
+    <icon src="https://cdn.images.simply.tv/12696521613403125348?aspect_ratio=16:9"/>
     <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20241205013000 +0000" stop="20241205050000 +0000" channel="svt2.se">
+    <title lang="sv">Sändningsuppehåll</title>
+    <desc lang="sv">Sändningsuppehåll.</desc>
+    <category lang="sv">News</category>
+  </programme>
+  <programme start="20241205050000 +0000" stop="20241205074500 +0000" channel="svt2.se">
+    <title lang="sv">Sändningsuppehåll</title>
+    <desc lang="sv">Sändningsuppehåll.</desc>
+    <category lang="sv">Other</category>
   </programme>
   <programme start="20241205074500 +0000" stop="20241205080000 +0000" channel="svt2.se">
     <title lang="sv">15 minuter på teckenspråk</title>
@@ -2073,25 +2059,25 @@
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/2025304032370335286?aspect_ratio=16:9"/>
   </programme>
-  <programme start="20241204040000 +0000" stop="20241204050000 +0000" channel="kanal5.se">
+  <programme start="20241204040000 +0000" stop="20241204050022 +0000" channel="kanal5.se">
     <title lang="sv">Alla mot alla med Filip och Fredrik</title>
     <desc lang="sv">Linnéa Wikblad och Henrik Torehammar möter Tobias Blom och Erica Johansson i en gruppavgörande drabbning.</desc>
     <category lang="sv">Entertainment</category>
     <icon src="https://cdn.images.simply.tv/11926478028448086985?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S9 E28</episode-num>
   </programme>
-  <programme start="20241204050000 +0000" stop="20241204051000 +0000" channel="kanal5.se">
+  <programme start="20241204050022 +0000" stop="20241204051059 +0000" channel="kanal5.se">
     <title lang="sv">Parterapi</title>
     <desc lang="sv">Peter vädrar sitt missnöje med att Casper tillbringar mer tid med kändisar än med sin dotter.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/1726211865?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20241204051000 +0000" stop="20241204053000 +0000" channel="kanal5.se">
+  <programme start="20241204051059 +0000" stop="20241204053000 +0000" channel="kanal5.se">
     <title lang="sv">House Hunters International</title>
     <desc lang="sv">Från Danmark till Dominikanska republiken.</desc>
     <category lang="sv">Entertainment</category>
-    <icon src="https://cdn.images.simply.tv/8681957658605033831?aspect_ratio=16:9"/>
+    <icon src="https://cdn.images.simply.tv/11119212320714076604?aspect_ratio=16:9"/>
     <episode-num system="onscreen">E7</episode-num>
   </programme>
   <programme start="20241204053000 +0000" stop="20241204055500 +0000" channel="kanal5.se">
@@ -3434,21 +3420,21 @@
     <icon src="https://cdn.images.simply.tv/4704630175652613333?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S7 E1</episode-num>
   </programme>
-  <programme start="20241204040000 +0000" stop="20241204050000 +0000" channel="kanal9.se">
+  <programme start="20241204040000 +0000" stop="20241204050038 +0000" channel="kanal9.se">
     <title lang="sv">Deadliest Catch</title>
     <desc lang="sv">Alaskas krabbfiskare har ett av världens farligaste yrken. De tar sig fram på Berings havs lömska vatten i sökandet efter värdefulla kungskrabbor.</desc>
     <category lang="sv">Entertainment</category>
     <icon src="https://cdn.images.simply.tv/14191752052240227363?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S16 E11</episode-num>
   </programme>
-  <programme start="20241204050000 +0000" stop="20241204051500 +0000" channel="kanal9.se">
+  <programme start="20241204050038 +0000" stop="20241204051602 +0000" channel="kanal9.se">
     <title lang="sv">Gärdsgårdsserien</title>
     <desc lang="sv">Forshaga Ultras två enda medlemmar är bästa vännerna Christian och Emil. Supportföreningens framtid hotas när vänskapen sätts på prov.</desc>
     <category lang="sv">Sport</category>
     <icon src="https://cdn.images.simply.tv/10046459187381792046?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  <programme start="20241204051500 +0000" stop="20241204054000 +0000" channel="kanal9.se">
+  <programme start="20241204051602 +0000" stop="20241204054000 +0000" channel="kanal9.se">
     <title lang="sv">Diners, Drive-ins and Dives</title>
     <desc lang="sv">Programledaren Guy Fieri ger sig ut på vägarna för att besöka USA:s favoritmatställen.</desc>
     <category lang="sv">Other</category>
@@ -4182,12 +4168,20 @@
     <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2022/09/04/631408ec823d4.jpg"/>
     <episode-num system="onscreen">S14 E27</episode-num>
   </programme>
-  <programme start="20241205190000 +0000" stop="20241205210500 +0000" channel="tv10.se">
+  <programme start="20241205190000 +0000" stop="20241205192500 +0000" channel="tv10.se">
     <title lang="sv">Storage Wars</title>
     <desc lang="sv">Köparna är nöjda med auktionsförrättarens fru, som har tagit över auktionerna, eftersom hennes man är för sjuk för att arbeta.</desc>
     <category lang="sv">Series</category>
-    <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2024/09/28/66f77b795bfa8.jpg"/>
+    <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2019/03/29/5c9d8260b1f1f.jpg"/>
     <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20241205192500 +0000" stop="20241205210500 +0000" channel="tv10.se">
+    <title lang="sv">Handbolls-EM (D): Ungern-Montenegro</title>
+    <desc lang="sv">Huvudrunda. Från Főnix Aréna, Debrecen. Kommentatorer: Anders Bjuhr &amp; Martin Frändesjö. (5/12-24).</desc>
+    <category lang="sv">Sport</category>
+    <category lang="sv">Live Sport</category>
+    <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2024/10/16/670f6287e0d70.jpg"/>
+    <episode-num system="onscreen">E24</episode-num>
   </programme>
   <programme start="20241205210500 +0000" stop="20241205220000 +0000" channel="tv10.se">
     <title lang="sv">The Curse of Oak Island</title>
@@ -4259,21 +4253,21 @@
     <icon src="https://cdn.images.simply.tv/15755679832251534908?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E11</episode-num>
   </programme>
-  <programme start="20241204043000 +0000" stop="20241204050000 +0000" channel="kanal11.se">
+  <programme start="20241204043000 +0000" stop="20241204050030 +0000" channel="kanal11.se">
     <title lang="sv">Beach Hunters</title>
     <desc lang="sv">Köpare som vill hitta det perfekta strandnära läget får hjälp av mäklare att hitta sitt drömhus vid havet.</desc>
     <category lang="sv">Entertainment</category>
     <icon src="https://cdn.images.simply.tv/15755679832251534908?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E12</episode-num>
   </programme>
-  <programme start="20241204050000 +0000" stop="20241204051000 +0000" channel="kanal11.se">
+  <programme start="20241204050030 +0000" stop="20241204051306 +0000" channel="kanal11.se">
     <title lang="sv">Parterapi</title>
     <desc lang="sv">Oj, så kul att vara förälder! Och oj, så jobbigt. Vi får se Christine Meltzer i tolv olika roller.</desc>
     <category lang="sv">Series</category>
     <icon src="https://cdn.images.simply.tv/1726211865?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20241204051000 +0000" stop="20241204053000 +0000" channel="kanal11.se">
+  <programme start="20241204051306 +0000" stop="20241204053000 +0000" channel="kanal11.se">
     <title lang="sv">First Time Flippers</title>
     <desc lang="sv">Nybörjare på husmarknaden tar sig an sitt första husprojekt. De ska renovera ett fallfärdigt hus och sedan sälja det med god vinst.</desc>
     <category lang="sv">Entertainment</category>
@@ -4683,14 +4677,14 @@
     <icon src="https://cdn.images.simply.tv/15146694078560680900?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S9 E16</episode-num>
   </programme>
-  <programme start="20241204040000 +0000" stop="20241204050000 +0000" channel="tv12.se">
+  <programme start="20241204040000 +0000" stop="20241204050036 +0000" channel="tv12.se">
     <title lang="sv">Stjärnkusken</title>
     <desc lang="sv">Deltagarnas kunskaper om hästarna sätts på prov.</desc>
     <category lang="sv">Entertainment</category>
     <icon src="https://cdn.images.simply.tv/16043250522030189766?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20241204050000 +0000" stop="20241204060000 +0000" channel="tv12.se">
+  <programme start="20241204050036 +0000" stop="20241204060000 +0000" channel="tv12.se">
     <title lang="sv">112 - på liv och död</title>
     <desc lang="sv">En man har drabbats av hjärtstopp på ett tåg.</desc>
     <category lang="sv">Other</category>
@@ -8364,33 +8358,35 @@
     <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2024/11/14/6735c6cb0b06c.jpg"/>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20241204163000 +0000" stop="20241204173000 +0000" channel="viasatsportvinter.se">
-    <title lang="sv">NHL On The Fly</title>
-    <desc lang="sv">Studioprogram med analyser och highlights från den gångna nattens matcher i NHL.</desc>
-    <category lang="sv">Sport</category>
-    <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2016/10/13/57ff9f5728ec3.jpg"/>
-  </programme>
-  <programme start="20241204173000 +0000" stop="20241204193000 +0000" channel="viasatsportvinter.se">
+  <programme start="20241204163000 +0000" stop="20241204184500 +0000" channel="viasatsportvinter.se">
     <title lang="sv">CHL: Salzburg-Färjestad</title>
     <desc lang="sv">Kvartsfinal 1:2. Från Eisarena Salzburg, Salzburg. (3/12-24).</desc>
     <category lang="sv">Sport</category>
     <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2024/11/22/6740cd8029de2.jpg"/>
     <episode-num system="onscreen">E26</episode-num>
   </programme>
-  <programme start="20241204193000 +0000" stop="20241204213000 +0000" channel="viasatsportvinter.se">
+  <programme start="20241204184500 +0000" stop="20241204194500 +0000" channel="viasatsportvinter.se">
+    <title lang="sv">4 Nations Faceoff: Trupperna presenteras</title>
+    <desc lang="sv">Trupperna presenteras inför 4 Nations Faceoff 2025 med Niklas Jihde, Jacob Josefson &amp; Mattias Norström.</desc>
+    <category lang="sv">Sport</category>
+    <category lang="sv">Live Sport</category>
+    <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2024/12/03/674f2380991e7.jpg"/>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20241204194500 +0000" stop="20241204213500 +0000" channel="viasatsportvinter.se">
     <title lang="sv">CHL: Sparta Prag-Växjö Lakers</title>
     <desc lang="sv">Kvartsfinal 1:2. Från O2 Arena, Prag. (3/12-24).</desc>
     <category lang="sv">Sport</category>
     <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2024/11/22/6740ccadd4fe6.jpg"/>
     <episode-num system="onscreen">E25</episode-num>
   </programme>
-  <programme start="20241204213000 +0000" stop="20241204223000 +0000" channel="viasatsportvinter.se">
+  <programme start="20241204213500 +0000" stop="20241204223500 +0000" channel="viasatsportvinter.se">
     <title lang="sv">NHL On The Fly</title>
     <desc lang="sv">Studioprogram med analyser och highlights från den gångna nattens matcher i NHL.</desc>
     <category lang="sv">Sport</category>
     <icon src="https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2016/10/13/57ff9f5728ec3.jpg"/>
   </programme>
-  <programme start="20241204223000 +0000" stop="20241205003500 +0000" channel="viasatsportvinter.se">
+  <programme start="20241204223500 +0000" stop="20241205003500 +0000" channel="viasatsportvinter.se">
     <title lang="sv">NHL: Vegas Golden Knights-Edmonton Oilers</title>
     <desc lang="sv">Från T-Mobile Arena, Las Vegas. (3/12-24).</desc>
     <category lang="sv">Sport</category>
@@ -8732,12 +8728,18 @@
     <icon src="https://cdn.images.simply.tv/3696428999920289999?aspect_ratio=16:9"/>
     <episode-num system="onscreen">E26</episode-num>
   </programme>
-  <programme start="20241204140000 +0000" stop="20241204165000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20241204140000 +0000" stop="20241204164000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">NBA</title>
     <desc lang="sv">Basket från Ball Arena där Denver Nuggets ställs mot Golden State Warriors i  gruppspelet i NBA Cup. Engelsk kommentering.</desc>
     <category lang="sv">Sport</category>
     <icon src="https://cdn.images.simply.tv/5395653436055669193?aspect_ratio=16:9"/>
     <episode-num system="onscreen">E48</episode-num>
+  </programme>
+  <programme start="20241204164000 +0000" stop="20241204165000 +0000" channel="tv4sportkanalen.se">
+    <title lang="sv">Höjdpunkter</title>
+    <desc lang="sv">Höjdpunkter från bland annat SHL, La Liga och UEFA Champions League.</desc>
+    <category lang="sv">Sport</category>
+    <icon src="https://cdn.images.simply.tv/13603235278250906542?aspect_ratio=16:9"/>
   </programme>
   <programme start="20241204165000 +0000" stop="20241204173000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">LaLiga Talking Football</title>
@@ -8780,25 +8782,31 @@
     <episode-num system="onscreen">E14</episode-num>
   </programme>
   <programme start="20241204213000 +0000" stop="20241204223000 +0000" channel="tv4sportkanalen.se">
-    <title lang="sv">WRC History: Down to the Wire</title>
-    <desc lang="sv">Se några av de mest minnesvärda ögonblicken i Rally-VM:s historia.</desc>
+    <title lang="sv">ATP - Tournament Review Show</title>
+    <desc lang="sv">ATP Tour-säsongen 2024 sammanfattas med de hetaste höjdpunkterna från året som gått.</desc>
     <category lang="sv">Sport</category>
-    <icon src="https://cdn.images.simply.tv/6506409987056440246?aspect_ratio=16:9"/>
-    <episode-num system="onscreen">E4</episode-num>
+    <icon src="https://cdn.images.simply.tv/16354992692022276724?aspect_ratio=16:9"/>
+    <episode-num system="onscreen">E24</episode-num>
   </programme>
-  <programme start="20241204223000 +0000" stop="20241204233000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20241204223000 +0000" stop="20241204233500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">LaLiga Highlights</title>
     <desc lang="sv">Höjdpunkter från den senaste omgången av LaLiga.</desc>
     <category lang="sv">Sport</category>
-    <icon src="https://cdn.images.simply.tv/2909807878351500907?aspect_ratio=16:9"/>
+    <icon src="https://cdn.images.simply.tv/7335690424814582576?aspect_ratio=16:9"/>
     <episode-num system="onscreen">E13</episode-num>
   </programme>
-  <programme start="20241204233000 +0000" stop="20241205003000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20241204233500 +0000" stop="20241205000500 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">LaLiga World</title>
     <desc lang="sv">Fotbollsmagasin som ger en unik inblick hos klubbarna och spelarna i LaLiga. Med exklusiva intervjuer och inslag.</desc>
     <category lang="sv">Sport</category>
-    <icon src="https://cdn.images.simply.tv/2034751558798080930?aspect_ratio=16:9"/>
+    <icon src="https://cdn.images.simply.tv/12013024714409955478?aspect_ratio=16:9"/>
     <episode-num system="onscreen">E17</episode-num>
+  </programme>
+  <programme start="20241205000500 +0000" stop="20241205003000 +0000" channel="tv4sportkanalen.se">
+    <title lang="sv">Höjdpunkter</title>
+    <desc lang="sv">Höjdpunkter från bland annat SHL, La Liga och UEFA Champions League.</desc>
+    <category lang="sv">Sport</category>
+    <icon src="https://cdn.images.simply.tv/13603235278250906542?aspect_ratio=16:9"/>
   </programme>
   <programme start="20241205003000 +0000" stop="20241205030000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">NBA</title>
@@ -8807,12 +8815,13 @@
     <icon src="https://cdn.images.simply.tv/11939588689974438246?aspect_ratio=16:9"/>
     <episode-num system="onscreen">E49</episode-num>
   </programme>
-  <programme start="20241205030000 +0000" stop="20241205040500 +0000" channel="tv4sportkanalen.se">
-    <title lang="sv">Sändningsuppehåll</title>
-    <desc lang="sv">Sändningsuppehåll.</desc>
+  <programme start="20241205030000 +0000" stop="20241205040000 +0000" channel="tv4sportkanalen.se">
+    <title lang="sv">Höjdpunkter</title>
+    <desc lang="sv">Höjdpunkter från bland annat SHL, La Liga och UEFA Champions League.</desc>
     <category lang="sv">Sport</category>
+    <icon src="https://cdn.images.simply.tv/13603235278250906542?aspect_ratio=16:9"/>
   </programme>
-  <programme start="20241205040500 +0000" stop="20241205110000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20241205040000 +0000" stop="20241205110000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Höjdpunkter</title>
     <desc lang="sv">Höjdpunkter från bland annat SHL, La Liga och UEFA Champions League.</desc>
     <category lang="sv">Sport</category>
@@ -8833,11 +8842,11 @@
     <episode-num system="onscreen">E17</episode-num>
   </programme>
   <programme start="20241205120000 +0000" stop="20241205130000 +0000" channel="tv4sportkanalen.se">
-    <title lang="sv">Fiskedestination</title>
-    <desc lang="sv">Säsongspremiär. Johan besöker återigen Höga Kusten-området.</desc>
+    <title lang="sv">ATP - Tournament Review Show</title>
+    <desc lang="sv">ATP Tour-säsongen 2024 sammanfattas med de hetaste höjdpunkterna från året som gått.</desc>
     <category lang="sv">Sport</category>
-    <icon src="https://cdn.images.simply.tv/13423933536147846292?aspect_ratio=16:9"/>
-    <episode-num system="onscreen">E1</episode-num>
+    <icon src="https://cdn.images.simply.tv/6855952645485250249?aspect_ratio=16:9"/>
+    <episode-num system="onscreen">E24</episode-num>
   </programme>
   <programme start="20241205130000 +0000" stop="20241205132000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">Drömmen om Paralympics</title>
@@ -8853,12 +8862,18 @@
     <icon src="https://cdn.images.simply.tv/3961656146091398331?aspect_ratio=16:9"/>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20241205135000 +0000" stop="20241205143000 +0000" channel="tv4sportkanalen.se">
+  <programme start="20241205135000 +0000" stop="20241205142000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">LaLiga Talking Football</title>
     <desc lang="sv">Fotbollsmagasin från LaLiga.</desc>
     <category lang="sv">Sport</category>
-    <icon src="https://cdn.images.simply.tv/10507407896035258144?aspect_ratio=16:9"/>
+    <icon src="https://cdn.images.simply.tv/10834617521868317908?aspect_ratio=16:9"/>
     <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20241205142000 +0000" stop="20241205143000 +0000" channel="tv4sportkanalen.se">
+    <title lang="sv">Höjdpunkter</title>
+    <desc lang="sv">Höjdpunkter från bland annat SHL, La Liga och UEFA Champions League.</desc>
+    <category lang="sv">Sport</category>
+    <icon src="https://cdn.images.simply.tv/13603235278250906542?aspect_ratio=16:9"/>
   </programme>
   <programme start="20241205143000 +0000" stop="20241205171000 +0000" channel="tv4sportkanalen.se">
     <title lang="sv">NBA</title>
@@ -8915,7 +8930,7 @@
     <episode-num system="onscreen">E7</episode-num>
   </programme>
   <programme start="20241205220000 +0000" stop="20241205223000 +0000" channel="tv4sportkanalen.se">
-    <title lang="sv">NFL</title>
+    <title lang="sv">NFL Gameday Morning</title>
     <desc lang="sv">Höjdpunktsmagasin från NFL.</desc>
     <category lang="sv">Sport</category>
     <icon src="https://cdn.images.simply.tv/17887380628938214280?aspect_ratio=16:9"/>
@@ -17089,16 +17104,6 @@
     <desc lang="el">Socca World Cup Oman 2024. Φάση Ομίλων. Παρακολουθήστε τους αγώνες του Socca World Cup 2024. Περιγραφή: Παύλος Παλαιστής.</desc>
     <icon src="https://www.ishow.gr/images/channelIcons/dark/132.png"/>
   </programme>
-  <programme start="20241204160000 +0200" stop="20241204170000 +0200" channel="cosmotesport8.gr">
-    <title lang="el">Ποδόσφαιρο: Αϊτή - Γαλλία</title>
-    <desc lang="el">Socca World Cup Oman 2024. Φάση Ομίλων. Παρακολουθήστε τους αγώνες του Socca World Cup 2024. Περιγραφή: Παύλος Παλαιστής.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/132.png"/>
-  </programme>
-  <programme start="20241204160000 +0200" stop="20241204170000 +0200" channel="cosmotesport8.gr">
-    <title lang="el">Ποδόσφαιρο: Γερμανία - Σερβία</title>
-    <desc lang="el">Socca World Cup Oman 2024. Φάση Ομίλων. Παρακολουθήστε τους αγώνες του Socca World Cup 2024. Περιγραφή: Παύλος Παλαιστής.</desc>
-    <icon src="https://www.ishow.gr/images/channelIcons/dark/132.png"/>
-  </programme>
   <programme start="20241204010000 +0200" stop="20241204030000 +0200" channel="novasports1.gr">
     <title lang="el">Λας Πάλμας - Μαγιόρκα : Ισπανικό Πρωτάθλημα Ποδοσφαίρου</title>
     <desc lang="el">Ισπανικό Πρωτάθλημα Ποδοσφαίρου.</desc>
@@ -23809,20 +23814,28 @@
     <desc lang="bs">GRČKI KUP.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20241205180000 +0100" stop="20241205203000 +0100" channel="arenasport1.rs">
+  <programme start="20241205180000 +0100" stop="20241205200000 +0100" channel="arenasport1.rs">
     <title lang="bs">Uživo: Olympiacos - Fenerbahce</title>
     <desc lang="bs">LIGA ŠAMPIONA.</desc>
     <category lang="bs">Odbojka</category>
+  </programme>
+  <programme start="20241205200000 +0100" stop="20241205203000 +0100" channel="arenasport1.rs">
+    <title lang="bs">Moja Arena</title>
   </programme>
   <programme start="20241205203000 +0100" stop="20241205223000 +0100" channel="arenasport1.rs">
     <title lang="bs">Uživo: Anderlecht - Westerlo</title>
     <desc lang="bs">BELGIJSKI KUP.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20241205223000 +0100" stop="20241205233000 +0100" channel="arenasport1.rs">
+  <programme start="20241205223000 +0100" stop="20241205230000 +0100" channel="arenasport1.rs">
     <title lang="bs">One žive za fudbal - ep. 35</title>
   </programme>
-  <programme start="20241205233000 +0100" stop="20241206013000 +0100" channel="arenasport1.rs">
+  <programme start="20241205230000 +0100" stop="20241205234500 +0100" channel="arenasport1.rs">
+    <title lang="bs">Pregled kola</title>
+    <desc lang="bs">BELGIJSKA LIGA.</desc>
+    <category lang="bs">Fudbal</category>
+  </programme>
+  <programme start="20241205234500 +0100" stop="20241206014500 +0100" channel="arenasport1.rs">
     <title lang="bs">Man. City - Nottingham Forest</title>
     <desc lang="bs">ENGLESKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
@@ -24003,10 +24016,13 @@
     <desc lang="bs">RUSKA LIGA.</desc>
     <category lang="bs">Fudbal</category>
   </programme>
-  <programme start="20241204160000 +0100" stop="20241204180000 +0100" channel="arenasport3.rs">
-    <title lang="bs">Dynamo Krasnodar - Dynamo M.</title>
+  <programme start="20241204160000 +0100" stop="20241204173000 +0100" channel="arenasport3.rs">
+    <title lang="bs">Dinamo Kazan - Proton</title>
     <desc lang="bs">RUSKA LIGA Ž.</desc>
     <category lang="bs">Odbojka</category>
+  </programme>
+  <programme start="20241204173000 +0100" stop="20241204180000 +0100" channel="arenasport3.rs">
+    <title lang="bs">Zona zdravog sporta</title>
   </programme>
   <programme start="20241204180000 +0100" stop="20241204200000 +0100" channel="arenasport3.rs">
     <title lang="bs">Uživo: Koln - Hertha</title>
@@ -24051,7 +24067,7 @@
     <title lang="bs">Padel u Srbiji, ep. 4</title>
   </programme>
   <programme start="20241205083000 +0100" stop="20241205101500 +0100" channel="arenasport3.rs">
-    <title lang="bs">Dynamo Krasnodar - Dynamo M.</title>
+    <title lang="bs">Dinamo Kazan - Proton</title>
     <desc lang="bs">RUSKA LIGA Ž.</desc>
     <category lang="bs">Odbojka</category>
   </programme>
